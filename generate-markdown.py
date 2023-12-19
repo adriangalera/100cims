@@ -34,33 +34,28 @@ def load_fets():
     return fets
 
 
-def markdown_style(cims, fets):
+def cims_fets(cims, fets):
     cims_name_lower = [c["name"].lower() for c in cims]
     fets_lower = [f.lower() for f in fets]
-    row_styles = []
+    fets = []
     for fet in fets_lower:
         index = cims_name_lower.index(fet)
-        row_styles.append(
-            ".cims tr:nth-child("+str(index+1)+") { background: green; }")
-    return "\n".join(row_styles)
+        fets.append(cims[index]["name"])
+    return fets
 
 
 def markdown(cims, fets):
     cims = sorted(cims, key=lambda x: x["name"])
-    style = markdown_style(cims, fets)
+    fets = cims_fets(cims, fets)
     markdown_template = f"""
 # 100cims
 https://www.feec.cat/activitats/100-cims/
 
-<style>
-{style}
-</style>
-
 ## Listat
 <div class="cims">
 
-| Cim | Area | Alçària |
-| --- | -----| ------- |
+| Cim | Area | Alçària | Fet |
+| --- | -----| ------- | --- |
 """
 
     with open("README.md", 'w') as readme_fd:
@@ -71,7 +66,10 @@ https://www.feec.cat/activitats/100-cims/
             name_with_link = f"[{name}]({link})"
             area = cim["area"]
             alt = cim["height"]
-            readme_fd.write(f"| {name_with_link} | {area} | {alt}|\n")
+            fet = ""
+            if name in fets:
+                fet = ":white_check_mark:"
+            readme_fd.write(f"| {name_with_link} | {area} | {alt}| {fet} | \n")
         readme_fd.write("</div>")
 
 
