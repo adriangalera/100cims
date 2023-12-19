@@ -1,2 +1,2 @@
 # 100cims
-FEEC 100 comms
+https://www.feec.cat/activitats/100-cims/
