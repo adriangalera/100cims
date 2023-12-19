@@ -2,52 +2,13 @@
 # 100cims
 https://www.feec.cat/activitats/100-cims/
 
-<style>
-.cims tr:nth-child(4) { background: green; }
-.cims tr:nth-child(6) { background: green; }
-.cims tr:nth-child(13) { background: green; }
-.cims tr:nth-child(21) { background: green; }
-.cims tr:nth-child(36) { background: green; }
-.cims tr:nth-child(45) { background: green; }
-.cims tr:nth-child(86) { background: green; }
-.cims tr:nth-child(87) { background: green; }
-.cims tr:nth-child(91) { background: green; }
-.cims tr:nth-child(93) { background: green; }
-.cims tr:nth-child(105) { background: green; }
-.cims tr:nth-child(132) { background: green; }
-.cims tr:nth-child(153) { background: green; }
-.cims tr:nth-child(158) { background: green; }
-.cims tr:nth-child(162) { background: green; }
-.cims tr:nth-child(173) { background: green; }
-.cims tr:nth-child(180) { background: green; }
-.cims tr:nth-child(206) { background: green; }
-.cims tr:nth-child(192) { background: green; }
-.cims tr:nth-child(202) { background: green; }
-.cims tr:nth-child(215) { background: green; }
-.cims tr:nth-child(220) { background: green; }
-.cims tr:nth-child(223) { background: green; }
-.cims tr:nth-child(227) { background: green; }
-.cims tr:nth-child(283) { background: green; }
-.cims tr:nth-child(284) { background: green; }
-.cims tr:nth-child(303) { background: green; }
-.cims tr:nth-child(304) { background: green; }
-.cims tr:nth-child(325) { background: green; }
-.cims tr:nth-child(354) { background: green; }
-.cims tr:nth-child(362) { background: green; }
-.cims tr:nth-child(375) { background: green; }
-.cims tr:nth-child(397) { background: green; }
-.cims tr:nth-child(420) { background: green; }
-.cims tr:nth-child(456) { background: green; }
-.cims tr:nth-child(495) { background: green; }
-</style>
-
 ## Listat
 <div class="cims">
 
 | Cim | Area | Alçària |
 | --- | -----| ------- |
 | [Alt de Juclar](https://www.feec.cat/activitats/100-cims/cim/alt-de-juclar/) | Andorra | 2588|
-| [Alt de la Capa](https://www.feec.cat/activitats/100-cims/cim/alt-de-la-capa/) | Andorra | 2573|
+| <span style="background:green">[Alt de la Capa](https://www.feec.cat/activitats/100-cims/cim/alt-de-la-capa/)</span> | Andorra | 2573|
 | [Alt del Griu](https://www.feec.cat/activitats/100-cims/cim/alt-del-griu/) | Andorra | 2874|
 | [Balandrau](https://www.feec.cat/activitats/100-cims/cim/balandrau/) | Ripollès | 2585|
 | [Bassegoda](https://www.feec.cat/activitats/100-cims/cim/bassegoda/) | Alt Empordà, Garrotxa | 1373|
