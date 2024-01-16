@@ -246,7 +246,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Pic Del Portarró](https://www.feec.cat/activitats/100-cims/cim/pic-del-portarro/) | Pallars Sobirà | 2734|  | 
 | [Pic Del Vent](https://www.feec.cat/activitats/100-cims/cim/pic-del-vent/) | Vallès Oriental | 816| :white_check_mark: | 
 | [Pic Dels Moros](https://www.feec.cat/activitats/100-cims/cim/pic-dels-moros/) | Cerdanya Nord | 2137|  | 
-| [Pic Dels Pedrons](https://www.feec.cat/activitats/100-cims/cim/pic-dels-pedrons/) | Cerdanya Nord | 2715|  | 
+| [Pic Dels Pedrons](https://www.feec.cat/activitats/100-cims/cim/pic-dels-pedrons/) | Cerdanya Nord | 2715| :white_check_mark: | 
 | [Pic Dels Pessons O Gargantillar](https://www.feec.cat/activitats/100-cims/cim/pic-dels-pessons-o-gargantillar/) | Andorra | 2862|  | 
 | [Pic Negre D'envalira](https://www.feec.cat/activitats/100-cims/cim/pic-negre-denvalira/) | Andorra, Cerdanya Nord | 2822|  | 
 | [Pic Roi](https://www.feec.cat/activitats/100-cims/cim/pic-roi/) | Alta Ribagorça | 2585|  | 
