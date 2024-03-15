@@ -314,7 +314,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Puigpedrós](https://www.feec.cat/activitats/100-cims/cim/puigpedros/) | Cerdanya, Cerdanya Nord | 2915|  | 
 | [Puigsacalm](https://www.feec.cat/activitats/100-cims/cim/puigsacalm/) | Garrotxa | 1514|  | 
 | [Puigsallança](https://www.feec.cat/activitats/100-cims/cim/puigsallanca/) | Garrotxa | 1027|  | 
-| [Puigsoler](https://www.feec.cat/activitats/100-cims/cim/puigsoler/) | Bages | 524|  | 
+| [Puigsoler](https://www.feec.cat/activitats/100-cims/cim/puigsoler/) | Bages | 524| :white_check_mark: | 
 | [Pujoalbo](https://www.feec.cat/activitats/100-cims/cim/pujoalbo/) | Val d'Aran | 2504|  | 
 | [Pujol de la Mata](https://www.feec.cat/activitats/100-cims/cim/pujol-de-la-mata/) | Bages | 770| :white_check_mark: | 
 | [Punta Alta](https://www.feec.cat/activitats/100-cims/cim/punta-alta/) | Alta Ribagorça | 3014|  | 
