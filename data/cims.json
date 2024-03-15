@@ -1,0 +1,4700 @@
+[
+    {
+        "area": "Alt Camp, Conca de Barber\u00e0",
+        "height": "867",
+        "name": "El Tossal Gros",
+        "lat": "41.3753563472",
+        "lng": "1.23938718304",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/el-tossal-gros/",
+        "fet": false
+    },
+    {
+        "area": "Alt Camp, Conca de Barber\u00e0",
+        "height": "786",
+        "name": "La Cogulla",
+        "lat": "41.3488047979",
+        "lng": "1.22482709087",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/la-cogulla/",
+        "fet": false
+    },
+    {
+        "area": "Alt Camp",
+        "height": "963",
+        "name": "Montagut d'Ancosa",
+        "lat": "41.4068776962",
+        "lng": "1.42226158803",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montagut-dancosa/",
+        "fet": false
+    },
+    {
+        "area": "Alt Camp",
+        "height": "524",
+        "name": "Puigcabrer",
+        "lat": "41.3153344091",
+        "lng": "1.19129326727",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puigcabrer/",
+        "fet": false
+    },
+    {
+        "area": "Alt Camp",
+        "height": "387",
+        "name": "Tossa Grossa de Montferri",
+        "lat": "41.2534469696",
+        "lng": "1.37048307675",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossa-grossa-de-montferri/",
+        "fet": false
+    },
+    {
+        "area": "Alt Empord\u00e0, Garrotxa",
+        "height": "1373",
+        "name": "Bassegoda",
+        "lat": "42.3127998427",
+        "lng": "2.63072820832",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/bassegoda/",
+        "fet": false
+    },
+    {
+        "area": "Alt Empord\u00e0",
+        "height": "1057",
+        "name": "Puig de la Gavarra",
+        "lat": "42.3607261639",
+        "lng": "2.69684853147",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-gavarra/",
+        "fet": false
+    },
+    {
+        "area": "Alt Empord\u00e0",
+        "height": "682",
+        "name": "Castell Saverdera",
+        "lat": "42.3199721871",
+        "lng": "3.16782473062",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/castell-saverdera/",
+        "fet": false
+    },
+    {
+        "area": "Alt Empord\u00e0",
+        "height": "1125",
+        "name": "El Mont",
+        "lat": "42.2588459605",
+        "lng": "2.70629661635",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/el-mont/",
+        "fet": false
+    },
+    {
+        "area": "Alt Empord\u00e0, Rossell\u00f3",
+        "height": "994",
+        "name": "Pic de Sallafort",
+        "lat": "42.4734705922",
+        "lng": "3.03804096524",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-sallafort/",
+        "fet": false
+    },
+    {
+        "area": "Alt Empord\u00e0, Garrotxa",
+        "height": "1391",
+        "name": "Puig de les Bruixes",
+        "lat": "42.3244930629",
+        "lng": "2.55549817266",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-les-bruixes/",
+        "fet": false
+    },
+    {
+        "area": "Alt Empord\u00e0",
+        "height": "606",
+        "name": "Puig d'Esquers",
+        "lat": "42.3926797402",
+        "lng": "3.09635933543",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-desquers/",
+        "fet": false
+    },
+    {
+        "area": "Alt Empord\u00e0, Rossell\u00f3",
+        "height": "1257",
+        "name": "Puig Neul\u00f3s",
+        "lat": "42.482101374",
+        "lng": "2.94711007326",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-neulos/",
+        "fet": false
+    },
+    {
+        "area": "Alt Empord\u00e0, Rossell\u00f3",
+        "height": "672",
+        "name": "Querroig",
+        "lat": "42.4382628983",
+        "lng": "3.12092853859",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/querroig/",
+        "fet": false
+    },
+    {
+        "area": "Alt Empord\u00e0, Vallespir",
+        "height": "1451",
+        "name": "Roc del Comptador",
+        "lat": "42.4227911919",
+        "lng": "2.72729098521",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roc-del-comptador/",
+        "fet": false
+    },
+    {
+        "area": "Alt Pened\u00e8s",
+        "height": "465",
+        "name": "El Castellot",
+        "lat": "41.3375872509",
+        "lng": "1.57862965411",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/el-castellot/",
+        "fet": false
+    },
+    {
+        "area": "Alt Pened\u00e8s, Baix Llobregat",
+        "height": "658",
+        "name": "Montau",
+        "lat": "41.3458636248",
+        "lng": "1.88500083001",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montau/",
+        "fet": false
+    },
+    {
+        "area": "Alt Pened\u00e8s",
+        "height": "381",
+        "name": "Penya del Papiol",
+        "lat": "41.322954",
+        "lng": "1.743849",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/penya-del-papiol/",
+        "fet": false
+    },
+    {
+        "area": "Alt Pened\u00e8s, Baix Llobregat",
+        "height": "653",
+        "name": "Puig d'Agulles",
+        "lat": "41.4080777208",
+        "lng": "1.88497858406",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-dagulles/",
+        "fet": false
+    },
+    {
+        "area": "Alt Pened\u00e8s, Baix Llobregat, Garraf",
+        "height": "534",
+        "name": "Puig de la Mola",
+        "lat": "41.3193219621",
+        "lng": "1.84785320744",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-mola/",
+        "fet": false
+    },
+    {
+        "area": "Alt Pened\u00e8s, Garraf",
+        "height": "464",
+        "name": "Puig de l'\u00c0liga",
+        "lat": "41.2838672007",
+        "lng": "1.69738245456",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-laliga/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell, Bergued\u00e0, Solson\u00e8s",
+        "height": "2284",
+        "name": "Cap del Verd",
+        "lat": "42.2008147325",
+        "lng": "1.61370601396",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/cap-del-verd/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell",
+        "height": "1621",
+        "name": "Cogull\u00f3 de Turp",
+        "lat": "42.1511470485",
+        "lng": "1.34727840172",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/cogullo-de-turp/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell",
+        "height": "2113",
+        "name": "El Cadinell",
+        "lat": "42.2643934199",
+        "lng": "1.59782471728",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/el-cadinell/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell",
+        "height": "1610",
+        "name": "El Coscollet",
+        "lat": "42.1141439558",
+        "lng": "1.2675128268",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/el-coscollet/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell",
+        "height": "1969",
+        "name": "Les Piques",
+        "lat": "42.3209657507",
+        "lng": "1.17584546118",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/les-piques/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell, Cerdanya",
+        "height": "2141",
+        "name": "Mirador del Pla de Llet",
+        "lat": "42.4045530362",
+        "lng": "1.6329485067",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/mirador-del-pla-de-llet/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell, Andorra, Cerdanya",
+        "height": "2760",
+        "name": "Monturull",
+        "lat": "42.4499499945",
+        "lng": "1.58099716436",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/monturull/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell, Solson\u00e8s",
+        "height": "2387",
+        "name": "Pedr\u00f3 dels Quatre Batlles",
+        "lat": "42.1847955583",
+        "lng": "1.5209102343",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pedro-dels-quatre-batlles/",
+        "fet": true
+    },
+    {
+        "area": "Alt Urgell, Pallars Sobir\u00e0",
+        "height": "2789",
+        "name": "Pic de Sal\u00f2ria",
+        "lat": "42.5144490848",
+        "lng": "1.38513757735",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-saloria/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell, Andorra",
+        "height": "2405",
+        "name": "Bony de la Pica o Pica d'Os",
+        "lat": "42.504804",
+        "lng": "1.460396",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/bony-de-la-pica-o-pica-dos/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell",
+        "height": "1681",
+        "name": "Roc Bene\u00efdor",
+        "lat": "42.3712181404",
+        "lng": "1.56049672773",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roc-beneidor/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell",
+        "height": "1630",
+        "name": "Roc de Galliner",
+        "lat": "42.1980678653",
+        "lng": "1.41096353508",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roc-de-galliner/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell",
+        "height": "1068",
+        "name": "Sant Honorat",
+        "lat": "42.083792",
+        "lng": "1.270382",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-honorat/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell",
+        "height": "1211",
+        "name": "Santa Fe",
+        "lat": "42.2090661303",
+        "lng": "1.30115336685",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/santa-fe/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell",
+        "height": "2562",
+        "name": "Torreta del Cad\u00ed",
+        "lat": "42.2870741235",
+        "lng": "1.58419812657",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/torreta-del-cadi/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell",
+        "height": "2649",
+        "name": "Vultur\u00f3",
+        "lat": "42.2857798845",
+        "lng": "1.63642947853",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/vulturo/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a, Val d'Aran",
+        "height": "3008",
+        "name": "Besiberri Nord",
+        "lat": "42.6052569802",
+        "lng": "0.826303718072",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/besiberri-nord/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a, Pallars Juss\u00e0",
+        "height": "2894",
+        "name": "Gran Pic del Pess\u00f3",
+        "lat": "42.5094903448",
+        "lng": "0.924102242387",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/gran-pic-del-pesso/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a, Val d'Aran",
+        "height": "2933",
+        "name": "Gran Tuc de Colomers",
+        "lat": "42.589389693",
+        "lng": "0.93780698965",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/gran-tuc-de-colomers/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a, Pallars Juss\u00e0",
+        "height": "1699",
+        "name": "La Faiada",
+        "lat": "42.3750354872",
+        "lng": "0.77512806113",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/la-faiada/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a",
+        "height": "2543",
+        "name": "Lo Corronco",
+        "lat": "42.4621240806",
+        "lng": "0.828503168114",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/lo-corrunco/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a, Pallars Juss\u00e0",
+        "height": "1889",
+        "name": "Pala del Teller",
+        "lat": "42.3168553491",
+        "lng": "0.809481028197",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pala-del-teller/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a",
+        "height": "3029",
+        "name": "Pic de Comaloforno",
+        "lat": "42.5913820355",
+        "lng": "0.827834271065",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-comaloforno/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a",
+        "height": "2983",
+        "name": "Pic de la Pala Alta de Sarrad\u00e9",
+        "lat": "42.5747132507",
+        "lng": "0.890942673958",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-la-pala-alta-de-sarrade/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a",
+        "height": "3014",
+        "name": "Punta Alta",
+        "lat": "42.5857010202",
+        "lng": "0.880286835146",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/punta-alta/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a, Val d'Aran",
+        "height": "2885",
+        "name": "Punta d'Harl\u00e9",
+        "lat": "42.6104008216",
+        "lng": "0.842595085439",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/punta-dharle/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a",
+        "height": "2445",
+        "name": "Tossal de les Roies de Cardet",
+        "lat": "42.5185798109",
+        "lng": "0.765365646658",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-les-roies-de-cardet/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a",
+        "height": "2562",
+        "name": "Tuc de la Comamarja",
+        "lat": "42.5264278782",
+        "lng": "0.878311634743",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-la-comamarja/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a, Val d'Aran",
+        "height": "2778",
+        "name": "Tuc de Llu\u00e7\u00e0",
+        "lat": "42.6102917642",
+        "lng": "0.901177564183",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-lluca/",
+        "fet": false
+    },
+    {
+        "area": "Anoia",
+        "height": "848",
+        "name": "Castell de Boixadors",
+        "lat": "41.7706425868",
+        "lng": "1.57477558985",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/castell-de-boixadors/",
+        "fet": false
+    },
+    {
+        "area": "Anoia",
+        "height": "866",
+        "name": "Grony de Miralles",
+        "lat": "41.5167025621",
+        "lng": "1.49218341096",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/grony-de-miralles/",
+        "fet": false
+    },
+    {
+        "area": "Anoia",
+        "height": "1223",
+        "name": "Miranda dels Ecos",
+        "lat": "41.604409941",
+        "lng": "1.8062062446",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/miranda-dels-ecos/",
+        "fet": false
+    },
+    {
+        "area": "Anoia",
+        "height": "1133",
+        "name": "Montgr\u00f2s",
+        "lat": "41.5999938678",
+        "lng": "1.80508768977",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montgros/",
+        "fet": false
+    },
+    {
+        "area": "Anoia",
+        "height": "943",
+        "name": "El Castellar (serra d'Ancosa)",
+        "lat": "41.4483303855",
+        "lng": "1.51647754872",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-castellar-serra-dancosa/",
+        "fet": false
+    },
+    {
+        "area": "Anoia",
+        "height": "626",
+        "name": "Puig d'Aguilera",
+        "lat": "41.6047885186",
+        "lng": "1.67081069484",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-daguilera/",
+        "fet": false
+    },
+    {
+        "area": "Anoia",
+        "height": "733",
+        "name": "Puig de Sant Miquel",
+        "lat": "41.6372385192",
+        "lng": "1.58098481729",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-sant-miquel/",
+        "fet": false
+    },
+    {
+        "area": "Anoia, Bages",
+        "height": "1236",
+        "name": "Sant Jeroni",
+        "lat": "41.6053835626",
+        "lng": "1.81150454088",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-jeroni/",
+        "fet": true
+    },
+    {
+        "area": "Anoia",
+        "height": "842",
+        "name": "Torre Alta (Castell Ferran)",
+        "lat": "41.6112068212",
+        "lng": "1.76328314465",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/torre-alta-castell-ferran/",
+        "fet": false
+    },
+    {
+        "area": "Bages",
+        "height": "881",
+        "name": "Cogull\u00f3 de Cal Torre",
+        "lat": "41.6874716091",
+        "lng": "1.68642459544",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/cogullo-de-cal-torre/",
+        "fet": false
+    },
+    {
+        "area": "Bages",
+        "height": "543",
+        "name": "Collbaix",
+        "lat": "41.740870427",
+        "lng": "1.78096524985",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/collbaix/",
+        "fet": false
+    },
+    {
+        "area": "Bages, Vall\u00e8s Occidental",
+        "height": "1057",
+        "name": "Montcau",
+        "lat": "41.6750412662",
+        "lng": "2.00462687673",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montcau/",
+        "fet": true
+    },
+    {
+        "area": "Moian\u00e8s",
+        "height": "1010",
+        "name": "Puig de la Caritat",
+        "lat": "41.8757956096",
+        "lng": "2.10883311828",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-caritat/",
+        "fet": false
+    },
+    {
+        "area": "Bages",
+        "height": "524",
+        "name": "Puigsoler",
+        "lat": "41.6678850742",
+        "lng": "1.89285524584",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puigsoler/",
+        "fet": false
+    },
+    {
+        "area": "Bages",
+        "height": "770",
+        "name": "Pujol de la Mata",
+        "lat": "41.6821512175",
+        "lng": "1.98442838996",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pujol-de-la-mata/",
+        "fet": true
+    },
+    {
+        "area": "Bages",
+        "height": "1156",
+        "name": "Roca de Sant Salvador (l'Elefant)",
+        "lat": "41.5957799591",
+        "lng": "1.82973892266",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roca-de-sant-salvador-lelefant/",
+        "fet": false
+    },
+    {
+        "area": "Bages, Vall\u00e8s Occidental",
+        "height": "804",
+        "name": "Roca Sareny",
+        "lat": "41.6945024649",
+        "lng": "2.01789428863",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roca-sareny/",
+        "fet": false
+    },
+    {
+        "area": "Bages",
+        "height": "624",
+        "name": "Tur\u00f3 de la Torre o de Castellnou",
+        "lat": "41.8509216559",
+        "lng": "1.8300988474",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-de-la-torre-o-de-castellnou/",
+        "fet": false
+    },
+    {
+        "area": "Bages",
+        "height": "447",
+        "name": "Tur\u00f3 de l'Escletxa (Tur\u00f3 de Montconill)",
+        "lat": "41.6287105203",
+        "lng": "1.88694712824",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-de-lescletxa/",
+        "fet": false
+    },
+    {
+        "area": "Baix Camp",
+        "height": "840",
+        "name": "Cavall Bernat de Llaberia",
+        "lat": "41.0840507023",
+        "lng": "0.875157009664",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/cavall-bernat-de-llaberia/",
+        "fet": false
+    },
+    {
+        "area": "Baix Camp",
+        "height": "152",
+        "name": "El Torn",
+        "lat": "40.9657461416",
+        "lng": "0.883354759262",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/el-torn/",
+        "fet": false
+    },
+    {
+        "area": "Baix Camp",
+        "height": "834",
+        "name": "Miranda de Puigcerver",
+        "lat": "41.1935878726",
+        "lng": "0.931584555592",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/miranda-de-puigcerver/",
+        "fet": false
+    },
+    {
+        "area": "Baix Camp",
+        "height": "922",
+        "name": "Mola de Colldejou",
+        "lat": "41.107465464",
+        "lng": "0.873961400419",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/mola-de-colldejou/",
+        "fet": false
+    },
+    {
+        "area": "Baix Camp, Ribera d'Ebre",
+        "height": "711",
+        "name": "Mola de Genesies",
+        "lat": "41.0162924783",
+        "lng": "0.785434472003",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/mola-de-genesies/",
+        "fet": false
+    },
+    {
+        "area": "Baix Camp, Conca de Barber\u00e0",
+        "height": "1136",
+        "name": "Mola d'Estat",
+        "lat": "41.3255542218",
+        "lng": "1.06058023385",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/mola-destat/",
+        "fet": false
+    },
+    {
+        "area": "Baix Camp",
+        "height": "727",
+        "name": "Moll\u00f3 Puntaire",
+        "lat": "40.9906241809",
+        "lng": "0.847835490761",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/mollo-puntaire/",
+        "fet": false
+    },
+    {
+        "area": "Baix Camp",
+        "height": "991",
+        "name": "Picorandan",
+        "lat": "41.2878857333",
+        "lng": "1.01719022482",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/picorandan/",
+        "fet": false
+    },
+    {
+        "area": "Baix Camp",
+        "height": "1010",
+        "name": "Puig de Gallicant",
+        "lat": "41.2495015167",
+        "lng": "0.960719737495",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-gallicant/",
+        "fet": false
+    },
+    {
+        "area": "Baix Camp",
+        "height": "614",
+        "name": "Puig de la Cabrafiga",
+        "lat": "41.0534399179",
+        "lng": "0.895050001562",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-cabrafiga/",
+        "fet": false
+    },
+    {
+        "area": "Baix Camp",
+        "height": "717",
+        "name": "Puig d'en Cama",
+        "lat": "41.2202617175",
+        "lng": "1.09406719048",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-den-cama/",
+        "fet": false
+    },
+    {
+        "area": "Baix Camp",
+        "height": "1076",
+        "name": "Puig Pelat",
+        "lat": "41.2663110481",
+        "lng": "1.05450380794",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-pelat/",
+        "fet": false
+    },
+    {
+        "area": "Baix Camp, Conca de Barber\u00e0",
+        "height": "1201",
+        "name": "Tossal de la Baltasana",
+        "lat": "41.3260040526",
+        "lng": "1.00419364629",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-la-baltasana/",
+        "fet": false
+    },
+    {
+        "area": "Baix Ebre",
+        "height": "1441",
+        "name": "Caro",
+        "lat": "40.8031301137",
+        "lng": "0.343121075505",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/caro/",
+        "fet": false
+    },
+    {
+        "area": "Baix Ebre",
+        "height": "879",
+        "name": "La Coscollosa",
+        "lat": "40.9023779146",
+        "lng": "0.413558589612",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/la-coscollosa/",
+        "fet": false
+    },
+    {
+        "area": "Baix Ebre, Terra Alta",
+        "height": "1181",
+        "name": "L'Espina",
+        "lat": "40.8793690775",
+        "lng": "0.360899310112",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/lespina/",
+        "fet": false
+    },
+    {
+        "area": "Baix Ebre",
+        "height": "753",
+        "name": "Morral del Cabrafeixet",
+        "lat": "40.898583\t",
+        "lng": "0.625025",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/morral-del-cabrafeixet/",
+        "fet": false
+    },
+    {
+        "area": "Baix Ebre, Terra Alta",
+        "height": "1072",
+        "name": "Tossal d'Engrill\u00f3",
+        "lat": "40.9430405014",
+        "lng": "0.370789362269",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-dengrillo/",
+        "fet": true
+    },
+    {
+        "area": "Baix Ebre, Ribera d'Ebre",
+        "height": "942",
+        "name": "Creu de Santos",
+        "lat": "40.9406887493",
+        "lng": "0.586018857692",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/xaquera-o-creu-de-santos/",
+        "fet": false
+    },
+    {
+        "area": "Baix Empord\u00e0",
+        "height": "303",
+        "name": "Castell de Montgr\u00ed",
+        "lat": "42.0521068681",
+        "lng": "3.13164949925",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/castell-de-montgri/",
+        "fet": false
+    },
+    {
+        "area": "Baix Empord\u00e0",
+        "height": "401",
+        "name": "Montclar",
+        "lat": "41.7886622761",
+        "lng": "2.95619265406",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montclar/",
+        "fet": false
+    },
+    {
+        "area": "Baix Empord\u00e0",
+        "height": "533",
+        "name": "Puig d'Arques",
+        "lat": "41.8887283793",
+        "lng": "2.99429857701",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-darques/",
+        "fet": false
+    },
+    {
+        "area": "Baix Empord\u00e0",
+        "height": "325",
+        "name": "Puig Gros",
+        "lat": "41.7750249885",
+        "lng": "2.99796651839",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-gros/",
+        "fet": false
+    },
+    {
+        "area": "Baix Empord\u00e0",
+        "height": "228",
+        "name": "Quermany Gros",
+        "lat": "41.9603145487",
+        "lng": "3.17009964673",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/quermany-gros/",
+        "fet": false
+    },
+    {
+        "area": "Baix Llobregat",
+        "height": "594",
+        "name": "La Morella",
+        "lat": "41.2965325027",
+        "lng": "1.91548593125",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/la-morella/",
+        "fet": false
+    },
+    {
+        "area": "Baix Llobregat",
+        "height": "1132",
+        "name": "Miranda de Santa Magdalena",
+        "lat": "41.5884059331",
+        "lng": "1.82647684649",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/miranda-de-santa-magdalena/",
+        "fet": false
+    },
+    {
+        "area": "Baix Llobregat",
+        "height": "499",
+        "name": "Puig Cendr\u00f3s",
+        "lat": "41.5756360735",
+        "lng": "1.89299280596",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-cendros/",
+        "fet": false
+    },
+    {
+        "area": "Baix Llobregat, Barcelon\u00e8s",
+        "height": "436",
+        "name": "Puig d'Olorda",
+        "lat": " 41.412212",
+        "lng": "2.055209",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-dolorda/",
+        "fet": false
+    },
+    {
+        "area": "Baix Llobregat, Vall\u00e8s Occidental",
+        "height": "341",
+        "name": "Puig Madrona",
+        "lat": "41.4512983754",
+        "lng": "2.02409766978",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-madrona/",
+        "fet": true
+    },
+    {
+        "area": "Baix Llobregat, Barcelon\u00e8s",
+        "height": "389",
+        "name": "Sant Pere M\u00e0rtir",
+        "lat": "41.3936585908",
+        "lng": "2.0978784699",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-pere-martir/",
+        "fet": false
+    },
+    {
+        "area": "Baix Llobregat",
+        "height": "295",
+        "name": "Sant Ramon",
+        "lat": "41.3377752491",
+        "lng": "2.01117775092",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-ramon/",
+        "fet": false
+    },
+    {
+        "area": "Baix Llobregat, Vall\u00e8s Occidental",
+        "height": "413",
+        "name": "Sant Salvador de les Espases",
+        "lat": "41.5790930928",
+        "lng": "1.88442879727",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-salvador-de-les-espases/",
+        "fet": false
+    },
+    {
+        "area": "Baix Pened\u00e8s, Tarragon\u00e8s",
+        "height": "317",
+        "name": "La Mola",
+        "lat": "41.2116572604",
+        "lng": "1.41730041394",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/la-mola/",
+        "fet": true
+    },
+    {
+        "area": "Baix Pened\u00e8s",
+        "height": "672",
+        "name": "Puig de la Cova",
+        "lat": "41.3151038048",
+        "lng": "1.47510807421",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-cova/",
+        "fet": false
+    },
+    {
+        "area": "Baix Pened\u00e8s",
+        "height": "409",
+        "name": "Puig de Sant Antoni",
+        "lat": "41.2437100625",
+        "lng": "1.47433479322",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-sant-antoni/",
+        "fet": false
+    },
+    {
+        "area": "Baix Pened\u00e8s",
+        "height": "861",
+        "name": "Talaia del Montmell",
+        "lat": "41.3357901533",
+        "lng": "1.46671424676",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/talaia-del-montmell/",
+        "fet": true
+    },
+    {
+        "area": "Barcelon\u00e8s, Vall\u00e8s Occidental",
+        "height": "303",
+        "name": "Puig Castellar",
+        "lat": "41.4703022946",
+        "lng": "2.2065864631",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-castellar/",
+        "fet": false
+    },
+    {
+        "area": "Barcelon\u00e8s, Vall\u00e8s Occidental",
+        "height": "430",
+        "name": "Tur\u00f3 de Magarola",
+        "lat": "41.4421744885",
+        "lng": "2.12968297951",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-de-magarola/",
+        "fet": false
+    },
+    {
+        "area": "Bergued\u00e0",
+        "height": "2321",
+        "name": "Cap de la Gallina Pelada",
+        "lat": "42.1894343677",
+        "lng": "1.73803778545",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/cap-de-la-gallina-pelada/",
+        "fet": true
+    },
+    {
+        "area": "Bergued\u00e0",
+        "height": "1870",
+        "name": "Cogull\u00f3 d'Estela",
+        "lat": "42.1216063043",
+        "lng": "1.78708523867",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/cogullo-destela/",
+        "fet": false
+    },
+    {
+        "area": "Bergued\u00e0, Cerdanya",
+        "height": "2548",
+        "name": "Comabona",
+        "lat": "42.2836928",
+        "lng": "1.726288",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/comabona/",
+        "fet": true
+    },
+    {
+        "area": "Bergued\u00e0",
+        "height": "1525",
+        "name": "Els Tossals",
+        "lat": "42.0892489918",
+        "lng": "1.72742659445",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/els-tossals/",
+        "fet": false
+    },
+    {
+        "area": "Bergued\u00e0, Cerdanya",
+        "height": "2536",
+        "name": "La Tosa",
+        "lat": "42.3205750504",
+        "lng": "1.89266087667",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/la-tosa/",
+        "fet": true
+    },
+    {
+        "area": "Bergued\u00e0, Ripoll\u00e8s",
+        "height": "1543",
+        "name": "Pedr\u00f3 de Tubau",
+        "lat": "42.2201958619",
+        "lng": "2.04956708035",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pedro-de-tubau/",
+        "fet": false
+    },
+    {
+        "area": "Bergued\u00e0, Cerdanya",
+        "height": "2276",
+        "name": "Penyes Altes",
+        "lat": "42.3063002008",
+        "lng": "1.84247482148",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/penyes-altes/",
+        "fet": true
+    },
+    {
+        "area": "Bergued\u00e0",
+        "height": "2506",
+        "name": "Polleg\u00f3 Superior (Pedraforca)",
+        "lat": "42.2399451722",
+        "lng": "1.70292577431",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pollego-superior-pedraforca/",
+        "fet": true
+    },
+    {
+        "area": "Bergued\u00e0",
+        "height": "2409",
+        "name": "Puigllan\u00e7ada",
+        "lat": "42.300483377",
+        "lng": "1.93553484457",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puigllancada/",
+        "fet": true
+    },
+    {
+        "area": "Bergued\u00e0",
+        "height": "1172",
+        "name": "Salga Aguda",
+        "lat": "42.1192540287",
+        "lng": "1.95140868336",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/salga-aguda/",
+        "fet": false
+    },
+    {
+        "area": "Bergued\u00e0",
+        "height": "1611",
+        "name": "Sant Marc de Broc\u00e0",
+        "lat": "42.2649312024",
+        "lng": "1.89873987298",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-marc-de-broca/",
+        "fet": false
+    },
+    {
+        "area": "Bergued\u00e0",
+        "height": "1653",
+        "name": "Sobrepuny",
+        "lat": "42.1677248606",
+        "lng": "1.91070593443",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sobrepuny/",
+        "fet": false
+    },
+    {
+        "area": "Bergued\u00e0, Solson\u00e8s",
+        "height": "1379",
+        "name": "Tossal de les Viudes",
+        "lat": "42.1147525661",
+        "lng": "1.65922632604",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-les-viudes/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya",
+        "height": "2740",
+        "name": "La Carabassa",
+        "lat": "42.4579797147",
+        "lng": "1.72717359885",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/la-carabassa/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya",
+        "height": "2861",
+        "name": "La Muga",
+        "lat": "42.4747635712",
+        "lng": "1.67761271375",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/la-muga/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya, Cerdanya Nord",
+        "height": "2915",
+        "name": "Puigpedr\u00f3s",
+        "lat": "42.4875750896",
+        "lng": "1.76193328898",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puigpedros/",
+        "fet": false
+    },
+    {
+        "area": "Andorra, Cerdanya",
+        "height": "2905",
+        "name": "Tossa Plana de Lles (pic de la Portelleta)",
+        "lat": "42.4682057164",
+        "lng": "1.65656107795",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossa-plana-de-lles-pic-de-la-portelleta/",
+        "fet": false
+    },
+    {
+        "area": "Conca de Barber\u00e0, Garrigues",
+        "height": "1022",
+        "name": "Punta del Curull",
+        "lat": "41.3552988479",
+        "lng": "0.96432912146",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/punta-del-curull/",
+        "fet": false
+    },
+    {
+        "area": "Conca de Barber\u00e0",
+        "height": "948",
+        "name": "Sant Miquel de Montclar",
+        "lat": "41.465725492",
+        "lng": "1.34564773737",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-miquel-de-montclar/",
+        "fet": false
+    },
+    {
+        "area": "Conca de Barber\u00e0, Urgell",
+        "height": "803",
+        "name": "Tossal Gros de Vallbona",
+        "lat": "41.4688603287",
+        "lng": "1.11287099172",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-gros-de-vallbona/",
+        "fet": false
+    },
+    {
+        "area": "Garrigues",
+        "height": "593",
+        "name": "Els Bessons",
+        "lat": "41.4665607398",
+        "lng": "0.847132154148",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/els-bessons/",
+        "fet": false
+    },
+    {
+        "area": "Garrotxa, Osona",
+        "height": "1308",
+        "name": "Cabrera",
+        "lat": "42.0759961774",
+        "lng": "2.40727154853",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/cabrera/",
+        "fet": false
+    },
+    {
+        "area": "Garrotxa, Vallespir",
+        "height": "1557",
+        "name": "Comanegra",
+        "lat": "42.3333072525",
+        "lng": "2.52776092867",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/comanegra/",
+        "fet": false
+    },
+    {
+        "area": "Garrotxa",
+        "height": "1074",
+        "name": "Montmajor",
+        "lat": "42.2687834061",
+        "lng": "2.48304982626",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montmajor/",
+        "fet": false
+    },
+    {
+        "area": "Garrotxa, Ripoll\u00e8s",
+        "height": "1300",
+        "name": "Puig Ou",
+        "lat": "42.2841286008",
+        "lng": "2.42776271465",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-ou/",
+        "fet": false
+    },
+    {
+        "area": "Garrotxa",
+        "height": "1514",
+        "name": "Puigsacalm",
+        "lat": "42.1251777741",
+        "lng": "2.38789142783",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puigsacalm/",
+        "fet": false
+    },
+    {
+        "area": "Garrotxa",
+        "height": "1027",
+        "name": "Puigsallan\u00e7a",
+        "lat": "42.1150682972",
+        "lng": "2.58147210612",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puigsallanca/",
+        "fet": false
+    },
+    {
+        "area": "Garrotxa, Giron\u00e8s, Selva",
+        "height": "598",
+        "name": "Sant Roc",
+        "lat": "42.0174863364",
+        "lng": "2.66189985111",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-roc/",
+        "fet": false
+    },
+    {
+        "area": "Garrotxa",
+        "height": "789",
+        "name": "Volc\u00e0 del Croscat",
+        "lat": "42.1539906034",
+        "lng": "2.53606815969",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/volca-del-croscat/",
+        "fet": true
+    },
+    {
+        "area": "Giron\u00e8s",
+        "height": "385",
+        "name": "Castell de Sant Miquel",
+        "lat": "42.0068953001",
+        "lng": "2.86209176566",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/castell-de-sant-miquel/",
+        "fet": false
+    },
+    {
+        "area": "Giron\u00e8s",
+        "height": "483",
+        "name": "Els \u00c0ngels",
+        "lat": "41.9848033724",
+        "lng": "2.90862814766",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/els-angels/",
+        "fet": false
+    },
+    {
+        "area": "Giron\u00e8s",
+        "height": "464",
+        "name": "Montigalar",
+        "lat": "41.9630547913",
+        "lng": "2.92463692226",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montigalar/",
+        "fet": false
+    },
+    {
+        "area": "Giron\u00e8s, Selva",
+        "height": "519",
+        "name": "Puig Cadiretes",
+        "lat": "41.7573307749",
+        "lng": "2.92821015443",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-cadiretes/",
+        "fet": false
+    },
+    {
+        "area": "Maresme",
+        "height": "392",
+        "name": "Castell de Burriac",
+        "lat": "41.5374582022",
+        "lng": "2.38733933206",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/castell-de-burriac/",
+        "fet": false
+    },
+    {
+        "area": "Maresme",
+        "height": "597",
+        "name": "Montalt",
+        "lat": "41.6041277928",
+        "lng": "2.49632222322",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montalt/",
+        "fet": false
+    },
+    {
+        "area": "Maresme, Selva",
+        "height": "328",
+        "name": "Montbarbat",
+        "lat": "41.7355101863",
+        "lng": "2.7766586707",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montbarbat/",
+        "fet": false
+    },
+    {
+        "area": "Maresme",
+        "height": "287",
+        "name": "Pedracastell o Creu de Canet",
+        "lat": "41.6088812679",
+        "lng": "2.57368270577",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pedracastell-o-creu-de-canet/",
+        "fet": false
+    },
+    {
+        "area": "Maresme",
+        "height": "40",
+        "name": "Tur\u00f3 de Montgat",
+        "lat": "41.4658949776",
+        "lng": "2.27868166694",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-de-montgat/",
+        "fet": false
+    },
+    {
+        "area": "Maresme, Vall\u00e8s Oriental",
+        "height": "484",
+        "name": "Tur\u00f3 d'en Galzeran o d'en Mates",
+        "lat": "41.5046857089",
+        "lng": "2.26664062157",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-den-galzeran-o-den-mates/",
+        "fet": false
+    },
+    {
+        "area": "Maresme",
+        "height": "131",
+        "name": "Tur\u00f3 d'Onofre Arnau",
+        "lat": "41.5545820258",
+        "lng": "2.46903089064",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-donofre-arnau/",
+        "fet": false
+    },
+    {
+        "area": "Montsi\u00e0",
+        "height": "293",
+        "name": "El Montsianell",
+        "lat": "40.6830235057",
+        "lng": "0.555600233824",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/el-montsianell/",
+        "fet": false
+    },
+    {
+        "area": "Montsi\u00e0",
+        "height": "1345",
+        "name": "El Negrell",
+        "lat": "40.7341570377",
+        "lng": "0.227329062732",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/el-negrell/",
+        "fet": false
+    },
+    {
+        "area": "Montsi\u00e0",
+        "height": "763",
+        "name": "Torreta del Montsi\u00e0",
+        "lat": "40.6136410446",
+        "lng": "0.530331521271",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/torreta-del-montsia/",
+        "fet": false
+    },
+    {
+        "area": "Montsi\u00e0",
+        "height": "1350",
+        "name": "Tossal dels Tres Reis",
+        "lat": "40.732788284",
+        "lng": "0.170231508703",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-dels-tres-reis/",
+        "fet": false
+    },
+    {
+        "area": "Noguera",
+        "height": "951",
+        "name": "Los Picons",
+        "lat": "41.9258368303",
+        "lng": "0.641572525273",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/los-picons/",
+        "fet": false
+    },
+    {
+        "area": "Noguera",
+        "height": "762",
+        "name": "Montmagastre",
+        "lat": "41.9765577307",
+        "lng": "1.12875357473",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montmagastre/",
+        "fet": false
+    },
+    {
+        "area": "Noguera",
+        "height": "947",
+        "name": "Pala Alta",
+        "lat": "41.8962885339",
+        "lng": "0.836346461295",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pala-alta/",
+        "fet": false
+    },
+    {
+        "area": "Noguera, Pallars Juss\u00e0",
+        "height": "1675",
+        "name": "Penya Sant Al\u00eds",
+        "lat": "42.0398582745",
+        "lng": "0.766567591212",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/penya-sant-alis/",
+        "fet": false
+    },
+    {
+        "area": "Noguera",
+        "height": "667",
+        "name": "Puig de Grial\u00f3",
+        "lat": "41.9017488183",
+        "lng": "1.10878212966",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-grialo/",
+        "fet": false
+    },
+    {
+        "area": "Noguera",
+        "height": "1025",
+        "name": "Puig de Mill\u00e0",
+        "lat": "42.001724505",
+        "lng": "0.672191437353",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-milla/",
+        "fet": false
+    },
+    {
+        "area": "Noguera, Pallars Juss\u00e0",
+        "height": "1239",
+        "name": "Roca Roja",
+        "lat": "42.0722101705",
+        "lng": "1.10016255867",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roca-roja/",
+        "fet": false
+    },
+    {
+        "area": "Noguera",
+        "height": "1391",
+        "name": "Sant Mamet",
+        "lat": "41.9778152606",
+        "lng": "0.94130938873",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-mamet/",
+        "fet": false
+    },
+    {
+        "area": "Noguera, Pallars Juss\u00e0",
+        "height": "1672",
+        "name": "Tossal de Mirapallars",
+        "lat": "42.0210727556",
+        "lng": "0.959033353518",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-mirapallars/",
+        "fet": false
+    },
+    {
+        "area": "Osona",
+        "height": "1248",
+        "name": "Bellmunt",
+        "lat": "42.1015354717",
+        "lng": "2.29375027555",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/bellmunt/",
+        "fet": false
+    },
+    {
+        "area": "Osona, Ripoll\u00e8s",
+        "height": "1529",
+        "name": "Castell de Milany",
+        "lat": "42.1655542733",
+        "lng": "2.28960053077",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/castell-de-milany/",
+        "fet": false
+    },
+    {
+        "area": "Osona",
+        "height": "842",
+        "name": "Creu de Gurb",
+        "lat": "41.9520875639",
+        "lng": "2.21046092543",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/creu-de-gurb/",
+        "fet": false
+    },
+    {
+        "area": "Osona",
+        "height": "1057",
+        "name": "Els Munts",
+        "lat": "42.0787263425",
+        "lng": "2.15328121534",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/els-munts/",
+        "fet": false
+    },
+    {
+        "area": "Osona",
+        "height": "867",
+        "name": "L'Enclusa",
+        "lat": "41.8707878226",
+        "lng": "2.32093889931",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/lenclusa/",
+        "fet": false
+    },
+    {
+        "area": "Osona, Vall\u00e8s Oriental",
+        "height": "1697",
+        "name": "Matagalls",
+        "lat": "41.8088174884",
+        "lng": "2.38261778463",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/matagalls/",
+        "fet": true
+    },
+    {
+        "area": "Osona",
+        "height": "740",
+        "name": "Puig de la For\u00e7a",
+        "lat": "41.9810070598",
+        "lng": "2.38898447593",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-forca/",
+        "fet": true
+    },
+    {
+        "area": "Osona",
+        "height": "1344",
+        "name": "Puig de les \u00c0ligues",
+        "lat": "42.1090151344",
+        "lng": "2.34931774822",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-les-aligues/",
+        "fet": false
+    },
+    {
+        "area": "Osona",
+        "height": "1187",
+        "name": "Rocallarga",
+        "lat": "42.0098094301",
+        "lng": "2.44560136469",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/rocallarga/",
+        "fet": false
+    },
+    {
+        "area": "Osona, Ripoll\u00e8s",
+        "height": "1547",
+        "name": "Santa Magdalena de Cambrils",
+        "lat": "42.1689910199",
+        "lng": "2.34026503464",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/santa-magdalena-de-cambrils/",
+        "fet": false
+    },
+    {
+        "area": "Moian\u00e8s",
+        "height": "1045",
+        "name": "Tur\u00f3 de Bellver",
+        "lat": "41.8471462109",
+        "lng": "2.17154371646",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-de-bellver/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Juss\u00e0",
+        "height": "2077",
+        "name": "Cap de Boumort",
+        "lat": "42.2350097134",
+        "lng": "1.13468387277",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/cap-de-boumort/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Juss\u00e0",
+        "height": "1687",
+        "name": "Gallinova",
+        "lat": "42.1847230594",
+        "lng": "1.07808782096",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/gallinova/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Juss\u00e0",
+        "height": "1104",
+        "name": "Montllobar",
+        "lat": "42.1465952076",
+        "lng": "0.797767345034",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montllobar/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Juss\u00e0, Pallars Sobir\u00e0",
+        "height": "2883",
+        "name": "Montsent de Pallars",
+        "lat": "42.4901106285",
+        "lng": "1.02442265779",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montsent-de-pallars/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Juss\u00e0",
+        "height": "2772",
+        "name": "Pic de Fili\u00e0 (Tossal de Paiasso)",
+        "lat": "42.4729420398",
+        "lng": "0.930322794098",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-filia-tossal-de-paiasso/",
+        "fet": true
+    },
+    {
+        "area": "Pallars Juss\u00e0, Pallars Sobir\u00e0",
+        "height": "2983",
+        "name": "Pic de Peguera",
+        "lat": "42.540541256",
+        "lng": "1.01195828499",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-peguera/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Juss\u00e0, Pallars Sobir\u00e0",
+        "height": "2950",
+        "name": "Pic de Subenuix",
+        "lat": "42.5549470732",
+        "lng": "0.979380978448",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-subenuix/",
+        "fet": true
+    },
+    {
+        "area": "Pallars Juss\u00e0",
+        "height": "2753",
+        "name": "Pica de Cerv\u00ed",
+        "lat": "42.4529431796",
+        "lng": "0.879226097309",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pica-de-cervi/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Juss\u00e0",
+        "height": "1692",
+        "name": "Pui de Ller\u00e0s",
+        "lat": "42.2691950908",
+        "lng": "0.852649166388",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pui-de-lleras/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Juss\u00e0, Pallars Sobir\u00e0",
+        "height": "1480",
+        "name": "Roc de Sant Avent\u00ed",
+        "lat": "42.3072328376",
+        "lng": "0.974246319524",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roc-de-sant-aventi/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Juss\u00e0",
+        "height": "1351",
+        "name": "Sant Corneli",
+        "lat": "42.1828150542",
+        "lng": "1.00279294037",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-corneli/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Juss\u00e0, Pallars Sobir\u00e0",
+        "height": "2445",
+        "name": "Tuc de la Cometa",
+        "lat": "42.4236996448",
+        "lng": "1.03304925486",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-la-cometa/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2633",
+        "name": "Campirme",
+        "lat": "42.6595207314",
+        "lng": "1.19362547646",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/campirme/",
+        "fet": true
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2749",
+        "name": "Gran Encantat",
+        "lat": "42.5684086401",
+        "lng": "1.01483782051",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/gran-encantat/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2700",
+        "name": "Lo T\u00e9sol (Tes\u00f3 de Son)",
+        "lat": "42.6083714427",
+        "lng": "1.03925511174",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/lo-tesol-teso-de-son/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2291",
+        "name": "Montcaubo (lo Calbo)",
+        "lat": "42.5986630987",
+        "lng": "1.17941713732",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montcaubo-lo-calbo/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2905",
+        "name": "Monteixo",
+        "lat": "42.601748",
+        "lng": "1.361650",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/monteixo/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2864",
+        "name": "Mont-roig",
+        "lat": "42.7108",
+        "lng": "1.1768",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/mont-roig/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2853",
+        "name": "Pic de Certascan",
+        "lat": "42.7119661042",
+        "lng": "1.27771844284",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-certascan/",
+        "fet": true
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2721",
+        "name": "Pic de Clavera",
+        "lat": "42.7877860028",
+        "lng": "1.07672157012",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-clavera/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2517",
+        "name": "Pic de M\u00e0niga",
+        "lat": "42.5057348985",
+        "lng": "1.32883919585",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-maniga/",
+        "fet": true
+    },
+    {
+        "area": "Andorra, Pallars Sobir\u00e0",
+        "height": "2915",
+        "name": "Pic de Medacorba",
+        "lat": "42.603724",
+        "lng": "1.441992",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-medacorba/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2766",
+        "name": "Pic de Moredo",
+        "lat": "42.718939301",
+        "lng": "1.04993056374",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-moredo/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2656",
+        "name": "Pic de Pil\u00e0s",
+        "lat": "42.6828291223",
+        "lng": "1.13150733611",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-pilas/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "3073",
+        "name": "Pic de Sotllo",
+        "lat": "42.6687087543",
+        "lng": "1.38745825992",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-sotllo/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "3144",
+        "name": "Pica d'Estats",
+        "lat": "42.6669371771",
+        "lng": "1.39790065859",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pica-destats/",
+        "fet": true
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2903",
+        "name": "Pica Roja",
+        "lat": "42.624996751",
+        "lng": "1.42041450706",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pica-roja/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2903",
+        "name": "Pics de Bassiero (Occidental)",
+        "lat": "42.6066752263",
+        "lng": "0.995373452004",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pics-de-bassiero/",
+        "fet": true
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2436",
+        "name": "Torreta de l'Orri",
+        "lat": "42.4086558",
+        "lng": "1.2148545",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/torreta-de-lorri/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2659",
+        "name": "Tuc de la Llan\u00e7a",
+        "lat": "42.6840617618",
+        "lng": "0.990518362006",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-la-llanca/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0, Val d'Aran",
+        "height": "2679",
+        "name": "Tuc de Marimanya",
+        "lat": "42.709242624",
+        "lng": "1.01233231492",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-marimanya/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0, Val d'Aran",
+        "height": "2861",
+        "name": "Tuc de Ratera",
+        "lat": "42.6012245847",
+        "lng": "0.953482311716",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-ratera/",
+        "fet": true
+    },
+    {
+        "area": "Pla d'Urgell",
+        "height": "289",
+        "name": "La Fita Alta",
+        "lat": "41.6129870926",
+        "lng": "0.843120284099",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/la-fita-alta/",
+        "fet": false
+    },
+    {
+        "area": "Pla de l'Estany",
+        "height": "646",
+        "name": "Sant Patllari",
+        "lat": "42.1120830253",
+        "lng": "2.71172885085",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-patllari/",
+        "fet": false
+    },
+    {
+        "area": "Priorat",
+        "height": "1062",
+        "name": "La Cogulla (Montsant)",
+        "lat": "41.2775256311",
+        "lng": "0.805672027137",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/la-cogulla-montsant/",
+        "fet": false
+    },
+    {
+        "area": "Priorat, Ribera d'Ebre",
+        "height": "766",
+        "name": "Montalt (punta nord)",
+        "lat": "41.0683345646",
+        "lng": "0.803218722587",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montalt-punta-nord/",
+        "fet": false
+    },
+    {
+        "area": "Priorat",
+        "height": "1163",
+        "name": "Roca Corbatera",
+        "lat": "41.288591728",
+        "lng": "0.891232362067",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roca-corbatera/",
+        "fet": false
+    },
+    {
+        "area": "Ribera d'Ebre",
+        "height": "500",
+        "name": "Coll de Pins",
+        "lat": "40.9874138161",
+        "lng": "0.593574351565",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/coll-de-pins/",
+        "fet": false
+    },
+    {
+        "area": "Ribera d'Ebre",
+        "height": "499",
+        "name": "La Picossa",
+        "lat": "41.1094058162",
+        "lng": "0.57641655962",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/la-picossa/",
+        "fet": false
+    },
+    {
+        "area": "Ribera d'Ebre",
+        "height": "718",
+        "name": "La Tossa (Tivissa)",
+        "lat": "41.0289467835",
+        "lng": "0.736267392572",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/la-tossa-tivissa/",
+        "fet": false
+    },
+    {
+        "area": "Ribera d'Ebre",
+        "height": "523",
+        "name": "Lo Tormo",
+        "lat": "41.1790342228",
+        "lng": "0.643458682023",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/lo-tormo/",
+        "fet": false
+    },
+    {
+        "area": "Ripoll\u00e8s",
+        "height": "2585",
+        "name": "Balandrau",
+        "lat": "42.3701065555",
+        "lng": "2.21956587983",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/balandrau/",
+        "fet": true
+    },
+    {
+        "area": "Conflent, Ripoll\u00e8s",
+        "height": "2881",
+        "name": "Bastiments",
+        "lat": "42.4262224049",
+        "lng": "2.2328618189",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/bastiments/",
+        "fet": true
+    },
+    {
+        "area": "Ripoll\u00e8s",
+        "height": "2056",
+        "name": "Costa Pubilla o Pla de Pujalts",
+        "lat": "42.2857169362",
+        "lng": "2.08066391016",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/costa-pubilla-o-pla-de-pujalts/",
+        "fet": false
+    },
+    {
+        "area": "Ripoll\u00e8s, Vallespir",
+        "height": "2465",
+        "name": "Costabona",
+        "lat": "42.4168972338",
+        "lng": "2.34391990901",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/costabona/",
+        "fet": false
+    },
+    {
+        "area": "Ripoll\u00e8s",
+        "height": "2693",
+        "name": "Les Borregues",
+        "lat": "42.3963220756",
+        "lng": "2.2477214416",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/les-borregues/",
+        "fet": false
+    },
+    {
+        "area": "Conflent, Ripoll\u00e8s",
+        "height": "2861",
+        "name": "Noufonts",
+        "lat": "42.4246523941",
+        "lng": "2.16788405017",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/noufonts/",
+        "fet": true
+    },
+    {
+        "area": "Ripoll\u00e8s",
+        "height": "1229",
+        "name": "Puig Cornador",
+        "lat": "42.1397374015",
+        "lng": "2.10833614168",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-cornador/",
+        "fet": false
+    },
+    {
+        "area": "Ripoll\u00e8s",
+        "height": "1056",
+        "name": "Puig de Bestrac\u00e0",
+        "lat": "42.2943132206",
+        "lng": "2.51542425463",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-bestreca/",
+        "fet": false
+    },
+    {
+        "area": "Ripoll\u00e8s",
+        "height": "1976",
+        "name": "Puig de les Agudes",
+        "lat": "42.3633808585",
+        "lng": "2.31874391776",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-les-agudes/",
+        "fet": false
+    },
+    {
+        "area": "Ripoll\u00e8s",
+        "height": "2013",
+        "name": "Puig Estela",
+        "lat": "42.2843006575",
+        "lng": "2.2539920533",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-estela/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya Nord, Ripoll\u00e8s",
+        "height": "2910",
+        "name": "Puigmal",
+        "lat": "42.3832660904",
+        "lng": "2.11679066241",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puigmal/",
+        "fet": true
+    },
+    {
+        "area": "Ripoll\u00e8s",
+        "height": "2040",
+        "name": "Taga",
+        "lat": "42.2807720623",
+        "lng": "2.20988746608",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/taga/",
+        "fet": false
+    },
+    {
+        "area": "Ripoll\u00e8s",
+        "height": "2713",
+        "name": "Torreneules",
+        "lat": "42.3908750324",
+        "lng": "2.19620075069",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/torreneules/",
+        "fet": false
+    },
+    {
+        "area": "Segarra",
+        "height": "658",
+        "name": "Tossal de la Creu",
+        "lat": "41.8465649784",
+        "lng": "1.40207143007",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-la-creu/",
+        "fet": false
+    },
+    {
+        "area": "Segarra",
+        "height": "828",
+        "name": "Tossal de Sur\u00f3",
+        "lat": "41.5727833358",
+        "lng": "1.3049206803",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-suro/",
+        "fet": false
+    },
+    {
+        "area": "Segri\u00e0",
+        "height": "495",
+        "name": "Punta de Montmeneu",
+        "lat": "41.3887118921",
+        "lng": "0.401385033909",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montmeneu/",
+        "fet": false
+    },
+    {
+        "area": "Segri\u00e0",
+        "height": "243",
+        "name": "Tossal de la Moradilla",
+        "lat": "41.619530636",
+        "lng": "0.709795465691",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-la-moradilla/",
+        "fet": false
+    },
+    {
+        "area": "Selva",
+        "height": "1124",
+        "name": "El Far",
+        "lat": "42.0208408193",
+        "lng": "2.5366387097",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/el-far/",
+        "fet": false
+    },
+    {
+        "area": "Selva",
+        "height": "465",
+        "name": "L'Argimon",
+        "lat": "41.8306607507",
+        "lng": "2.63598108836",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/largimon/",
+        "fet": false
+    },
+    {
+        "area": "Selva, Vall\u00e8s Oriental",
+        "height": "1705",
+        "name": "Les Agudes",
+        "lat": "41.7893335256",
+        "lng": "2.44395480371",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/les-agudes/",
+        "fet": true
+    },
+    {
+        "area": "Selva",
+        "height": "1150",
+        "name": "Sant Benet",
+        "lat": "41.9487368657",
+        "lng": "2.51350177313",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-benet/",
+        "fet": false
+    },
+    {
+        "area": "Selva",
+        "height": "1203",
+        "name": "Sant Miquel de Solterra",
+        "lat": "41.923121729",
+        "lng": "2.53302886771",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-miquel-de-solterra/",
+        "fet": false
+    },
+    {
+        "area": "Selva",
+        "height": "633",
+        "name": "Tur\u00f3 de Montsoriu",
+        "lat": "41.7827714155",
+        "lng": "2.54064315408",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-de-montsoriu/",
+        "fet": false
+    },
+    {
+        "area": "Solson\u00e8s",
+        "height": "1526",
+        "name": "El Cogul",
+        "lat": "42.1100346816",
+        "lng": "1.6394532915",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/el-cogul/",
+        "fet": false
+    },
+    {
+        "area": "Solson\u00e8s",
+        "height": "2211",
+        "name": "Puig de les Morreres",
+        "lat": "42.1509179033",
+        "lng": "1.5394423235",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-les-morreres/",
+        "fet": false
+    },
+    {
+        "area": "Solson\u00e8s",
+        "height": "1938",
+        "name": "Puig Sobir\u00e0",
+        "lat": "42.1340410525",
+        "lng": "1.49765053388",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-sobira/",
+        "fet": false
+    },
+    {
+        "area": "Solson\u00e8s",
+        "height": "928",
+        "name": "Serra de Pin\u00f3s",
+        "lat": "41.8335886088",
+        "lng": "1.52894123151",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/serra-de-pinos/",
+        "fet": false
+    },
+    {
+        "area": "Terra Alta",
+        "height": "706",
+        "name": "Puig Cavaller",
+        "lat": "41.0277617786",
+        "lng": "0.437628283448",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-cavaller/",
+        "fet": false
+    },
+    {
+        "area": "Terra Alta",
+        "height": "659",
+        "name": "Punta Redona",
+        "lat": "41.0588485404",
+        "lng": "0.500927909963",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/punta-redona/",
+        "fet": false
+    },
+    {
+        "area": "Terra Alta",
+        "height": "1017",
+        "name": "Roques de Benet (el Castell)",
+        "lat": "40.90065369",
+        "lng": "0.326553661024",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roques-de-benet-el-castell/",
+        "fet": true
+    },
+    {
+        "area": "Terra Alta",
+        "height": "752",
+        "name": "Santa B\u00e0rbara",
+        "lat": "40.9568864446",
+        "lng": "0.338327729704",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/santa-barbara/",
+        "fet": false
+    },
+    {
+        "area": "Urgell",
+        "height": "459",
+        "name": "Pilar d'Almenara",
+        "lat": "41.7534156867",
+        "lng": "1.06724684153",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pilar-dalmenara/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2883",
+        "name": "Malh des Pois (la Forcanada)",
+        "lat": "42.6432185354",
+        "lng": "0.705628888897",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/malh-des-pois-la-forcanada/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2882",
+        "name": "Maub\u00e8rme",
+        "lat": "42.7937464428",
+        "lng": "0.917142208298",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/mauberme/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2833",
+        "name": "Montardo",
+        "lat": "42.6333280573",
+        "lng": "0.875353350552",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montardo/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2173",
+        "name": "Montcorbison",
+        "lat": "42.7078178721",
+        "lng": "0.758684327977",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montcorbison/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2518",
+        "name": "Montlude",
+        "lat": "42.7852609493",
+        "lng": "0.758715323462",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montlude/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2750",
+        "name": "Tossau de Mar",
+        "lat": "42.63029682",
+        "lng": "0.82896879",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossau-de-mar/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2802",
+        "name": "Tuc de Barlongu\u00e8ra",
+        "lat": "42.7885699239",
+        "lng": "1.0098439898",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-barlonguera/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "3010",
+        "name": "Tuc de Moli\u00e8res",
+        "lat": "42.6294790552",
+        "lng": "0.698560841901",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-molieres/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2269",
+        "name": "Tuc d'Era Entecada",
+        "lat": "42.7180741367",
+        "lng": "0.696960900078",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-dera-entecada/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2536",
+        "name": "Tuc dera Pinc\u00e8la",
+        "lat": "42.7428629004",
+        "lng": "0.875683713178",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-dera-pincela/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2194",
+        "name": "Tuc deth Plan deth Ome (Vacanera)",
+        "lat": "42.8461319437",
+        "lng": "0.675123685097",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-deth-plan-deth-ome-vacanera/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2606",
+        "name": "Tuc deth Port de Vielha",
+        "lat": "42.6418637321",
+        "lng": "0.765530738046",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-deth-port-de-vielha/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2703",
+        "name": "Tuc Gran dera Sendrosa",
+        "lat": "42.6239250652",
+        "lng": "0.946848989161",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-gran-dera-sendrosa/",
+        "fet": false
+    },
+    {
+        "area": "Vall\u00e8s Occidental",
+        "height": "939",
+        "name": "Castellsapera",
+        "lat": "41.6445253816",
+        "lng": "1.97087419147",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/castellsapera/",
+        "fet": true
+    },
+    {
+        "area": "Vall\u00e8s Occidental",
+        "height": "1102",
+        "name": "La Mola de Sant Lloren\u00e7 del Munt",
+        "lat": "41.6411519036",
+        "lng": "2.01767220976",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/la-mola-de-sant-llorenc-del-munt/",
+        "fet": true
+    },
+    {
+        "area": "Vall\u00e8s Occidental",
+        "height": "668",
+        "name": "Puig de la Creu",
+        "lat": "41.6292076749",
+        "lng": "2.10122891326",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-creu/",
+        "fet": true
+    },
+    {
+        "area": "Vall\u00e8s Occidental",
+        "height": "942",
+        "name": "Sant Sadurn\u00ed de Gallifa",
+        "lat": "41.702765106",
+        "lng": "2.12295683181",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-sadurni-de-gallifa/",
+        "fet": true
+    },
+    {
+        "area": "Vall\u00e8s Occidental",
+        "height": "635",
+        "name": "Tur\u00f3 del Ros",
+        "lat": "41.5763385712",
+        "lng": "1.93396849589",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-del-ros/",
+        "fet": false
+    },
+    {
+        "area": "Vall\u00e8s Oriental",
+        "height": "816",
+        "name": "Pic del Vent",
+        "lat": "41.6553025564",
+        "lng": "2.12829694974",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-del-vent/",
+        "fet": true
+    },
+    {
+        "area": "Vall\u00e8s Oriental",
+        "height": "808",
+        "name": "Puiggraci\u00f3s",
+        "lat": "41.7026698984",
+        "lng": "2.24118699931",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puiggracios/",
+        "fet": false
+    },
+    {
+        "area": "Vall\u00e8s Oriental",
+        "height": "1056",
+        "name": "Tagamanent",
+        "lat": "41.7474775481",
+        "lng": "2.29602067502",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tagamanent/",
+        "fet": false
+    },
+    {
+        "area": "Vall\u00e8s Oriental",
+        "height": "1273",
+        "name": "Tur\u00f3 del Samont",
+        "lat": "41.7426763307",
+        "lng": "2.36552500233",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-del-samont/",
+        "fet": true
+    },
+    {
+        "area": "Andorra",
+        "height": "2588",
+        "name": "Alt de Juclar",
+        "lat": "42.611704",
+        "lng": "1.709588",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/alt-de-juclar/",
+        "fet": false
+    },
+    {
+        "area": "Andorra",
+        "height": "2874",
+        "name": "Alt del Griu",
+        "lat": "42.525140",
+        "lng": "1.651239",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/alt-del-griu/",
+        "fet": false
+    },
+    {
+        "area": "Andorra",
+        "height": "2750",
+        "name": "Casamanya Nord",
+        "lat": "42.5873416545",
+        "lng": "1.5703040881",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/casamanya-nord/",
+        "fet": false
+    },
+    {
+        "area": "Andorra",
+        "height": "2942",
+        "name": "Comapedrosa",
+        "lat": "42.5918057015",
+        "lng": "1.44365450486",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/comapedrosa/",
+        "fet": false
+    },
+    {
+        "area": "Andorra",
+        "height": "2781",
+        "name": "Montmal\u00fas",
+        "lat": "42.5089260625",
+        "lng": "1.68656940099",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montmalus/",
+        "fet": false
+    },
+    {
+        "area": "Andorra",
+        "height": "2805",
+        "name": "Pic de Cataperd\u00eds",
+        "lat": "42.6148182182",
+        "lng": "1.4774275311",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-cataperdis/",
+        "fet": false
+    },
+    {
+        "area": "Andorra",
+        "height": "2903",
+        "name": "Pic de Font Blanca",
+        "lat": "42.6497189222",
+        "lng": "1.53440090753",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-font-blanca/",
+        "fet": false
+    },
+    {
+        "area": "Andorra",
+        "height": "2912",
+        "name": "Pic de la Serrera",
+        "lat": "42.625535127",
+        "lng": "1.602514145",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-la-serrera/",
+        "fet": false
+    },
+    {
+        "area": "Andorra",
+        "height": "2780",
+        "name": "Pic d'Escobes",
+        "lat": "42.6091788805",
+        "lng": "1.73563223829",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-descobes/",
+        "fet": false
+    },
+    {
+        "area": "Andorra, Cerdanya Nord",
+        "height": "2822",
+        "name": "Pic Negre d'Envalira",
+        "lat": "42.5172544705",
+        "lng": "1.72144258547",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-negre-denvalira/",
+        "fet": false
+    },
+    {
+        "area": "Andorra",
+        "height": "2811",
+        "name": "Roc Mel\u00e9",
+        "lat": "42.587786779",
+        "lng": "1.74181711408",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roc-mele/",
+        "fet": false
+    },
+    {
+        "area": "Andorra",
+        "height": "2657",
+        "name": "Tossa del Braibal",
+        "lat": "42.5029747118",
+        "lng": "1.59850483358",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tosa-del-braibal/",
+        "fet": false
+    },
+    {
+        "area": "Andorra",
+        "height": "2878",
+        "name": "Tristaina",
+        "lat": "42.6534200397",
+        "lng": "1.49344401828",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tristaina/",
+        "fet": false
+    },
+    {
+        "area": "Capcir",
+        "height": "2546",
+        "name": "Pic de Baixollada",
+        "lat": "42.6611074097",
+        "lng": "2.00222336016",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-baixollada/",
+        "fet": false
+    },
+    {
+        "area": "Capcir, Cerdanya Nord",
+        "height": "2810",
+        "name": "Puig Peric",
+        "lat": "42.6136270709",
+        "lng": "1.98444924692",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-peric/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya Nord",
+        "height": "2750",
+        "name": "Cambra d'Ase",
+        "lat": "42.450876",
+        "lng": "2.13126125",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/cambra-dase/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya Nord",
+        "height": "2921",
+        "name": "Carlit",
+        "lat": "42.569861",
+        "lng": "1.932099",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/carlit/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya Nord",
+        "height": "2738",
+        "name": "Pic de Font Freda",
+        "lat": "42.5363510575",
+        "lng": "1.7949934141",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-font-freda/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya Nord",
+        "height": "2137",
+        "name": "Pic dels Moros",
+        "lat": "42.5131817626",
+        "lng": "1.99099502046",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-dels-moros/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya Nord",
+        "height": "2671",
+        "name": "Puig de la Grava",
+        "lat": "42.6048517182",
+        "lng": "1.93347627782",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-grava/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya Nord",
+        "height": "2842",
+        "name": "Puig Pedr\u00f3s de Lan\u00f3s",
+        "lat": "42.588501",
+        "lng": "1.873090",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-pedros-de-lanos/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya Nord",
+        "height": "2774",
+        "name": "Roc del Boc",
+        "lat": "42.4463355484",
+        "lng": "2.15515749301",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roc-del-boc/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya Nord, Conflent",
+        "height": "2830",
+        "name": "Torre d'Eina",
+        "lat": "42.4344424965",
+        "lng": "2.14714732054",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/torre-deina/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya Nord",
+        "height": "1702",
+        "name": "Tur\u00f3 de Bell-lloc",
+        "lat": "42.4832775498",
+        "lng": "1.92218442466",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-de-bell-lloc/",
+        "fet": false
+    },
+    {
+        "area": "Conflent",
+        "height": "2784",
+        "name": "Canig\u00f3",
+        "lat": "42.518901928",
+        "lng": "2.45655964191",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/canigo/",
+        "fet": false
+    },
+    {
+        "area": "Conflent",
+        "height": "2870",
+        "name": "Pic de l'Infern",
+        "lat": "42.4239313658",
+        "lng": "2.21373246579",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-linfern/",
+        "fet": true
+    },
+    {
+        "area": "Conflent",
+        "height": "2782",
+        "name": "Pic de Rac\u00f3 Gros",
+        "lat": "42.4322202523",
+        "lng": "2.1871139362",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-raco-gros/",
+        "fet": false
+    },
+    {
+        "area": "Conflent",
+        "height": "2624",
+        "name": "Puig de Gallin\u00e0s",
+        "lat": "42.4777793254",
+        "lng": "2.2153093651",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-gallinas/",
+        "fet": false
+    },
+    {
+        "area": "Conflent",
+        "height": "2099",
+        "name": "Puig de les Tres Esteles",
+        "lat": "42.508771955",
+        "lng": "2.32321679045",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-les-tres-esteles/",
+        "fet": false
+    },
+    {
+        "area": "Conflent, Vallespir",
+        "height": "1778",
+        "name": "Puig de l'Estella",
+        "lat": "42.5146828414",
+        "lng": "2.55355631584",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-lestella/",
+        "fet": false
+    },
+    {
+        "area": "Conflent",
+        "height": "2469",
+        "name": "Roc de Madres",
+        "lat": "42.6518175066",
+        "lng": "2.19240962976",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roc-de-madres/",
+        "fet": false
+    },
+    {
+        "area": "Conflent",
+        "height": "1110",
+        "name": "Roca Gelera",
+        "lat": "42.6851098962",
+        "lng": "2.43770677452",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roca-gelera/",
+        "fet": false
+    },
+    {
+        "area": "Conflent",
+        "height": "1843",
+        "name": "Tuc Dormidor",
+        "lat": "42.708578",
+        "lng": "2.266140",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-dormidor/",
+        "fet": false
+    },
+    {
+        "area": "Rossell\u00f3",
+        "height": "507",
+        "name": "For\u00e7a Real",
+        "lat": "42.7269198717",
+        "lng": "2.70022626173",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/forca-real/",
+        "fet": false
+    },
+    {
+        "area": "Rossell\u00f3",
+        "height": "707",
+        "name": "Montolier de Perell\u00f3s",
+        "lat": "42.9185248623",
+        "lng": "2.86518569768",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montolier-de-perellos/",
+        "fet": false
+    },
+    {
+        "area": "Rossell\u00f3",
+        "height": "443",
+        "name": "Roc de Mallorca",
+        "lat": "42.616003",
+        "lng": "2.705595",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roc-de-mallorca/",
+        "fet": false
+    },
+    {
+        "area": "Rossell\u00f3",
+        "height": "656",
+        "name": "Torre de Madeloc",
+        "lat": "42.4904284262",
+        "lng": "3.07511682009",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/torre-de-madeloc/",
+        "fet": false
+    },
+    {
+        "area": "Rossell\u00f3",
+        "height": "498",
+        "name": "Torre del Far",
+        "lat": "42.8054119343",
+        "lng": "2.76180548558",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/torre-del-far/",
+        "fet": false
+    },
+    {
+        "area": "Rossell\u00f3, Vallespir",
+        "height": "1015",
+        "name": "Puig de Sant Cristau",
+        "lat": "42.4920219845",
+        "lng": "2.89069878728",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-sant-cristau/",
+        "fet": false
+    },
+    {
+        "area": "Conflent, Vallespir",
+        "height": "2731",
+        "name": "Puig de Tretzevents",
+        "lat": "42.492101894",
+        "lng": "2.4683643295",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-tretzevents/",
+        "fet": false
+    },
+    {
+        "area": "Vallespir",
+        "height": "1344",
+        "name": "Torres de Cabren\u00e7",
+        "lat": "42.3645718057",
+        "lng": "2.5421728176",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/torres-de-cabrenc/",
+        "fet": false
+    },
+    {
+        "area": "Alt Camp",
+        "height": "881",
+        "name": "El Cogull\u00f3 de Cabra",
+        "lat": "41.4290355033",
+        "lng": "1.30575794888",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/el-cogullo-de-cabra/",
+        "fet": false
+    },
+    {
+        "area": "Alt Pened\u00e8s",
+        "height": "703",
+        "name": "Clap\u00ed Vell",
+        "lat": "41.388047",
+        "lng": "1.542632",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/clapi-vell/",
+        "fet": false
+    },
+    {
+        "area": "Baix Llobregat",
+        "height": "1178",
+        "name": "L'Albarda Castellana",
+        "lat": "41.601020",
+        "lng": "1.813379",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/lalbarda-castellana/",
+        "fet": false
+    },
+    {
+        "area": "Baix Camp, Ribera d'Ebre",
+        "height": "919",
+        "name": "Miranda de Llaberia",
+        "lat": "41.092629",
+        "lng": "0.862623",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/miranda-de-llaberia/",
+        "fet": false
+    },
+    {
+        "area": "Baix Llobregat",
+        "height": "468",
+        "name": "Puig Vicen\u00e7",
+        "lat": "41.367809",
+        "lng": "1.954040",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-vicenc/",
+        "fet": false
+    },
+    {
+        "area": "Baix Ebre, Terra Alta",
+        "height": "1092",
+        "name": "Punta de l'Aigua",
+        "lat": "40.927734",
+        "lng": "0.368809",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/punta-de-laigua/",
+        "fet": false
+    },
+    {
+        "area": "Vallespir",
+        "height": "1235",
+        "name": "Roc de Sant Salvador",
+        "lat": "42.427344",
+        "lng": "2.694580",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roc-de-sant-salvador/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2645",
+        "name": "Tuc de Vaciv\u00e8r",
+        "lat": "42.712633",
+        "lng": "0.991789",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-baciver/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2508",
+        "name": "Tuc de Somont",
+        "lat": "42.751276",
+        "lng": "0.851899",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-samont/",
+        "fet": false
+    },
+    {
+        "area": "Bages",
+        "height": "930",
+        "name": "Tur\u00f3 de la Pola (o de les Tres Creus)",
+        "lat": "41.649950",
+        "lng": "1.969698",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-de-les-tres-creus/",
+        "fet": true
+    },
+    {
+        "area": "Alta Ribagor\u00e7a",
+        "height": "3023",
+        "name": "Besiberri Sud",
+        "lat": "42.593789",
+        "lng": "0.825995",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/besiberri-del-sud/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya Nord",
+        "height": "2826",
+        "name": "Puig de Coma d'Or",
+        "lat": "42.583556",
+        "lng": "1.873621",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-coma-dor/",
+        "fet": false
+    },
+    {
+        "area": "Andorra",
+        "height": "2915",
+        "name": "Pic de l'Estany\u00f3",
+        "lat": "42.608698",
+        "lng": "1.592584",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-lestanyo/",
+        "fet": false
+    },
+    {
+        "area": "Andorra, Cerdanya",
+        "height": "2753",
+        "name": "Tossal de la Truita (Pic de Perafita)",
+        "lat": "42.459196",
+        "lng": "1.585502",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-perafita/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya",
+        "height": "2842",
+        "name": "Tossal Bovinar",
+        "lat": "42.462752",
+        "lng": "1.631675",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-bovinar/",
+        "fet": false
+    },
+    {
+        "area": "Alt Empord\u00e0",
+        "height": "432",
+        "name": "Puig dels Bufadors",
+        "lat": "42.301067",
+        "lng": "3.248749",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-dels-bufadors/",
+        "fet": false
+    },
+    {
+        "area": "Alt Empord\u00e0",
+        "height": "463",
+        "name": "Puig de l'\u00c0liga (Cap de Creus)",
+        "lat": "42.280507",
+        "lng": "3.204968",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-laliga-cap-de-creus/",
+        "fet": false
+    },
+    {
+        "area": "Alt Empord\u00e0",
+        "height": "526",
+        "name": "Santa Magdalena",
+        "lat": "42.324546",
+        "lng": "2.825785",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/santa-magdalena/",
+        "fet": false
+    },
+    {
+        "area": "Alt Empord\u00e0",
+        "height": "1097",
+        "name": "Puig Falc\u00f3",
+        "lat": "42.375290",
+        "lng": "2.667094",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-falco/",
+        "fet": false
+    },
+    {
+        "area": "Alt Empord\u00e0, Baix Empord\u00e0",
+        "height": "175",
+        "name": "Puig Segalar",
+        "lat": "42.112440",
+        "lng": "3.049930",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-segalar/",
+        "fet": false
+    },
+    {
+        "area": "Alt Empord\u00e0, Garrotxa",
+        "height": "1087",
+        "name": "Tossa d'Espinau",
+        "lat": "42.273432",
+        "lng": "2.692850",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossa-despinau/",
+        "fet": false
+    },
+    {
+        "area": "Alt Empord\u00e0, Rossell\u00f3",
+        "height": "207",
+        "name": "Puig de Cervera",
+        "lat": "42.435216",
+        "lng": "3.170752",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-cervera/",
+        "fet": false
+    },
+    {
+        "area": "Alt Empord\u00e0, Rossell\u00f3",
+        "height": "754",
+        "name": "Puig d'en Jord\u00e0",
+        "lat": "42.427758",
+        "lng": "3.082050",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-den-jorda/",
+        "fet": false
+    },
+    {
+        "area": "Alt Empord\u00e0, Vallespir",
+        "height": "832",
+        "name": "Puig dels Pruners",
+        "lat": "42.428005",
+        "lng": "2.802938",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-dels-pruners/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell",
+        "height": "1211",
+        "name": "Tossal de Baliny\u00f3",
+        "lat": "42.188403",
+        "lng": "1.343498",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-balinyo/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell",
+        "height": "854",
+        "name": "Roc de les Tres Creus",
+        "lat": "42.091256",
+        "lng": "1.309484",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roc-de-les-tres-creus/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell",
+        "height": "1503",
+        "name": "Sant Quiri",
+        "lat": "42.305240",
+        "lng": "1.301323",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-quiri/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell",
+        "height": "1523",
+        "name": "Penya Aguda",
+        "lat": "42.214531",
+        "lng": "1.267256",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/penya-aguda/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell",
+        "height": "1757",
+        "name": "l'Oratori",
+        "lat": "42.201373",
+        "lng": "1.218321",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/loratori/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell",
+        "height": "1429",
+        "name": "Serrat de Carrasquers",
+        "lat": "42.132545",
+        "lng": "1.192696",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/serrat-de-carrasquers/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell",
+        "height": "2020",
+        "name": "Roc Roi",
+        "lat": "42.435353",
+        "lng": "1.338294",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roc-roi/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell",
+        "height": "1818",
+        "name": "Tossal de Bad\u00e9s",
+        "lat": "42.323748",
+        "lng": "1.624994",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-bades/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell",
+        "height": "1846",
+        "name": "Cap de Pla Redon",
+        "lat": "42.275525",
+        "lng": "1.267020",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/cap-de-pla-redon/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell",
+        "height": "885",
+        "name": "Roc de Cogul",
+        "lat": "42.065286",
+        "lng": "1.265430",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roc-de-cogul/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell",
+        "height": "1631",
+        "name": "Tossal de Llet\u00f3",
+        "lat": "42.311767",
+        "lng": "1.542997",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-lleto/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell, Bergued\u00e0, Cerdanya",
+        "height": "2604",
+        "name": "Pic de Costa Cabirolera",
+        "lat": "42.281459",
+        "lng": "1.670418",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-costa-cabirolera/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell, Cerdanya",
+        "height": "2493",
+        "name": "Tur\u00f3 Pun\u00e7\u00f3",
+        "lat": "42.424555",
+        "lng": "1.600995",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-punco/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell, Solson\u00e8s",
+        "height": "1870",
+        "name": "Roca de Migdia (Serra del Verd)",
+        "lat": "42.207929",
+        "lng": "1.568135",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roca-de-migdia-serra-del-verd/",
+        "fet": false
+    },
+    {
+        "area": "Alt Urgell, Solson\u00e8s",
+        "height": "1299",
+        "name": "Roca del Coscoll\u00f3",
+        "lat": "42.127821",
+        "lng": "1.354350",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roca-del-coscollo/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a",
+        "height": "2791",
+        "name": "Tuc des Carants",
+        "lat": "42.514046",
+        "lng": "0.903326",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-des-carants/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a",
+        "height": "2958",
+        "name": "Pic de Contraix",
+        "lat": "42.585240",
+        "lng": "0.906931",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-contraix/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a",
+        "height": "2952",
+        "name": "Punta Senyalada",
+        "lat": "42.591370",
+        "lng": "0.808478",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/punta-senyalada/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a",
+        "height": "2585",
+        "name": "Pic Roi",
+        "lat": "42.565195",
+        "lng": "0.798188",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-roi/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a",
+        "height": "2532",
+        "name": "l'A\u00fct",
+        "lat": "42.541340",
+        "lng": "0.808755",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/laut/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a",
+        "height": "2449",
+        "name": "Cap de Gelada",
+        "lat": "42.521551",
+        "lng": "0.765144",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/cap-de-gelada/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a, Pallars Juss\u00e0",
+        "height": "1839",
+        "name": "l'Avedoga d'Adons",
+        "lat": "42.314116",
+        "lng": "0.838204",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/lavedoga-dadons/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a, Pallars Juss\u00e0",
+        "height": "2857",
+        "name": "Pic de Mariolo (Pic de Neriolo)",
+        "lat": "42.530730",
+        "lng": "0.957631",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-mariolo-pic-de-neriolo/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a, Pallars Juss\u00e0",
+        "height": "1546",
+        "name": "Tossal Gros (Serra de Sant Gerv\u00e0s)",
+        "lat": "42.333077",
+        "lng": "0.771100",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-gros-serra-de-sant-gervas/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a, Val d'Aran",
+        "height": "2699",
+        "name": "Tuc des Monges",
+        "lat": "42.622386",
+        "lng": "0.866017",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-des-monges/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a, Val d'Aran",
+        "height": "2780",
+        "name": "Tuc de la Contesa",
+        "lat": "42.615515",
+        "lng": "0.788591",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-la-contesa/",
+        "fet": false
+    },
+    {
+        "area": "Alta Ribagor\u00e7a, Val d'Aran",
+        "height": "2676",
+        "name": "Tuc de Ribereta",
+        "lat": "42.626145",
+        "lng": "0.895240",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-ribereta/",
+        "fet": false
+    },
+    {
+        "area": "Anoia",
+        "height": "993",
+        "name": "Miranda del Pr\u00edncep",
+        "lat": "41.604897",
+        "lng": "1.792784",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/miranda-del-princep/",
+        "fet": false
+    },
+    {
+        "area": "Anoia, Baix Llobregat",
+        "height": "416",
+        "name": "Tur\u00f3 de Can Dolcet",
+        "lat": "41.555408",
+        "lng": "1.815801",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-de-can-dolcet/",
+        "fet": false
+    },
+    {
+        "area": "Bages",
+        "height": "755",
+        "name": "Tur\u00f3 del Mal Pas",
+        "lat": "41.671376",
+        "lng": "1.954693",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-del-mal-pas/",
+        "fet": false
+    },
+    {
+        "area": "Bages",
+        "height": "595",
+        "name": "Tur\u00f3 de l'Ermit\u00e0",
+        "lat": "41.620262",
+        "lng": "1.815019",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-de-lermita/",
+        "fet": false
+    },
+    {
+        "area": "Bages",
+        "height": "522",
+        "name": "Puig-alter",
+        "lat": "41.813930",
+        "lng": "1.785542",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-alter/",
+        "fet": false
+    },
+    {
+        "area": "Bages",
+        "height": "617",
+        "name": "el Garrof\u00ed",
+        "lat": "41.861259",
+        "lng": "1.938720",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/el-garrofi/",
+        "fet": false
+    },
+    {
+        "area": "Baix Camp",
+        "height": "525",
+        "name": "el Bres",
+        "lat": "41.153937",
+        "lng": "0.977411",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/el-bres/",
+        "fet": false
+    },
+    {
+        "area": "Baix Camp",
+        "height": "542",
+        "name": "Serret del Cisa",
+        "lat": "41.199653",
+        "lng": "1.017457",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/serret-del-cisa/",
+        "fet": false
+    },
+    {
+        "area": "Baix Camp",
+        "height": "641",
+        "name": "Santa B\u00e0rbara (Escornalbou)",
+        "lat": "41.127021",
+        "lng": "0.914951",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/santa-barbara-escornalbou/",
+        "fet": false
+    },
+    {
+        "area": "Baix Camp",
+        "height": "697",
+        "name": "Tossal de l'Alzina",
+        "lat": "40.968088",
+        "lng": "0.809551",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-lalzina/",
+        "fet": false
+    },
+    {
+        "area": "Baix Camp",
+        "height": "551",
+        "name": "Punta del Pallars",
+        "lat": "41.012469",
+        "lng": "0.873881",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/punta-del-pallars/",
+        "fet": false
+    },
+    {
+        "area": "Baix Ebre",
+        "height": "812",
+        "name": "la Moleta",
+        "lat": "40.899297",
+        "lng": "0.417868",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/la-moleta/",
+        "fet": false
+    },
+    {
+        "area": "Baix Ebre",
+        "height": "1034",
+        "name": "Mola Castellona",
+        "lat": "40.799761",
+        "lng": "0.369778",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/mola-castellona/",
+        "fet": false
+    },
+    {
+        "area": "Baix Ebre",
+        "height": "429",
+        "name": "lo Caramull",
+        "lat": "40.987114",
+        "lng": "0.547846",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/lo-caramull/",
+        "fet": false
+    },
+    {
+        "area": "Baix Ebre",
+        "height": "528",
+        "name": "Montaspre",
+        "lat": "40.875580",
+        "lng": "0.570928",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montaspre/",
+        "fet": false
+    },
+    {
+        "area": "Baix Ebre, Montsi\u00e0",
+        "height": "1350",
+        "name": "Catinell",
+        "lat": "40.758730",
+        "lng": "0.289653",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/catinell/",
+        "fet": false
+    },
+    {
+        "area": "Baix Ebre, Ribera d'Ebre",
+        "height": "772",
+        "name": "Les Pic\u00f2ssies",
+        "lat": "40.963486",
+        "lng": "0.584370",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roca-de-la-barca-les-picossies/",
+        "fet": false
+    },
+    {
+        "area": "Baix Ebre, Ribera d'Ebre",
+        "height": "394",
+        "name": "Tossal de Montagut",
+        "lat": "40.941305",
+        "lng": "0.714712",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-montagut/",
+        "fet": false
+    },
+    {
+        "area": "Baix Ebre, Terra Alta",
+        "height": "1070",
+        "name": "Moleta de les Canals",
+        "lat": "40.909033",
+        "lng": "0.362741",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/moleta-de-les-canals/",
+        "fet": false
+    },
+    {
+        "area": "Baix Ebre, Terra Alta",
+        "height": "1217",
+        "name": "Tosseta Rasa",
+        "lat": "40.845019",
+        "lng": "0.327442",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tosseta-rasa/",
+        "fet": false
+    },
+    {
+        "area": "Baix Empord\u00e0",
+        "height": "225",
+        "name": "Roca Maura",
+        "lat": "42.055397",
+        "lng": "3.189831",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roca-maura/",
+        "fet": false
+    },
+    {
+        "area": "Baix Empord\u00e0",
+        "height": "417",
+        "name": "Puig de les Cols",
+        "lat": "41.780436",
+        "lng": "2.975677",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-les-cols/",
+        "fet": false
+    },
+    {
+        "area": "Baix Llobregat",
+        "height": "533",
+        "name": "les Solius",
+        "lat": "41.308457",
+        "lng": "1.886802",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/les-solius/",
+        "fet": false
+    },
+    {
+        "area": "Baix Pened\u00e8s",
+        "height": "551",
+        "name": "Puig Franc\u00e0s",
+        "lat": "41.301168",
+        "lng": "1.458887",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-francas/",
+        "fet": false
+    },
+    {
+        "area": "Barcelon\u00e8s",
+        "height": "266",
+        "name": "Tur\u00f3 d'en M\u00f3ra (Tur\u00f3 del Carmel)",
+        "lat": "41.418435",
+        "lng": "2.153352",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-den-mora-turo-del-carmel/",
+        "fet": false
+    },
+    {
+        "area": "Bergued\u00e0",
+        "height": "2282",
+        "name": "Serrat Voltor",
+        "lat": "42.188121",
+        "lng": "1.777023",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/serrat-voltor/",
+        "fet": false
+    },
+    {
+        "area": "Bergued\u00e0",
+        "height": "1117",
+        "name": "Serrat de Sant Isidre",
+        "lat": "42.090509",
+        "lng": "1.961989",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/serrat-de-sant-isidre/",
+        "fet": false
+    },
+    {
+        "area": "Bergued\u00e0",
+        "height": "1082",
+        "name": "Serrat de Migdia (Serrat de Picancel)",
+        "lat": "42.118155",
+        "lng": "1.931652",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/serrat-de-migdia-serrat-de-picancel/",
+        "fet": false
+    },
+    {
+        "area": "Bergued\u00e0",
+        "height": "1157",
+        "name": "Sant Salvador",
+        "lat": "42.061364",
+        "lng": "1.781976",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-salvador/",
+        "fet": false
+    },
+    {
+        "area": "Bergued\u00e0",
+        "height": "2445",
+        "name": "Polleg\u00f3 Inferior (Pedraforca)",
+        "lat": "42.235630",
+        "lng": "1.707024",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pollego-inferior-pedraforca/",
+        "fet": true
+    },
+    {
+        "area": "Bergued\u00e0",
+        "height": "1615",
+        "name": "Roca del Joc (Roca de la Devesa Jussana)",
+        "lat": "42.215193",
+        "lng": "1.963730",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roca-del-joc-roca-de-la-devesa-jussana/",
+        "fet": false
+    },
+    {
+        "area": "Bergued\u00e0",
+        "height": "963",
+        "name": "Montsent (Serrat de Picancel)",
+        "lat": "42.095783",
+        "lng": "1.908241",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montsent-serrat-de-picancel/",
+        "fet": false
+    },
+    {
+        "area": "Bergued\u00e0",
+        "height": "1820",
+        "name": "Cap de la Boixassa",
+        "lat": "42.288559",
+        "lng": "1.798617",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/cap-de-la-boixassa/",
+        "fet": false
+    },
+    {
+        "area": "Bergued\u00e0",
+        "height": "682",
+        "name": "Serrat de la Madrona",
+        "lat": "41.990488",
+        "lng": "1.843372",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/serrat-de-la-madrona/",
+        "fet": false
+    },
+    {
+        "area": "Bergued\u00e0",
+        "height": "1326",
+        "name": "Tossal Llisol",
+        "lat": "42.201154",
+        "lng": "1.843530",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-llisoi/",
+        "fet": false
+    },
+    {
+        "area": "Bergued\u00e0, Ripoll\u00e8s",
+        "height": "2067",
+        "name": "la Creueta",
+        "lat": "42.305552",
+        "lng": "2.002298",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/la-creueta/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya",
+        "height": "2256",
+        "name": "Tossal Gros (Pelat de Talltendre)",
+        "lat": "42.420227",
+        "lng": "1.734439",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-gros-pelat-de-talltendre/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya",
+        "height": "2088",
+        "name": "Roca Gran",
+        "lat": "42.316284",
+        "lng": "1.711598",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roca-gran/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya",
+        "height": "1358",
+        "name": "Castell de Ll\u00edvia",
+        "lat": "42.467845",
+        "lng": "1.985909",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/castell-de-llivia/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya, Cerdanya Nord",
+        "height": "2869",
+        "name": "Tosseta de l'Esquella (Pic de Calm Colomer)",
+        "lat": "42.492381",
+        "lng": "1.730058",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tosseta-de-lesquella-pic-de-calm-colomer/",
+        "fet": false
+    },
+    {
+        "area": "Garrigues, Priorat",
+        "height": "923",
+        "name": "Punta del General",
+        "lat": "41.341427",
+        "lng": "0.878149",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/punta-del-general/",
+        "fet": false
+    },
+    {
+        "area": "Garrotxa",
+        "height": "907",
+        "name": "Roca Lladre",
+        "lat": "42.136518",
+        "lng": "2.498130",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roca-lladre/",
+        "fet": false
+    },
+    {
+        "area": "Garrotxa",
+        "height": "793",
+        "name": "Sant Miquel del Mont",
+        "lat": "42.197876",
+        "lng": "2.446635",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-miquel-del-mont/",
+        "fet": false
+    },
+    {
+        "area": "Garrotxa, Osona",
+        "height": "1488",
+        "name": "Puig Cubell",
+        "lat": "42.137669",
+        "lng": "2.350877",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-cubell/",
+        "fet": false
+    },
+    {
+        "area": "Giron\u00e8s",
+        "height": "500",
+        "name": "Sant Grau",
+        "lat": "41.992444",
+        "lng": "2.715114",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-grau/",
+        "fet": false
+    },
+    {
+        "area": "Maresme",
+        "height": "264",
+        "name": "Montpalau",
+        "lat": "41.642219",
+        "lng": "2.670392",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montpalau/",
+        "fet": false
+    },
+    {
+        "area": "Moian\u00e8s",
+        "height": "832",
+        "name": "C\u00f2dol del Castellar",
+        "lat": "41.740942",
+        "lng": "2.059581",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/codol-del-castellar/",
+        "fet": false
+    },
+    {
+        "area": "Montsi\u00e0",
+        "height": "406",
+        "name": "la Cogula",
+        "lat": "40.577228",
+        "lng": "0.482468",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/la-cogula/",
+        "fet": false
+    },
+    {
+        "area": "Montsi\u00e0",
+        "height": "433",
+        "name": "els Quatre Mollons",
+        "lat": "40.643029",
+        "lng": "0.561878",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/els-quatre-mollons/",
+        "fet": false
+    },
+    {
+        "area": "Montsi\u00e0",
+        "height": "1098",
+        "name": "la Portella del Pinell",
+        "lat": "40.712783",
+        "lng": "0.306421",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/la-portella-del-pinell/",
+        "fet": false
+    },
+    {
+        "area": "Noguera",
+        "height": "1002",
+        "name": "el Cogull\u00f3",
+        "lat": "41.998183",
+        "lng": "1.039182",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/el-cogullo/",
+        "fet": false
+    },
+    {
+        "area": "Noguera",
+        "height": "715",
+        "name": "Mont-roig (Cim de les Altures)",
+        "lat": "41.902987",
+        "lng": "0.878650",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/mont-roig-cim-de-les-altures/",
+        "fet": false
+    },
+    {
+        "area": "Noguera",
+        "height": "740",
+        "name": "Tossal de Sant Jordi",
+        "lat": "41.899053",
+        "lng": "0.892467",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-sant-jordi/",
+        "fet": false
+    },
+    {
+        "area": "Noguera",
+        "height": "574",
+        "name": "Monter\u00f3",
+        "lat": "41.862861",
+        "lng": "0.852997",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montero/",
+        "fet": false
+    },
+    {
+        "area": "Noguera",
+        "height": "699",
+        "name": "Torre de les Conclues",
+        "lat": "42.016106",
+        "lng": "0.658726",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/torre-de-les-conclues/",
+        "fet": false
+    },
+    {
+        "area": "Noguera",
+        "height": "1014",
+        "name": "Punta d'Ossos",
+        "lat": "41.949799",
+        "lng": "0.632397",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/punta-dossos/",
+        "fet": false
+    },
+    {
+        "area": "Noguera",
+        "height": "877",
+        "name": "Malera",
+        "lat": "41.929903",
+        "lng": "0.720439",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/malera/",
+        "fet": false
+    },
+    {
+        "area": "Noguera",
+        "height": "591",
+        "name": "Munt de Montson\u00eds",
+        "lat": "41.885768",
+        "lng": "1.014055",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/munt-de-montsonis/",
+        "fet": false
+    },
+    {
+        "area": "Noguera",
+        "height": "326",
+        "name": "Tossal de Mormur",
+        "lat": "41.779937",
+        "lng": "0.749767",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-mormur/",
+        "fet": false
+    },
+    {
+        "area": "Noguera, Pallars Juss\u00e0",
+        "height": "1471",
+        "name": "lo Peladet",
+        "lat": "42.026270",
+        "lng": "0.912398",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/lo-peladet/",
+        "fet": false
+    },
+    {
+        "area": "Osona",
+        "height": "832",
+        "name": "Puig del Far",
+        "lat": "41.959633",
+        "lng": "2.376163",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-del-far/",
+        "fet": false
+    },
+    {
+        "area": "Osona",
+        "height": "830",
+        "name": "Serrat Alt",
+        "lat": "42.080405",
+        "lng": "2.259536",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/serrat-alt/",
+        "fet": false
+    },
+    {
+        "area": "Osona",
+        "height": "1030",
+        "name": "Castell de Besora",
+        "lat": "42.123941",
+        "lng": "2.251122",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/castell-de-besora/",
+        "fet": false
+    },
+    {
+        "area": "Osona",
+        "height": "859",
+        "name": "Sant Mart\u00ed Xic (Castell de Voltreg\u00e0)",
+        "lat": "42.010248",
+        "lng": "2.206427",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-marti-xic-castell-de-voltrega/",
+        "fet": false
+    },
+    {
+        "area": "Osona",
+        "height": "1265",
+        "name": "Tur\u00f3 del Pou d'en Sala",
+        "lat": "41.832591",
+        "lng": "2.347413",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-del-pou-den-sala/",
+        "fet": false
+    },
+    {
+        "area": "Llu\u00e7an\u00e8s ",
+        "height": "895",
+        "name": "Castell de Llu\u00e7\u00e0",
+        "lat": "42.054577",
+        "lng": "2.040229",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/castell-de-lluca/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Juss\u00e0",
+        "height": "1749",
+        "name": "Cap de Carreu",
+        "lat": "42.193570",
+        "lng": "1.123586",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/cap-de-carreu/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Juss\u00e0",
+        "height": "1489",
+        "name": "Rocalta",
+        "lat": "42.211578",
+        "lng": "1.044505",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/rocalta/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Juss\u00e0",
+        "height": "1425",
+        "name": "Tossal de Codonyac",
+        "lat": "42.227967",
+        "lng": "0.814206",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-codonyac/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Juss\u00e0",
+        "height": "2886",
+        "name": "Pic Tort",
+        "lat": "42.533747",
+        "lng": "0.988832",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-tort/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Juss\u00e0",
+        "height": "2549",
+        "name": "Pic de l'Espada",
+        "lat": "42.499185",
+        "lng": "0.971881",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-lespada/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Juss\u00e0",
+        "height": "2686",
+        "name": "Pic de Llena",
+        "lat": "42.446888",
+        "lng": "0.917915",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-llena/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Juss\u00e0",
+        "height": "1613",
+        "name": "Santa B\u00e0rbara (Vall Fosca)",
+        "lat": "42.380797",
+        "lng": "0.923423",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/santa-barbara-vall-fosca/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Juss\u00e0",
+        "height": "1327",
+        "name": "el Cod\u00f3",
+        "lat": "42.301519",
+        "lng": "0.914596",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/el-codo/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Juss\u00e0, Pallars Sobir\u00e0",
+        "height": "2909",
+        "name": "Pic de la Mainera",
+        "lat": "42.524480",
+        "lng": "1.027159",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-la-mainera/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "1913",
+        "name": "Tossal del Puial",
+        "lat": "42.341786",
+        "lng": "1.133030",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-del-puial/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2226",
+        "name": "Pui d'Urdosa",
+        "lat": "42.471185",
+        "lng": "1.248309",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pui-durdosa/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2859",
+        "name": "Pic de Gerri",
+        "lat": "42.597526",
+        "lng": "1.394249",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-gerri/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2965",
+        "name": "Pic de Canalbona",
+        "lat": "42.656583",
+        "lng": "1.405891",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-canalbona/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2782",
+        "name": "Pic de Flamisella",
+        "lat": "42.712741",
+        "lng": "1.261402",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-flamisella/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2085",
+        "name": "Pui de Cassibr\u00f3s",
+        "lat": "42.560695",
+        "lng": "1.264857",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pui-de-cassibros/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "1718",
+        "name": "Pui Tabaca",
+        "lat": "42.588479",
+        "lng": "1.223107",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pui-tabaca/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2830",
+        "name": "Pic de Saboredo",
+        "lat": "42.607902",
+        "lng": "0.981018",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-saboredo/",
+        "fet": true
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2890",
+        "name": "Montsaliente",
+        "lat": "42.603103",
+        "lng": "1.008688",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montsaliente/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2778",
+        "name": "Pui de la Bonaigua",
+        "lat": "42.627196",
+        "lng": "1.019481",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pui-de-la-bonaigua/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2593",
+        "name": "Montarenyo de Bold\u00eds",
+        "lat": "42.637993",
+        "lng": "1.307491",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montarenyo-de-boldis/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2934",
+        "name": "Pic de Baborte",
+        "lat": "42.657463",
+        "lng": "1.367073",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-baborte/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2570",
+        "name": "Pic de Colatx",
+        "lat": "42.724307",
+        "lng": "1.325358",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-colatx/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2741",
+        "name": "Cap de Broate",
+        "lat": "42.692368",
+        "lng": "1.364376",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/cap-de-broate/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2663",
+        "name": "Pic de Mariola",
+        "lat": "42.720051",
+        "lng": "1.216644",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-mariola/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2851",
+        "name": "Pic de Ventolau",
+        "lat": "42.690651",
+        "lng": "1.190422",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-ventolau/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2496",
+        "name": "Pic de Montalt",
+        "lat": "42.750379",
+        "lng": "1.132836",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-montalt/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2639",
+        "name": "Pic de Q\u00fcenca",
+        "lat": "42.699814",
+        "lng": "1.054304",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-quenca/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2493",
+        "name": "Pic de la Plana",
+        "lat": "42.661582",
+        "lng": "1.036675",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-la-plana/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "1315",
+        "name": "Tossal de l'\u00c0liga (la Geganta Adormida)",
+        "lat": "42.298927",
+        "lng": "1.018841",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-de-laliga-la-geganta-adormida/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2734",
+        "name": "Pic del Portarr\u00f3",
+        "lat": "42.583737",
+        "lng": "0.970147",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-del-portarro/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2870",
+        "name": "Pui de Linya",
+        "lat": "42.565985",
+        "lng": "1.043251",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pui-de-linya/",
+        "fet": false
+    },
+    {
+        "area": "Pallars Sobir\u00e0",
+        "height": "2802",
+        "name": "les Picardes",
+        "lat": "42.527161",
+        "lng": "1.052679",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/les-picardes/",
+        "fet": false
+    },
+    {
+        "area": "Andorra, Pallars Sobir\u00e0",
+        "height": "2889",
+        "name": "Pic de Sanfonts",
+        "lat": "42.587471",
+        "lng": "1.427663",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-sanfonts/",
+        "fet": false
+    },
+    {
+        "area": "Andorra, Pallars Sobir\u00e0",
+        "height": "2929",
+        "name": "Roca Entravessada",
+        "lat": "42.598398",
+        "lng": "1.442189",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roca-entravessada/",
+        "fet": false
+    },
+    {
+        "area": "Pla de l'Estany",
+        "height": "315",
+        "name": "Puig Clar\u00e0",
+        "lat": "42.132836",
+        "lng": "2.738329",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-clara/",
+        "fet": false
+    },
+    {
+        "area": "Priorat",
+        "height": "1062",
+        "name": "Punta dels Pins Carrassers",
+        "lat": "41.305632",
+        "lng": "0.842026",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/punta-dels-pins-carrassers/",
+        "fet": false
+    },
+    {
+        "area": "Priorat",
+        "height": "682",
+        "name": "lo Morral",
+        "lat": "41.156296",
+        "lng": "0.851249",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/lo-morral/",
+        "fet": false
+    },
+    {
+        "area": "Ribera d'Ebre",
+        "height": "425",
+        "name": "les C\u00e0rcoles",
+        "lat": "41.035922",
+        "lng": "0.679571",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/les-carcoles/",
+        "fet": false
+    },
+    {
+        "area": "Ribera d'Ebre",
+        "height": "492",
+        "name": "Pic de l'\u00c0guila",
+        "lat": "41.139903",
+        "lng": "0.602189",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-laguila/",
+        "fet": false
+    },
+    {
+        "area": "Ribera d'Ebre, Terra Alta",
+        "height": "383",
+        "name": "l'\u00c0liga (Mola del Broi)",
+        "lat": "41.027710",
+        "lng": "0.557909",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/laliga/",
+        "fet": false
+    },
+    {
+        "area": "Ripoll\u00e8s",
+        "height": "1361",
+        "name": "Sant Antoni",
+        "lat": "42.305123",
+        "lng": "2.375953",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-antoni/",
+        "fet": false
+    },
+    {
+        "area": "Ripoll\u00e8s",
+        "height": "2714",
+        "name": "Gra de Fajol",
+        "lat": "42.415480",
+        "lng": "2.247755",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/gra-de-fajol/",
+        "fet": true
+    },
+    {
+        "area": "Cerdanya Nord, Ripoll\u00e8s",
+        "height": "2547",
+        "name": "Puig de D\u00f2rria",
+        "lat": "42.361767",
+        "lng": "2.084664",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-dorria/",
+        "fet": false
+    },
+    {
+        "area": "Conflent, Ripoll\u00e8s, Vallespir",
+        "height": "2506",
+        "name": "Roca Colom",
+        "lat": "42.425151",
+        "lng": "2.318749",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roca-colom/",
+        "fet": false
+    },
+    {
+        "area": "Segarra",
+        "height": "526",
+        "name": "Tossal del Mas de Nadal",
+        "lat": "41.825562",
+        "lng": "1.317351",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-del-mas-de-nadal/",
+        "fet": false
+    },
+    {
+        "area": "Segri\u00e0",
+        "height": "346",
+        "name": "Tossal Gros d'Almatret",
+        "lat": "41.333165",
+        "lng": "0.381876",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-gros-dalmatret/",
+        "fet": false
+    },
+    {
+        "area": "Selva",
+        "height": "233",
+        "name": "Tur\u00f3 de Puigmar\u00ed",
+        "lat": "41.754554",
+        "lng": "2.730416",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-de-puigmari/",
+        "fet": false
+    },
+    {
+        "area": "Selva",
+        "height": "852",
+        "name": "Roques del Rei",
+        "lat": "41.885280",
+        "lng": "2.565848",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roques-del-rei/",
+        "fet": false
+    },
+    {
+        "area": "Selva",
+        "height": "442",
+        "name": "Tur\u00f3 del Vent",
+        "lat": "41.861292",
+        "lng": "2.631007",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-del-vent/",
+        "fet": false
+    },
+    {
+        "area": "Selva",
+        "height": "839",
+        "name": "Puigdefrou",
+        "lat": "41.963543",
+        "lng": "2.592501",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puigdefrou/",
+        "fet": false
+    },
+    {
+        "area": "Solson\u00e8s",
+        "height": "1189",
+        "name": "Mola de Lord",
+        "lat": "42.116674",
+        "lng": "1.581828",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/mola-de-lord/",
+        "fet": false
+    },
+    {
+        "area": "Solson\u00e8s",
+        "height": "1448",
+        "name": "la Gu\u00e0rdia (Serra de Busa)",
+        "lat": "42.093104",
+        "lng": "1.624209",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/la-guardia-serra-de-busa/",
+        "fet": false
+    },
+    {
+        "area": "Solson\u00e8s",
+        "height": "1415",
+        "name": "Roc de les Monges (Serrat de la Q\u00fcesti\u00f3)",
+        "lat": "42.096656",
+        "lng": "1.717248",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roc-de-les-monges-serrat-de-la-questio/",
+        "fet": false
+    },
+    {
+        "area": "Solson\u00e8s",
+        "height": "1153",
+        "name": "Roc del Migdia (la Valldan)",
+        "lat": "42.104533",
+        "lng": "1.362394",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/roc-del-migdia-la-valldan/",
+        "fet": false
+    },
+    {
+        "area": "Tarragon\u00e8s",
+        "height": "110",
+        "name": "Sant Simplici",
+        "lat": "41.144903",
+        "lng": "1.337035",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-simplici/",
+        "fet": false
+    },
+    {
+        "area": "Terra Alta",
+        "height": "538",
+        "name": "Mola d'Irto",
+        "lat": "41.041788",
+        "lng": "0.474800",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/mola-dirto/",
+        "fet": false
+    },
+    {
+        "area": "Terra Alta",
+        "height": "1193",
+        "name": "la Miranda de Terranyes",
+        "lat": "40.835005",
+        "lng": "0.280338",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/la-miranda-de-terranyes/",
+        "fet": false
+    },
+    {
+        "area": "Terra Alta",
+        "height": "621",
+        "name": "Rocamala",
+        "lat": "40.992862",
+        "lng": "0.397732",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/rocamala/",
+        "fet": false
+    },
+    {
+        "area": "Terra Alta",
+        "height": "841",
+        "name": "lo Blau (Roca Grossa Moletans)",
+        "lat": "40.870771",
+        "lng": "0.266146",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/lo-blau-roca-grossa-moletans/",
+        "fet": false
+    },
+    {
+        "area": "Urgell",
+        "height": "368",
+        "name": "Tossal d'Esp\u00edgol",
+        "lat": "41.711267",
+        "lng": "1.089982",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tossal-despigol/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2956",
+        "name": "Tuc de la Tallada",
+        "lat": "42.616766",
+        "lng": "0.723704",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-la-tallada/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2485",
+        "name": "Tuc de Salana",
+        "lat": "42.646875",
+        "lng": "0.908438",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-salana/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2504",
+        "name": "Pujoalbo",
+        "lat": "42.655205",
+        "lng": "0.840139",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pujoalbo/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2710",
+        "name": "Malh dera Artiga",
+        "lat": "42.658615",
+        "lng": "0.695561",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/malh-dera-artiga/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2731",
+        "name": "Tuc de Parros",
+        "lat": "42.767776",
+        "lng": "0.933047",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-parros/",
+        "fet": true
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2753",
+        "name": "Malh de Bolard",
+        "lat": "42.805808",
+        "lng": "0.960450",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/malh-de-bolard/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2630",
+        "name": "Tuc de Crab\u00e8ra",
+        "lat": "42.825700",
+        "lng": "0.858212",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-crabera/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2339",
+        "name": "Montanha d'Uish\u00e8ra",
+        "lat": "42.765611",
+        "lng": "0.732791",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/montanha-duishera/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2163",
+        "name": "Tuc d'Arres",
+        "lat": "42.743713",
+        "lng": "0.663349",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-darres/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2534",
+        "name": "Tuc des Arm\u00e8ros",
+        "lat": "42.781246",
+        "lng": "0.876909",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-des-armeros/",
+        "fet": false
+    },
+    {
+        "area": "Val d'Aran",
+        "height": "2634",
+        "name": "Tuc de Sarrah\u00e8ra",
+        "lat": "42.644251",
+        "lng": "0.796356",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-sarrahera/",
+        "fet": false
+    },
+    {
+        "area": "Vall\u00e8s Occidental",
+        "height": "662",
+        "name": "Castell de Bocs",
+        "lat": "41.642372",
+        "lng": "1.941816",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/castell-de-bocs/",
+        "fet": false
+    },
+    {
+        "area": "Vall\u00e8s Occidental",
+        "height": "273",
+        "name": "Tur\u00f3 de Montcada",
+        "lat": "41.477208",
+        "lng": "2.176612",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-de-montcada/",
+        "fet": false
+    },
+    {
+        "area": "Vall\u00e8s Oriental",
+        "height": "1706",
+        "name": "Tur\u00f3 de l'Home",
+        "lat": "41.776488",
+        "lng": "2.434813",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/turo-de-lhome/",
+        "fet": true
+    },
+    {
+        "area": "Vall\u00e8s Oriental",
+        "height": "1319",
+        "name": "el Sui",
+        "lat": "41.749114",
+        "lng": "2.345652",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/el-sui/",
+        "fet": false
+    },
+    {
+        "area": "Andorra",
+        "height": "2573",
+        "name": "Alt de la Capa",
+        "lat": "42.562973",
+        "lng": "1.454193",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/alt-de-la-capa/",
+        "fet": false
+    },
+    {
+        "area": "Andorra",
+        "height": "2860",
+        "name": "Pic del Pla de l'Estany",
+        "lat": "42.606802",
+        "lng": "1.464030",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-del-pla-de-lestany/",
+        "fet": false
+    },
+    {
+        "area": "Andorra",
+        "height": "2760",
+        "name": "Pic de la Coma de Varilles",
+        "lat": "42.619163",
+        "lng": "1.664295",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-la-coma-de-varilles/",
+        "fet": true
+    },
+    {
+        "area": "Andorra",
+        "height": "2834",
+        "name": "Pic Alt del Cubil",
+        "lat": "42.527781",
+        "lng": "1.670181",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-alt-del-cubil/",
+        "fet": false
+    },
+    {
+        "area": "Andorra",
+        "height": "2732",
+        "name": "Pic de Cabany\u00f3",
+        "lat": "42.630904",
+        "lng": "1.468022",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-cabanyo/",
+        "fet": false
+    },
+    {
+        "area": "Andorra",
+        "height": "2862",
+        "name": "Pic dels Pessons o Gargantillar",
+        "lat": "42.508121",
+        "lng": "1.664673",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-dels-pessons-o-gargantillar/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya Nord",
+        "height": "2581",
+        "name": "el Punx\u00f3",
+        "lat": "42.530582",
+        "lng": "1.854635",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/el-punxo/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya Nord",
+        "height": "2763",
+        "name": "Puig de la Cometa",
+        "lat": "42.617214",
+        "lng": "1.959298",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-cometa/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya Nord",
+        "height": "2673",
+        "name": "Puig de Font Viva",
+        "lat": "42.569143",
+        "lng": "1.879615",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-font-viva/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya Nord",
+        "height": "2833",
+        "name": "Puig Occidental de Coll Roig",
+        "lat": "42.549348",
+        "lng": "1.916784",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-occidental-de-coll-roig/",
+        "fet": false
+    },
+    {
+        "area": "Cerdanya Nord",
+        "height": "2715",
+        "name": "Pic dels Pedrons",
+        "lat": "42.531510",
+        "lng": "1.752267",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-dels-pedrons/",
+        "fet": true
+    },
+    {
+        "area": "Capcir",
+        "height": "2470",
+        "name": "Puig del Pam",
+        "lat": "42.604820",
+        "lng": "2.031042",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-del-pam/",
+        "fet": true
+    },
+    {
+        "area": "Conflent",
+        "height": "1267",
+        "name": "Torre de Go\u00e0",
+        "lat": "42.522667",
+        "lng": "2.377506",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/torre-de-goa/",
+        "fet": false
+    },
+    {
+        "area": "Conflent",
+        "height": "2732",
+        "name": "Pic de Coma Mitjana",
+        "lat": "42.441761",
+        "lng": "2.209608",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-coma-mitjana/",
+        "fet": false
+    },
+    {
+        "area": "Conflent",
+        "height": "2370",
+        "name": "Puig de la Pelada",
+        "lat": "42.621619",
+        "lng": "2.194762",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-pelada/",
+        "fet": false
+    },
+    {
+        "area": "Conflent, Rossell\u00f3",
+        "height": "1348",
+        "name": "Santa Anna dels Quatre Termes",
+        "lat": "42.565323",
+        "lng": "2.561282",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/santa-anna-dels-quatre-termes/",
+        "fet": false
+    },
+    {
+        "area": "Conflent, Vallespir",
+        "height": "2461",
+        "name": "Pic de Gallinassa",
+        "lat": "42.502000",
+        "lng": "2.507173",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pic-de-gallinassa/",
+        "fet": false
+    },
+    {
+        "area": "Conflent, Vallespir",
+        "height": "2403",
+        "name": "Puig de la Collada Verda",
+        "lat": "42.454611",
+        "lng": "2.396931",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-la-collada-verda/",
+        "fet": false
+    },
+    {
+        "area": "Rossell\u00f3",
+        "height": "576",
+        "name": "la Serra (Vingrau)",
+        "lat": "42.865681",
+        "lng": "2.793761",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/la-serra-vingrau/",
+        "fet": false
+    },
+    {
+        "area": "Rossell\u00f3",
+        "height": "522",
+        "name": "Sant Mart\u00ed de la Roca",
+        "lat": "42.624735",
+        "lng": "2.678001",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/sant-marti-de-la-roca/",
+        "fet": false
+    },
+    {
+        "area": "Rossell\u00f3",
+        "height": "794",
+        "name": "Torre de la Ma\u00e7ana",
+        "lat": "42.498172",
+        "lng": "3.026334",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/torre-de-la-macana/",
+        "fet": false
+    },
+    {
+        "area": "Vallespir",
+        "height": "1281",
+        "name": "Pil\u00f3 de Bellmaig",
+        "lat": "42.432057",
+        "lng": "2.650714",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/pilo-de-bellmaig/",
+        "fet": false
+    },
+    {
+        "area": "Vallespir",
+        "height": "1635",
+        "name": "la Soca",
+        "lat": "42.460067",
+        "lng": "2.537154",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/la-soca/",
+        "fet": false
+    }
+]
