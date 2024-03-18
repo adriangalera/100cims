@@ -1,7 +1,7 @@
 make: clean cims markdown
 
 clean:
-	rm -rfv raw-data/* data/cims.json
+	rm -rfv raw-data/cims* data/cims.json
 
 venv:
 	python3 -m venv .venv

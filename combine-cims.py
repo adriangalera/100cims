@@ -51,12 +51,12 @@ def cims_fets(cims, fets):
 if __name__ == '__main__':
     cims = []
     fets = load_fets()
-    cims_info_by_link = load_cims_info()
-    cims_extra_by_link = load_cims_extra()
+    cent_cims_info_by_link = load_cims_info()
+    cent_cims_extra_by_link = load_cims_extra()
 
-    for link in cims_info_by_link:
-        cim_info = cims_info_by_link[link]
-        cim_extra = cims_extra_by_link[link]
+    for link in cent_cims_info_by_link:
+        cim_info = cent_cims_info_by_link[link]
+        cim_extra = cent_cims_extra_by_link[link]
         cim = cim_info | cim_extra
         cim["link"] = link
         cim["fet"] = False
@@ -64,5 +64,5 @@ if __name__ == '__main__':
 
     cims_fets(cims, fets)
 
-    with open("data/cims.json", 'w') as cims_fd:
+    with open("data/100-cims.json", 'w') as cims_fd:
         json.dump(cims, cims_fd, indent=4)

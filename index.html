@@ -53,13 +53,12 @@
         shadowSize: [41, 41]
     });
 
-    fetch('./data/cims.json')
+    fetch('./data/100-cims.json')
         .then(response => response.json())
         .then(cims => {
             for (let cim of cims) {
-                console.log(cim)
                 var marker = L.marker([cim.lat, cim.lng], { icon: cim["fet"] ? greenIcon : greyIcon })
-                    .bindPopup(`<b>${cim.name}</b><br>${cim.area}, ${cim.height} m`)
+                    .bindPopup(`<a href="${cim.link}" target="_blank" rel="noopener noreferrer" >${cim.name}</a><br>${cim.area}, ${cim.height} m`)
                     .addTo(map);
             }
         })
