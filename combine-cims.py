@@ -2,6 +2,30 @@ import json
 from bs4 import BeautifulSoup
 import glob
 import gpxpy
+import unicodedata
+
+
+def generate_name_variations(cim_fet):
+    name_variations = [cim_fet]
+    if "del" in cim_fet:
+        name_variations.append(cim_fet.replace("del", "de"))
+    if "de " in cim_fet:
+        name_variations.append(cim_fet.replace("de ", ""))
+    if "l'" in cim_fet:
+        name_variations.append(cim_fet.replace("l'", "l' "))
+    if "d'" in cim_fet:
+        name_variations.append(cim_fet.replace("d'", "d' "))
+    if "pic" in cim_fet:
+        name_variations.append(cim_fet.replace("pic", "tuc"))
+
+    return [normalize(text) for text in name_variations]
+
+
+def normalize(text):
+    text = remove_text_between_parenthesis(text)
+    text = unicodedata.normalize('NFKD', text)
+    text = text.replace(u"c\u0327", "ç")
+    return text.strip()
 
 
 def remove_text_between_parenthesis(text):
@@ -49,18 +73,18 @@ def load_cims_extra():
 
 
 def load_mendikat_cims():
-    mendikat_cims_file = glob.glob('raw-data/mendikat-waypoints.gpx*')
+    mendikat_cims_file = glob.glob('raw-data/mendikat-*.gpx')
     cims = []
     for file in mendikat_cims_file:
         with open(file, 'r') as gpx_file:
             gpx = gpxpy.parse(gpx_file)
 
             for wpt in gpx.waypoints:
-                name = remove_text_between_parenthesis(wpt.name).strip()
+                name = normalize(wpt.name)
                 possible_names = [name]
                 if wpt.comment:
-                    possible_names.extend([remove_text_between_parenthesis(
-                        possible).strip() for possible in wpt.comment.split(",")])
+                    for possible in wpt.comment.split(","):
+                        possible_names.append(normalize(possible))
 
                 cim = {
                     "name": name,
@@ -92,16 +116,20 @@ def mendikat_cims_fets(cims, fets):
     fets = []
     for fet in fets_lower:
         fet = remove_text_between_parenthesis(fet).strip()
+
+        name_variations = generate_name_variations(fet)
+
         found = False
         for cim in cims:
             for cim_name in cim["possible_names"]:
-                cim_name_lower = cim_name.lower()
-                print(fet + " vs "+cim_name_lower)
+                for name_variation in name_variations:
+                    cim_name_lower = cim_name.strip().lower()
+                    print(name_variation + " vs "+cim_name_lower)
 
-                if cim_name_lower == fet or fet in cim_name_lower:
-                    cim["fet"] = True
-                    found = True
-                    break
+                    if cim_name_lower == name_variation or name_variation in cim_name_lower:
+                        cim["fet"] = True
+                        found = True
+                        break
 
         if not found:
             raise ValueError(fet + " not found!")
@@ -134,5 +162,5 @@ if __name__ == '__main__':
     with open("data/100-cims.json", 'w') as cims_fd:
         json.dump(cims, cims_fd, indent=4)
     """
-    with open("data/mendikat-cims.json", 'w') as cims_fd:
+    with open("data/tot-cims.json", 'w') as cims_fd:
         json.dump(mendikat_cims, cims_fd, indent=4)
