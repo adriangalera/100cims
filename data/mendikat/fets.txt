@@ -4,12 +4,12 @@ Campirme
 Cap de la Gallina Pelada
 Castellsapera
 Comabona
-La Mola
+La Mola[317]
 La Mola de Sant Llorenç de Munt
-La Tosa
+Tossa d' Alp
 Les Agudes
 Matagalls
-Montcau
+Montcau[1054.0]
 Pic de les nou fonts
 Pedró dels Quatre Batlles
 Penyes Altes
@@ -21,8 +21,8 @@ Pic de Subenuix
 Pic del Vent
 Pica d' Estats
 Pics de Bassiero (Occidental)
-Pollegó Superior (Pedraforca)
-Puig de la Creu
+Pollegó Superior (Pedraforca)[2506]
+Puig de la Creu[672]
 Puig de la Força
 Puigllançada
 Puigmal

@@ -3,38 +3,29 @@ import glob
 import gpxpy
 import unicodedata
 
-"""
-def generate_name_variations(cim_fet):
-    name_variations = [cim_fet]
-    if "del" in cim_fet:
-        name_variations.append(cim_fet.replace("del", "de"))
-    if "de " in cim_fet:
-        name_variations.append(cim_fet.replace("de ", ""))
-    if "l'" in cim_fet:
-        name_variations.append(cim_fet.replace("l'", "l' "))
-    if "d'" in cim_fet:
-        name_variations.append(cim_fet.replace("d'", "d' "))
-    if "pic" in cim_fet:
-        name_variations.append(cim_fet.replace("pic", "tuc"))
-
-    return [normalize(text) for text in name_variations]
-"""
-
 
 def normalize(text):
-    text = remove_text_between_parenthesis(text)
+    text = remove_text_between(text)
     text = unicodedata.normalize('NFKD', text)
     text = text.replace(u"c\u0327", "ç")
     normalized = text.strip()
     return normalized
 
 
-def remove_text_between_parenthesis(text):
-    start = text.find("(")
-    end = text.find(")")
+def remove_text_between(text, char_start='(', char_end=')'):
+    start = text.find(char_start)
+    end = text.find(char_end)
     if start != -1 and end != -1:
-        return text[0:start]
+        return text[0:start] + text[end+1:]
     return text
+
+
+def text_between(text, char_start='(', char_end=')'):
+    start = text.find(char_start)
+    end = text.find(char_end)
+    if start != -1 and end != -1:
+        return text[start+1:end]
+    return None
 
 
 def load_fets():
@@ -59,6 +50,8 @@ def load_mendikat_cims():
                     for possible in wpt.comment.split(","):
                         possible_names.append(normalize(possible))
 
+                possible_names = list(set(possible_names))
+
                 cim = {
                     "name": name,
                     "lat": wpt.latitude,
@@ -70,27 +63,52 @@ def load_mendikat_cims():
                     "fet": False
                 }
                 cims.append(cim)
+    # Remove all duplicated cims (same name, lat,lng)
+    seen_cims = []
+    unique_cims = []
+    for cim in cims:
+        cim_descriptor = cim["name"]+str(cim["lat"])+str(cim["lng"])
+        included = cim_descriptor in seen_cims
+        if not included:
+            seen_cims.append(cim_descriptor)
+            unique_cims.append(cim)
 
-    return cims
+    return unique_cims
 
 
 def mendikat_cims_fets(cims, fets):
     for fet in fets:
-        found = False
-        attemps = []
+        founds = []
         for cim in cims:
             for cim_name in cim["possible_names"]:
                 cim_name_lower = cim_name.lower()
                 fet_lower = fet.lower()
-                attemps.append(cim_name)
-                if cim_name_lower == fet_lower:
-                    cim["fet"] = True
-                    found = True
-                    break
-        if not found:
+                fet_norm = remove_text_between(
+                    fet_lower, char_start='[', char_end=']').strip()
+                if cim_name_lower == fet_norm:
+                    founds.append(cim)
+        if not founds:
             raise ValueError(fet + " not found!")
-
-    return fets
+        elif len(founds) > 1:
+            found_candidate = False
+            msg = [str(found["name"] + " " + str(found["height"]))
+                   for found in founds]
+            # Extract height
+            height_txt = text_between(remove_text_between(
+                fet), char_start='[', char_end=']')
+            if height_txt:
+                height = float(height_txt)
+                # Find a candidate with the same height
+                for f in founds:
+                    if f["height"] == height:
+                        f["fet"] = True
+                        found_candidate = True
+                        break
+            if not found_candidate:
+                raise ValueError(
+                    f"More than one found for {fet}. Candidates: {msg}")
+        else:
+            cim["fet"] = True
 
 
 if __name__ == '__main__':
@@ -98,4 +116,4 @@ if __name__ == '__main__':
     fets = load_fets()
     mendikat_cims_fets(cims, fets)
     with open("data/mendikat/cims.json", 'w') as cims_fd:
-        json.dump(cims, cims_fd, indent=4)
+       json.dump(cims, cims_fd, indent=4)
