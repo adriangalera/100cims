@@ -17,7 +17,7 @@ def load_fets():
 
 def load_cims_info():
     cims_by_link = {}
-    with open("raw-data/cims-info.json") as cims_fd:
+    with open("raw-data/100cims/cims-info.json") as cims_fd:
         cims_raw = json.load(cims_fd)["data"]
         for cim_raw in cims_raw:
             cims_by_link[extract_url_from_html_link(cim_raw[0])] = {
@@ -27,7 +27,7 @@ def load_cims_info():
 
 def load_cims_extra():
     cims_by_link = {}
-    with open("raw-data/cims-extra.json") as cims_fd:
+    with open("raw-data/100cims/cims-extra.json") as cims_fd:
         cims_extra = json.load(cims_fd)
         for cim in cims_extra:
             cims_by_link[cim["url"]] = {

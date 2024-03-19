@@ -46,7 +46,7 @@ def load_fets():
 
 
 def load_mendikat_cims():
-    mendikat_cims_file = glob.glob('raw-data/mendikat-*.gpx')
+    mendikat_cims_file = glob.glob('raw-data/mendikat/*.gpx')
     cims = []
     for file in mendikat_cims_file:
         with open(file, 'r') as gpx_file:
@@ -77,10 +77,12 @@ def load_mendikat_cims():
 def mendikat_cims_fets(cims, fets):
     for fet in fets:
         found = False
+        attemps = []
         for cim in cims:
             for cim_name in cim["possible_names"]:
                 cim_name_lower = cim_name.lower()
                 fet_lower = fet.lower()
+                attemps.append(cim_name)
                 if cim_name_lower == fet_lower:
                     cim["fet"] = True
                     found = True
