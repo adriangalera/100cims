@@ -589,7 +589,7 @@
             "Mola, Puig de la",
             "Puig de la Mola"
         ],
-        "fet": true
+        "fet": false
     },
     {
         "name": "Montalt",
@@ -1930,7 +1930,7 @@
             "Turo\u0301 Gros de Santandreu",
             "Turo\u0301 Gros"
         ],
-        "fet": true
+        "fet": false
     },
     {
         "name": "Turo\u0301 Rodo\u0301",
@@ -8037,7 +8037,7 @@
             "Gra de Fajol Petit",
             "Gra de Fajol de baix"
         ],
-        "fet": true
+        "fet": false
     },
     {
         "name": "Gros D \u0301en Pujol, Turo\u0301",
@@ -8158,7 +8158,7 @@
             "Les Agudes, Puig de",
             "Puig de les Agudes"
         ],
-        "fet": true
+        "fet": false
     },
     {
         "name": "Les Colladetes, Puig de",
@@ -8210,7 +8210,7 @@
         "possible_names": [
             "Llo, Puigmal de"
         ],
-        "fet": true
+        "fet": false
     },
     {
         "name": "Llops, Puig dels",
@@ -8584,7 +8584,7 @@
             "Pedro\u0301 de la Tosa",
             "Puig Pedro\u0301 de la Tossa"
         ],
-        "fet": true
+        "fet": false
     },
     {
         "name": "Pelat, Puig",
@@ -9461,7 +9461,7 @@
             "Pic de Segre",
             "Puigmal de Segre"
         ],
-        "fet": true
+        "fet": false
     },
     {
         "name": "Segre, Pic Petit de",
@@ -9474,7 +9474,7 @@
             "Segre, Pic Petit de",
             "Puigmal Petit de Segre"
         ],
-        "fet": true
+        "fet": false
     },
     {
         "name": "Sesportadores, Turo\u0301",
@@ -9806,7 +9806,7 @@
             "Turo\u0301 Gros de Santandreu",
             "Turo\u0301 Gros"
         ],
-        "fet": true
+        "fet": false
     },
     {
         "name": "Ulla\u0300, Muntanya d'",
@@ -10637,7 +10637,7 @@
             "Pedro\u0301 de la Tosa",
             "Puig Pedro\u0301 de la Tossa"
         ],
-        "fet": true
+        "fet": false
     },
     {
         "name": "Peric, Puig",
@@ -11123,7 +11123,7 @@
             "Puig Farinoles",
             "Pla de la Tosa ou Pla de la Vila"
         ],
-        "fet": true
+        "fet": false
     },
     {
         "name": "Puig Forcadell",
@@ -11462,7 +11462,7 @@
             "Pic de Segre",
             "Puigmal de Segre"
         ],
-        "fet": true
+        "fet": false
     },
     {
         "name": "Segre, Pic Petit de",
@@ -11475,7 +11475,7 @@
             "Segre, Pic Petit de",
             "Puigmal Petit de Segre"
         ],
-        "fet": true
+        "fet": false
     },
     {
         "name": "Serrat de Les Fonts",
@@ -31687,7 +31687,7 @@
             "Lo Calbo",
             "Montcaubo"
         ],
-        "fet": true
+        "fet": false
     },
     {
         "name": "Lo Corronco",

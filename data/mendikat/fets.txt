@@ -1,5 +1,5 @@
 Balandrau
-Bastiments
+Pic de Bastiments
 Campirme
 Cap de la Gallina Pelada
 Castellsapera
@@ -10,7 +10,7 @@ La Tosa
 Les Agudes
 Matagalls
 Montcau
-Noufonts
+Noufonts, Pic de
 Pedró Dels Quatre Batlles
 Penyes Altes
 Pic de Certascan

@@ -81,7 +81,7 @@ def mendikat_cims_fets(cims, fets):
             for cim_name in cim["possible_names"]:
                 cim_name_lower = cim_name.lower()
                 fet_lower = fet.lower()
-                if cim_name_lower == fet_lower or fet_lower in cim_name_lower:
+                if cim_name_lower == fet_lower:
                     cim["fet"] = True
                     found = True
                     break
