@@ -29,7 +29,7 @@ https://www.feec.cat/activitats/100-cims/
 
 
 if __name__ == '__main__':
-    with open("data/cims.json") as cims_fd:
+    with open("data/100cims/cims.json") as cims_fd:
         cims = json.load(cims_fd)
         cims = sorted(cims, key=lambda cim: cim["name"])
         markdown(cims)

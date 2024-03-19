@@ -27,13 +27,11 @@
     <div id='map'></div>
 </body>
 <script>
-    const map = L.map("map", { center: [41.53289317099601, 2.104000992549118], zoom: 10 });
     const
         osm = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
             zoom: 10,
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a > contributors',
         });
-    osm.addTo(map);
 
     const greenIcon = new L.Icon({
         iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png',
@@ -86,10 +84,15 @@
             "100 cims": centCimsLg,
             "Mendikat": mendikatLg
         };
+        const map = L.map("map", {
+            center: [41.53289317099601, 2.104000992549118], zoom: 10,
+            layers: [osm, centCimsLg]
+        });
 
         L.control.layers(overlayMaps).addTo(map);
-
     });
+
+
 
 
 </script>

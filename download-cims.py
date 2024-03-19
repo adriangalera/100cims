@@ -1,7 +1,8 @@
 from playwright.sync_api import sync_playwright
 import json
 
-if __name__ == '__main__':
+
+def download_feec_data():
     with sync_playwright() as p:
         browser = p.chromium.launch()
         page = browser.new_page()
@@ -15,3 +16,7 @@ if __name__ == '__main__':
             json.dump(
                 sorted(all_cims, key=lambda cim: cim["nombre"]), f)
         browser.close()
+
+
+if __name__ == '__main__':
+    download_feec_data()
