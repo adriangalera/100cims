@@ -447,7 +447,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/9334",
         "height": 3131.0,
-        "fet": false
+        "fet": true
     },
     {
         "name": "Pica d' Estats",
@@ -789,7 +789,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/10314",
         "height": 2897.0,
-        "fet": false
+        "fet": true
     },
     {
         "name": "Bassiets",
@@ -3246,7 +3246,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/21512",
         "height": 2497.0,
-        "fet": true
+        "fet": false
     },
     {
         "name": "Tuc de la Comamarja",
@@ -18834,7 +18834,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/19946",
         "height": 181.0,
-        "fet": false
+        "fet": true
     },
     {
         "name": "Montllobar",
