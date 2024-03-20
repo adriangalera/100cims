@@ -64,11 +64,11 @@ if __name__ == '__main__':
     if new_cim_cent_cims:
         fets_cent_cims.extend(new_cim_cent_cims)
         with open('data/100cims/fets.txt', 'w') as fd:
-            fd.writelines(fets_cent_cims)
+            for fet in fets_cent_cims:
+                fd.write(fet+"\n")
 
     if new_cim_mendikat:
         fets_mendikat.extend(new_cim_mendikat)
         with open('data/mendikat/fets.txt', 'w') as fd:
             for fet in fets_mendikat:
-                fd.write(fets_mendikat)
-                #fd.writelines(fets_mendikat)
+                fd.write(fet+"\n")

@@ -27,6 +27,7 @@
     <div id='map'></div>
 </body>
 <script>
+    const showOnlyDone = false;
     const
         osm = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
             zoom: 10,
@@ -55,9 +56,17 @@
         .then(response => response.json())
         .then(cims => {
             for (let cim of cims) {
-                var marker = L.marker([cim.lat, cim.lng], { icon: cim["fet"] ? greenIcon : greyIcon })
-                    .bindPopup(`<a href="${cim.link}" target="_blank" rel="noopener noreferrer" >${cim.name}</a><br>${cim.area}, ${cim.height} m`)
-                centCims.push(marker);
+                if (showOnlyDone) {
+                    if (cim["fet"]) {
+                        var marker = L.marker([cim.lat, cim.lng], { icon: cim["fet"] ? greenIcon : greyIcon })
+                            .bindPopup(`<a href="${cim.link}" target="_blank" rel="noopener noreferrer" >${cim.name}</a><br>${cim.area}, ${cim.height} m`)
+                            centCims.push(marker);
+                    }
+                } else {
+                    var marker = L.marker([cim.lat, cim.lng], { icon: cim["fet"] ? greenIcon : greyIcon })
+                        .bindPopup(`<a href="${cim.link}" target="_blank" rel="noopener noreferrer" >${cim.name}</a><br>${cim.area}, ${cim.height} m`)
+                    centCims.push(marker);
+                }
             }
         })
         .catch(error => console.log(error));
@@ -66,9 +75,17 @@
         .then(response => response.json())
         .then(cims => {
             for (let cim of cims) {
-                var marker = L.marker([cim.lat, cim.lng], { icon: cim["fet"] ? greenIcon : greyIcon })
-                    .bindPopup(`<a href="${cim.link}" target="_blank" rel="noopener noreferrer" >${cim.name}</a><br>${cim.area}, ${cim.height} m`)
-                mendikat.push(marker);
+                if (showOnlyDone) {
+                    if (cim["fet"]) {
+                        var marker = L.marker([cim.lat, cim.lng], { icon: cim["fet"] ? greenIcon : greyIcon })
+                            .bindPopup(`<a href="${cim.link}" target="_blank" rel="noopener noreferrer" >${cim.name}</a><br>${cim.area}, ${cim.height} m`)
+                        mendikat.push(marker);
+                    }
+                } else {
+                    var marker = L.marker([cim.lat, cim.lng], { icon: cim["fet"] ? greenIcon : greyIcon })
+                        .bindPopup(`<a href="${cim.link}" target="_blank" rel="noopener noreferrer" >${cim.name}</a><br>${cim.area}, ${cim.height} m`)
+                    mendikat.push(marker);
+                }
             }
         })
         .catch(error => console.log(error));
