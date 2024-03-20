@@ -45,12 +45,6 @@ def load_mendikat_cims():
 
             for wpt in gpx.waypoints:
                 name = normalize(wpt.name)
-                possible_names = [name]
-                if wpt.comment:
-                    for possible in wpt.comment.split(","):
-                        possible_names.append(normalize(possible))
-
-                possible_names = list(set(possible_names))
 
                 cim = {
                     "name": name,
@@ -59,7 +53,6 @@ def load_mendikat_cims():
                     "area": "",  # TODO: read from metadata
                     "link": wpt.link,
                     "height": wpt.elevation,
-                    "possible_names": possible_names,
                     "fet": False
                 }
                 cims.append(cim)
@@ -80,19 +73,20 @@ def mendikat_cims_fets(cims, fets):
     for fet in fets:
         founds = []
         for cim in cims:
-            for cim_name in cim["possible_names"]:
-                cim_name_lower = cim_name.lower()
-                fet_lower = fet.lower()
-                fet_norm = remove_text_between(
-                    fet_lower, char_start='[', char_end=']').strip()
-                if cim_name_lower == fet_norm:
-                    founds.append(cim)
+            cim_name = cim["name"]
+            cim_name_lower = cim_name.lower()
+            fet_lower = fet.lower()
+            fet_norm = remove_text_between(
+                fet_lower, char_start='[', char_end=']').strip()
+            if cim_name_lower == fet_norm:
+                founds.append(cim)
+
         if not founds:
             raise ValueError(fet + " not found!")
         elif len(founds) > 1:
             found_candidate = False
             msg = [str(found["name"] + " " + str(found["height"]))
-                   for found in founds]
+                for found in founds]
             # Extract height
             height_txt = text_between(remove_text_between(
                 fet), char_start='[', char_end=']')
@@ -108,7 +102,7 @@ def mendikat_cims_fets(cims, fets):
                 raise ValueError(
                     f"More than one found for {fet}. Candidates: {msg}")
         else:
-            cim["fet"] = True
+            founds[0]["fet"] = True
 
 
 if __name__ == '__main__':
@@ -116,4 +110,4 @@ if __name__ == '__main__':
     fets = load_fets()
     mendikat_cims_fets(cims, fets)
     with open("data/mendikat/cims.json", 'w') as cims_fd:
-       json.dump(cims, cims_fd, indent=4)
+        json.dump(cims, cims_fd, indent=4)

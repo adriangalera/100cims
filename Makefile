@@ -15,5 +15,8 @@ cims:
 	python 100cims.py
 	python mendikat.py
 
+cims-in-tracks:
+	wget https://raw.githubusercontent.com/adriangalera/leaflet-fogofwar/main/data/tracks.geojson -O raw-data/tracks.geojson
+
 markdown:
 	python generate-markdown.py
