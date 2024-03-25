@@ -6522,7 +6522,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/2806",
         "height": 2291.0,
-        "fet": false
+        "fet": true
     },
     {
         "name": "Cuyalaret SE",
@@ -12444,7 +12444,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/1683",
         "height": 2555.0,
-        "fet": false
+        "fet": true
     },
     {
         "name": "Punta Oliveras-Arenas",
@@ -15211,8 +15211,8 @@
     },
     {
         "name": "Clos Tort",
-        "lat": 42.652771968763,
-        "lng": 2.1985499398206,
+        "lat": 42.652770165663,
+        "lng": 2.1985461574174,
         "area": "",
         "link": "https://www.mendikat.net/com/mount/12509",
         "height": 2435.0,
