@@ -8,6 +8,8 @@ def normalize(text):
     text = remove_text_between(text)
     text = unicodedata.normalize('NFKD', text)
     text = text.replace(u"c\u0327", "ç")
+    text = text.replace(u"o\u0301", "ó")
+    text = text.replace(u"\u0301", "'")
     normalized = text.strip()
     return normalized
 

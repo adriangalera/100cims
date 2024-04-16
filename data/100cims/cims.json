@@ -618,7 +618,7 @@
         "lat": "41.6287105203",
         "lng": "1.88694712824",
         "link": "https://www.feec.cat/activitats/100-cims/cim/turo-de-lescletxa/",
-        "fet": false
+        "fet": true
     },
     {
         "area": "Baix Camp",
@@ -933,7 +933,7 @@
         "lat": "41.2437100625",
         "lng": "1.47433479322",
         "link": "https://www.feec.cat/activitats/100-cims/cim/puig-de-sant-antoni/",
-        "fet": false
+        "fet": true
     },
     {
         "area": "Baix Pened\u00e8s",
