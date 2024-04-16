@@ -2067,7 +2067,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/10455",
         "height": 2211.0,
-        "fet": false
+        "fet": true
     },
     {
         "name": "Morto, Pic",
@@ -15099,7 +15099,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/12463",
         "height": 2845.0,
-        "fet": false
+        "fet": true
     },
     {
         "name": "Basses de Fabert, Puig de les",
@@ -17511,7 +17511,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/10411",
         "height": 2727.0,
-        "fet": false
+        "fet": true
     },
     {
         "name": "For\u00e7a, Puig de la",
