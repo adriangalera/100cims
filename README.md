@@ -277,7 +277,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Puig de Gallinàs](https://www.feec.cat/activitats/100-cims/cim/puig-de-gallinas/) | Conflent | 2624|  | 
 | [Puig de Grialó](https://www.feec.cat/activitats/100-cims/cim/puig-de-grialo/) | Noguera | 667|  | 
 | [Puig de Millà](https://www.feec.cat/activitats/100-cims/cim/puig-de-milla/) | Noguera | 1025|  | 
-| [Puig de Sant Antoni](https://www.feec.cat/activitats/100-cims/cim/puig-de-sant-antoni/) | Baix Penedès | 409|  | 
+| [Puig de Sant Antoni](https://www.feec.cat/activitats/100-cims/cim/puig-de-sant-antoni/) | Baix Penedès | 409| :white_check_mark: | 
 | [Puig de Sant Cristau](https://www.feec.cat/activitats/100-cims/cim/puig-de-sant-cristau/) | Rosselló, Vallespir | 1015|  | 
 | [Puig de Sant Miquel](https://www.feec.cat/activitats/100-cims/cim/puig-de-sant-miquel/) | Anoia | 733|  | 
 | [Puig de Tretzevents](https://www.feec.cat/activitats/100-cims/cim/puig-de-tretzevents/) | Conflent, Vallespir | 2731|  | 
@@ -298,7 +298,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Puig de les Agudes](https://www.feec.cat/activitats/100-cims/cim/puig-de-les-agudes/) | Ripollès | 1976|  | 
 | [Puig de les Bruixes](https://www.feec.cat/activitats/100-cims/cim/puig-de-les-bruixes/) | Alt Empordà, Garrotxa | 1391|  | 
 | [Puig de les Cols](https://www.feec.cat/activitats/100-cims/cim/puig-de-les-cols/) | Baix Empordà | 417|  | 
-| [Puig de les Morreres](https://www.feec.cat/activitats/100-cims/cim/puig-de-les-morreres/) | Solsonès | 2211|  | 
+| [Puig de les Morreres](https://www.feec.cat/activitats/100-cims/cim/puig-de-les-morreres/) | Solsonès | 2211| :white_check_mark: | 
 | [Puig de les Tres Esteles](https://www.feec.cat/activitats/100-cims/cim/puig-de-les-tres-esteles/) | Conflent | 2099|  | 
 | [Puig de les Àligues](https://www.feec.cat/activitats/100-cims/cim/puig-de-les-aligues/) | Osona | 1344|  | 
 | [Puig del Far](https://www.feec.cat/activitats/100-cims/cim/puig-del-far/) | Osona | 832|  | 
@@ -456,6 +456,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Tuc Gran dera Sendrosa](https://www.feec.cat/activitats/100-cims/cim/tuc-gran-dera-sendrosa/) | Val d'Aran | 2703|  | 
 | [Tuc d'Arres](https://www.feec.cat/activitats/100-cims/cim/tuc-darres/) | Val d'Aran | 2163|  | 
 | [Tuc d'Era Entecada](https://www.feec.cat/activitats/100-cims/cim/tuc-dera-entecada/) | Val d'Aran | 2269|  | 
+| [Tuc de Bacivèr](https://www.feec.cat/activitats/100-cims/cim/tuc-de-baciver/) | Val d'Aran | 2645|  | 
 | [Tuc de Barlonguèra](https://www.feec.cat/activitats/100-cims/cim/tuc-de-barlonguera/) | Val d'Aran | 2802|  | 
 | [Tuc de Crabèra](https://www.feec.cat/activitats/100-cims/cim/tuc-de-crabera/) | Val d'Aran | 2630|  | 
 | [Tuc de Lluçà](https://www.feec.cat/activitats/100-cims/cim/tuc-de-lluca/) | Alta Ribagorça, Val d'Aran | 2778|  | 
@@ -467,7 +468,6 @@ https://www.feec.cat/activitats/100-cims/
 | [Tuc de Salana](https://www.feec.cat/activitats/100-cims/cim/tuc-de-salana/) | Val d'Aran | 2485|  | 
 | [Tuc de Sarrahèra](https://www.feec.cat/activitats/100-cims/cim/tuc-de-sarrahera/) | Val d'Aran | 2634|  | 
 | [Tuc de Somont](https://www.feec.cat/activitats/100-cims/cim/tuc-de-samont/) | Val d'Aran | 2508|  | 
-| [Tuc de Vacivèr](https://www.feec.cat/activitats/100-cims/cim/tuc-de-baciver/) | Val d'Aran | 2645|  | 
 | [Tuc de la Comamarja](https://www.feec.cat/activitats/100-cims/cim/tuc-de-la-comamarja/) | Alta Ribagorça | 2562|  | 
 | [Tuc de la Cometa](https://www.feec.cat/activitats/100-cims/cim/tuc-de-la-cometa/) | Pallars Jussà, Pallars Sobirà | 2445|  | 
 | [Tuc de la Contesa](https://www.feec.cat/activitats/100-cims/cim/tuc-de-la-contesa/) | Alta Ribagorça, Val d'Aran | 2780|  | 
@@ -492,7 +492,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Turó de Montsoriu](https://www.feec.cat/activitats/100-cims/cim/turo-de-montsoriu/) | Selva | 633|  | 
 | [Turó de Puigmarí](https://www.feec.cat/activitats/100-cims/cim/turo-de-puigmari/) | Selva | 233|  | 
 | [Turó de l'Ermità](https://www.feec.cat/activitats/100-cims/cim/turo-de-lermita/) | Bages | 595|  | 
-| [Turó de l'Escletxa (Turó de Montconill)](https://www.feec.cat/activitats/100-cims/cim/turo-de-lescletxa/) | Bages | 447|  | 
+| [Turó de l'Escletxa (Turó de Montconill)](https://www.feec.cat/activitats/100-cims/cim/turo-de-lescletxa/) | Bages | 447| :white_check_mark: | 
 | [Turó de l'Home](https://www.feec.cat/activitats/100-cims/cim/turo-de-lhome/) | Vallès Oriental | 1706| :white_check_mark: | 
 | [Turó de la Pola (o de les Tres Creus)](https://www.feec.cat/activitats/100-cims/cim/turo-de-les-tres-creus/) | Bages | 930| :white_check_mark: | 
 | [Turó de la Torre o de Castellnou](https://www.feec.cat/activitats/100-cims/cim/turo-de-la-torre-o-de-castellnou/) | Bages | 624|  | 
