@@ -10540,24 +10540,6 @@
     },
     {
         "name": "Pen\u0303a Blanca",
-        "lat": 42.804121272703,
-        "lng": -0.45327364871947,
-        "area": "",
-        "link": "https://www.mendikat.net/com/mount/2913",
-        "height": 2367.0,
-        "fet": true
-    },
-    {
-        "name": "Pen\u0303a Blanca",
-        "lat": 42.680031573266,
-        "lng": -0.27857869386916,
-        "area": "",
-        "link": "https://www.mendikat.net/com/mount/9450",
-        "height": 2555.0,
-        "fet": false
-    },
-    {
-        "name": "Pen\u0303a Blanca",
         "lat": 42.74508769943,
         "lng": -0.53610969204088,
         "area": "",
@@ -10581,6 +10563,24 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/12625",
         "height": 2685.0,
+        "fet": false
+    },
+    {
+        "name": "Pen\u0303a Blanca",
+        "lat": 42.804121272703,
+        "lng": -0.45327364871947,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/2913",
+        "height": 2367.0,
+        "fet": true
+    },
+    {
+        "name": "Pen\u0303a Blanca",
+        "lat": 42.680031573266,
+        "lng": -0.27857869386916,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/9450",
+        "height": 2555.0,
         "fet": false
     },
     {
