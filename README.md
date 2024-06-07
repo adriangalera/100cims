@@ -352,7 +352,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Roca Lladre](https://www.feec.cat/activitats/100-cims/cim/roca-lladre/) | Garrotxa | 907|  | 
 | [Roca Maura](https://www.feec.cat/activitats/100-cims/cim/roca-maura/) | Baix Empordà | 225|  | 
 | [Roca Roja](https://www.feec.cat/activitats/100-cims/cim/roca-roja/) | Noguera, Pallars Jussà | 1239|  | 
-| [Roca Sareny](https://www.feec.cat/activitats/100-cims/cim/roca-sareny/) | Bages, Vallès Occidental | 804|  | 
+| [Roca Sareny](https://www.feec.cat/activitats/100-cims/cim/roca-sareny/) | Bages, Vallès Occidental | 804| :white_check_mark: | 
 | [Roca de Migdia (Serra del Verd)](https://www.feec.cat/activitats/100-cims/cim/roca-de-migdia-serra-del-verd/) | Alt Urgell, Solsonès | 1870|  | 
 | [Roca de Sant Salvador (l'Elefant)](https://www.feec.cat/activitats/100-cims/cim/roca-de-sant-salvador-lelefant/) | Bages | 1156|  | 
 | [Roca del Coscolló](https://www.feec.cat/activitats/100-cims/cim/roca-del-coscollo/) | Alt Urgell, Solsonès | 1299|  | 
@@ -487,7 +487,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Turó de Bellver](https://www.feec.cat/activitats/100-cims/cim/turo-de-bellver/) | Moianès | 1045|  | 
 | [Turó de Can Dolcet](https://www.feec.cat/activitats/100-cims/cim/turo-de-can-dolcet/) | Anoia, Baix Llobregat | 416|  | 
 | [Turó de Magarola](https://www.feec.cat/activitats/100-cims/cim/turo-de-magarola/) | Barcelonès, Vallès Occidental | 430|  | 
-| [Turó de Montcada](https://www.feec.cat/activitats/100-cims/cim/turo-de-montcada/) | Vallès Occidental | 273|  | 
+| [Turó de Montcada](https://www.feec.cat/activitats/100-cims/cim/turo-de-montcada/) | Vallès Occidental | 273| :white_check_mark: | 
 | [Turó de Montgat](https://www.feec.cat/activitats/100-cims/cim/turo-de-montgat/) | Maresme | 40|  | 
 | [Turó de Montsoriu](https://www.feec.cat/activitats/100-cims/cim/turo-de-montsoriu/) | Selva | 633|  | 
 | [Turó de Puigmarí](https://www.feec.cat/activitats/100-cims/cim/turo-de-puigmari/) | Selva | 233|  | 

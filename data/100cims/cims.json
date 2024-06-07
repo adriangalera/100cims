@@ -600,7 +600,7 @@
         "lat": "41.6945024649",
         "lng": "2.01789428863",
         "link": "https://www.feec.cat/activitats/100-cims/cim/roca-sareny/",
-        "fet": false
+        "fet": true
     },
     {
         "area": "Bages",
