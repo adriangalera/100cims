@@ -14,7 +14,6 @@ Noufonts, Pic de
 Quatre Batlles, Pedró Dels
 Penyes Altes
 Certascan
-Filià, Pic
 Pic de l' Infern
 Màniga, Pic de
 Subenuix
@@ -112,3 +111,5 @@ Roca Sereny
 Roca Cigalera
 Puig del Lleó
 Raurell
+Tres Pics
+Bonneco
