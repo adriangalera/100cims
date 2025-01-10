@@ -17,9 +17,5 @@ cims:
 	PYTHONPATH=.venv ; . .venv/bin/activate && python 100cims.py
 	PYTHONPATH=.venv ; . .venv/bin/activate && python mendikat.py
 
-cims-in-tracks:
-	wget https://raw.githubusercontent.com/adriangalera/leaflet-fogofwar/main/data/tracks.geojson -O raw-data/tracks.geojson
-	PYTHONPATH=.venv ; . .venv/bin/activate && python find-cims-in-tracks.py
-
 markdown:
 	PYTHONPATH=.venv ; . .venv/bin/activate && python generate-markdown.py

@@ -1482,7 +1482,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/10307",
         "height": 2764.0,
-        "fet": true
+        "fet": false
     },
     {
         "name": "Fita Alta, La",
@@ -4974,7 +4974,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/14888",
         "height": 2661.0,
-        "fet": false
+        "fet": true
     },
     {
         "name": "Bor\u00f3n, El",
@@ -18312,7 +18312,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/10404",
         "height": 2528.0,
-        "fet": false
+        "fet": true
     },
     {
         "name": "Tubau",
