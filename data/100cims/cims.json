@@ -659,10 +659,10 @@
     {
         "area": "Baix Camp, Ribera d'Ebre",
         "height": "711",
-        "name": "Mola de Genesies",
+        "name": "Mola de Genessies",
         "lat": "41.0162924783",
         "lng": "0.785434472003",
-        "link": "https://www.feec.cat/activitats/100-cims/cim/mola-de-genesies/",
+        "link": "https://www.feec.cat/activitats/100-cims/cim/mola-de-genessies/",
         "fet": false
     },
     {
@@ -969,7 +969,7 @@
         "lat": "42.1894343677",
         "lng": "1.73803778545",
         "link": "https://www.feec.cat/activitats/100-cims/cim/cap-de-la-gallina-pelada/",
-        "fet": true
+        "fet": false
     },
     {
         "area": "Bergued\u00e0",
@@ -1041,7 +1041,7 @@
         "lat": "42.300483377",
         "lng": "1.93553484457",
         "link": "https://www.feec.cat/activitats/100-cims/cim/puigllancada/",
-        "fet": true
+        "fet": false
     },
     {
         "area": "Bergued\u00e0",
@@ -1653,7 +1653,7 @@
         "lat": "42.6595207314",
         "lng": "1.19362547646",
         "link": "https://www.feec.cat/activitats/100-cims/cim/campirme/",
-        "fet": true
+        "fet": false
     },
     {
         "area": "Pallars Sobir\u00e0",
@@ -1901,7 +1901,7 @@
     {
         "area": "Ribera d'Ebre",
         "height": "523",
-        "name": "Lo Tormo",
+        "name": "Lo Tormo (Lo pil\u00f3)",
         "lat": "41.1790342228",
         "lng": "0.643458682023",
         "link": "https://www.feec.cat/activitats/100-cims/cim/lo-tormo/",
@@ -4398,7 +4398,7 @@
         "lat": "42.767776",
         "lng": "0.933047",
         "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-parros/",
-        "fet": true
+        "fet": false
     },
     {
         "area": "Val d'Aran",

@@ -780,7 +780,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/8206",
         "height": 2901.0,
-        "fet": true
+        "fet": false
     },
     {
         "name": "Bassiero, Pic Oriental de",
@@ -915,7 +915,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/10468",
         "height": 2633.0,
-        "fet": true
+        "fet": false
     },
     {
         "name": "Canal del Cristall, Puig de la",
@@ -2148,7 +2148,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/9955",
         "height": 2732.0,
-        "fet": true
+        "fet": false
     },
     {
         "name": "Pedres Blanques, Pic de",
@@ -18654,7 +18654,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/8621",
         "height": 2322.0,
-        "fet": true
+        "fet": false
     },
     {
         "name": "Galzeran, Tur\u00f3 D ' En",
@@ -19086,7 +19086,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/9174",
         "height": 2409.0,
-        "fet": true
+        "fet": false
     },
     {
         "name": "Puigsagordi",

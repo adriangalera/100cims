@@ -1,7 +1,5 @@
 Balandrau
 Pic de Bastiments
-Campirme
-Gallina Pelada
 Castellsapera
 Comabona
 La Mola[317]
@@ -19,11 +17,9 @@ Màniga, Pic de
 Subenuix
 Pic del Vent
 Pica d' Estats
-Bassiero, Pic Occidental de
 Pollegó Superior (Pedraforca)[2506]
 Puig de la Creu[672]
 Força, Puig de la
-Puigllançada
 Puigmal
 Roques de Benet (el Castell)
 Sant Jeroni
@@ -39,7 +35,6 @@ Pollegó Inferior (Pedraforca)
 Puig Madrona
 Puig del Pam
 Pujol de la Mata
-Parros, Tuc de
 Turó de l' Home
 Tres Creus, Turó de
 Samon, Turó del
