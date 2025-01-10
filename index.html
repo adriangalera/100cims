@@ -23,7 +23,7 @@
         }
 
         .marker-cluster-small div {
-            background-color:  rgb(147, 176, 176) !important;
+            background-color: rgb(147, 176, 176) !important;
         }
     </style>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -70,6 +70,15 @@
         popupAnchor: [1, -34],
         shadowSize: [41, 41]
     });
+
+    const blueIcon = new L.Icon({
+        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png',
+        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        shadowSize: [41, 41]
+    });
     let centCims = []
     var centPromise = fetch('./data/100cims/cims.json')
         .then(response => response.json())
@@ -96,12 +105,12 @@
             for (let cim of cims) {
                 if (showOnlyDone) {
                     if (cim["fet"]) {
-                        var marker = L.marker([cim.lat, cim.lng], { icon: cim["fet"] ? greenIcon : greyIcon })
+                        var marker = L.marker([cim.lat, cim.lng], { icon: cim["fet"] ? greenIcon : blueIcon })
                             .bindPopup(`<a href="${cim.link}" target="_blank" rel="noopener noreferrer" >${cim.name}</a><br>${cim.area}, ${cim.height} m`)
                         mendikat.push(marker);
                     }
                 } else {
-                    var marker = L.marker([cim.lat, cim.lng], { icon: cim["fet"] ? greenIcon : greyIcon })
+                    var marker = L.marker([cim.lat, cim.lng], { icon: cim["fet"] ? greenIcon : blueIcon })
                         .bindPopup(`<a href="${cim.link}" target="_blank" rel="noopener noreferrer" >${cim.name}</a><br>${cim.area}, ${cim.height} m`)
                     mendikat.push(marker);
                 }
@@ -138,35 +147,13 @@
 
         mcgLayerSupportGroup.checkIn([centCimsGroup, mendikatGroup]);
 
-        control.addBaseLayer(centCimsGroup, '100 cims');
-        control.addBaseLayer(mendikatGroup, 'Mendikat');
+        control.addOverlay(centCimsGroup, "100 cims");
+        control.addOverlay(mendikatGroup, "Mendikat");
 
         control.addTo(map);
 
         centCimsGroup.addTo(map);
-        /*
-        var centCimsLg = L.layerGroup(centCims);
-        var mendikatLg = L.layerGroup(mendikat);
-
-        let mcgLayerSupportGroup = L.markerClusterGroup.layerSupport()
-        
-        mcgLayerSupportGroup.checkIn([centCimsLg, mendikatLg]); // <= this is where the magic happens!
-
-        mcgLayerSupportGroup.addTo(map);
-        centCimsLg.addTo(map)
-
-        var overlayMaps = {
-            "100 cims": centCimsLg,
-            "Mendikat": mendikatLg
-        };
-        mendikatLg.addTo(mcgLayerSupportGroup);
-        L.control.layers(overlayMaps).addTo(map);
-        */
     });
-
-
-
-
 </script>
 
 </html>
