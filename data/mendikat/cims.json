@@ -18546,7 +18546,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/10533",
         "height": 505.0,
-        "fet": false
+        "fet": true
     },
     {
         "name": "Cim Nord, Pedraforca",
@@ -19248,7 +19248,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/10534",
         "height": 413.0,
-        "fet": false
+        "fet": true
     },
     {
         "name": "Serra Pedregosa",
@@ -19554,7 +19554,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/10532",
         "height": 635.0,
-        "fet": false
+        "fet": true
     },
     {
         "name": "Tur\u00f3 Gros",

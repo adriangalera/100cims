@@ -861,7 +861,7 @@
         "lat": "41.5756360735",
         "lng": "1.89299280596",
         "link": "https://www.feec.cat/activitats/100-cims/cim/puig-cendros/",
-        "fet": false
+        "fet": true
     },
     {
         "area": "Baix Llobregat, Barcelon\u00e8s",
@@ -906,7 +906,7 @@
         "lat": "41.5790930928",
         "lng": "1.88442879727",
         "link": "https://www.feec.cat/activitats/100-cims/cim/sant-salvador-de-les-espases/",
-        "fet": false
+        "fet": true
     },
     {
         "area": "Baix Pened\u00e8s, Tarragon\u00e8s",
@@ -2355,7 +2355,7 @@
         "lat": "41.5763385712",
         "lng": "1.93396849589",
         "link": "https://www.feec.cat/activitats/100-cims/cim/turo-del-ros/",
-        "fet": false
+        "fet": true
     },
     {
         "area": "Vall\u00e8s Oriental",
