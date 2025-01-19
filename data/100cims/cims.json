@@ -870,7 +870,7 @@
         "lat": " 41.412212",
         "lng": "2.055209",
         "link": "https://www.feec.cat/activitats/100-cims/cim/puig-dolorda/",
-        "fet": false
+        "fet": true
     },
     {
         "area": "Baix Llobregat, Vall\u00e8s Occidental",
@@ -888,7 +888,7 @@
         "lat": "41.3936585908",
         "lng": "2.0978784699",
         "link": "https://www.feec.cat/activitats/100-cims/cim/sant-pere-martir/",
-        "fet": false
+        "fet": true
     },
     {
         "area": "Baix Llobregat",
@@ -960,7 +960,7 @@
         "lat": "41.4421744885",
         "lng": "2.12968297951",
         "link": "https://www.feec.cat/activitats/100-cims/cim/turo-de-magarola/",
-        "fet": false
+        "fet": true
     },
     {
         "area": "Bergued\u00e0",

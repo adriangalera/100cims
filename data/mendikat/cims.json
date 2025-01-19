@@ -18744,7 +18744,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/9178",
         "height": 432.0,
-        "fet": false
+        "fet": true
     },
     {
         "name": "Miranda de Santa Magdalena",
@@ -18942,7 +18942,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/10649",
         "height": 424.0,
-        "fet": false
+        "fet": true
     },
     {
         "name": "Puig D 'aguilera",
@@ -19221,7 +19221,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/10380",
         "height": 389.0,
-        "fet": false
+        "fet": true
     },
     {
         "name": "Sant Ramon",
