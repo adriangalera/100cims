@@ -1,4 +1,4 @@
-make: clean download cims cims-in-tracks markdown
+make: cims markdown
 
 clean:
 	rm -rfv raw-data/100cims/cims* data/100cims/cims.json raw-data/mendikat/*

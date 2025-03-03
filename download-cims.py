@@ -9,15 +9,23 @@ def download_mendikat():
     regions = [210, 221, 225, 230, 243, 304, 303, 302, 301, 305, 401]
     user = input("Mendikat.net username: ")
     passwd = getpass.getpass(prompt="Password: ")
+
     with sync_playwright() as p:
-        browser = p.chromium.launch()
+        browser = p.chromium.launch(headless=True)
         context = browser.new_context(is_mobile=False)
         page = context.new_page()
         page.goto("https://www.mendikat.net/")
         # login
         page.get_by_text("Acceder").click()
-        page.get_by_text("Usuario", exact=True).fill(user)
-        page.get_by_text("Contraseña", exact=True).fill(passwd)
+
+        page.wait_for_selector('[placeholder="Usuario"]')
+        page.wait_for_selector('[placeholder="Contraseña"]')
+
+        page.fill('[placeholder="Usuario"]', user)
+        page.fill('[placeholder="Contraseña"]', passwd)
+
+        page.wait_for_timeout(1_000)
+
         page.get_by_role("button", name="Acceder").click()
         page.get_by_text("Perfil").click()
         first = True

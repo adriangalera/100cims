@@ -19,7 +19,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Bony de la Pica o Pica d'Os](https://www.feec.cat/activitats/100-cims/cim/bony-de-la-pica-o-pica-dos/) | Alt Urgell, Andorra | 2405|  | 
 | [Cabrera](https://www.feec.cat/activitats/100-cims/cim/cabrera/) | Garrotxa, Osona | 1308|  | 
 | [Cambra d'Ase](https://www.feec.cat/activitats/100-cims/cim/cambra-dase/) | Cerdanya Nord | 2750|  | 
-| [Campirme](https://www.feec.cat/activitats/100-cims/cim/campirme/) | Pallars Sobirà | 2633| :white_check_mark: | 
+| [Campirme](https://www.feec.cat/activitats/100-cims/cim/campirme/) | Pallars Sobirà | 2633|  | 
 | [Canigó](https://www.feec.cat/activitats/100-cims/cim/canigo/) | Conflent | 2784|  | 
 | [Cap de Boumort](https://www.feec.cat/activitats/100-cims/cim/cap-de-boumort/) | Pallars Jussà | 2077|  | 
 | [Cap de Broate](https://www.feec.cat/activitats/100-cims/cim/cap-de-broate/) | Pallars Sobirà | 2741|  | 
@@ -27,7 +27,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Cap de Gelada](https://www.feec.cat/activitats/100-cims/cim/cap-de-gelada/) | Alta Ribagorça | 2449|  | 
 | [Cap de Pla Redon](https://www.feec.cat/activitats/100-cims/cim/cap-de-pla-redon/) | Alt Urgell | 1846|  | 
 | [Cap de la Boixassa](https://www.feec.cat/activitats/100-cims/cim/cap-de-la-boixassa/) | Berguedà | 1820|  | 
-| [Cap de la Gallina Pelada](https://www.feec.cat/activitats/100-cims/cim/cap-de-la-gallina-pelada/) | Berguedà | 2321| :white_check_mark: | 
+| [Cap de la Gallina Pelada](https://www.feec.cat/activitats/100-cims/cim/cap-de-la-gallina-pelada/) | Berguedà | 2321|  | 
 | [Cap del Verd](https://www.feec.cat/activitats/100-cims/cim/cap-del-verd/) | Alt Urgell, Berguedà, Solsonès | 2284|  | 
 | [Carlit](https://www.feec.cat/activitats/100-cims/cim/carlit/) | Cerdanya Nord | 2921|  | 
 | [Caro](https://www.feec.cat/activitats/100-cims/cim/caro/) | Baix Ebre | 1441|  | 
@@ -104,7 +104,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Les Picòssies](https://www.feec.cat/activitats/100-cims/cim/roca-de-la-barca-les-picossies/) | Baix Ebre, Ribera d'Ebre | 772|  | 
 | [Les Piques](https://www.feec.cat/activitats/100-cims/cim/les-piques/) | Alt Urgell | 1969|  | 
 | [Lo Corronco](https://www.feec.cat/activitats/100-cims/cim/lo-corrunco/) | Alta Ribagorça | 2543|  | 
-| [Lo Tormo](https://www.feec.cat/activitats/100-cims/cim/lo-tormo/) | Ribera d'Ebre | 523|  | 
+| [Lo Tormo (Lo piló)](https://www.feec.cat/activitats/100-cims/cim/lo-tormo/) | Ribera d'Ebre | 523|  | 
 | [Lo Tésol (Tesó de Son)](https://www.feec.cat/activitats/100-cims/cim/lo-tesol-teso-de-son/) | Pallars Sobirà | 2700|  | 
 | [Los Picons](https://www.feec.cat/activitats/100-cims/cim/los-picons/) | Noguera | 951|  | 
 | [Malera](https://www.feec.cat/activitats/100-cims/cim/malera/) | Noguera | 877|  | 
@@ -123,7 +123,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Mola d'Estat](https://www.feec.cat/activitats/100-cims/cim/mola-destat/) | Baix Camp, Conca de Barberà | 1136|  | 
 | [Mola d'Irto](https://www.feec.cat/activitats/100-cims/cim/mola-dirto/) | Terra Alta | 538|  | 
 | [Mola de Colldejou](https://www.feec.cat/activitats/100-cims/cim/mola-de-colldejou/) | Baix Camp | 922|  | 
-| [Mola de Genesies](https://www.feec.cat/activitats/100-cims/cim/mola-de-genesies/) | Baix Camp, Ribera d'Ebre | 711|  | 
+| [Mola de Genessies](https://www.feec.cat/activitats/100-cims/cim/mola-de-genessies/) | Baix Camp, Ribera d'Ebre | 711|  | 
 | [Mola de Lord](https://www.feec.cat/activitats/100-cims/cim/mola-de-lord/) | Solsonès | 1189|  | 
 | [Moleta de les Canals](https://www.feec.cat/activitats/100-cims/cim/moleta-de-les-canals/) | Baix Ebre, Terra Alta | 1070|  | 
 | [Molló Puntaire](https://www.feec.cat/activitats/100-cims/cim/mollo-puntaire/) | Baix Camp | 727|  | 
@@ -186,7 +186,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Pic de Comaloforno](https://www.feec.cat/activitats/100-cims/cim/pic-de-comaloforno/) | Alta Ribagorça | 3029|  | 
 | [Pic de Contraix](https://www.feec.cat/activitats/100-cims/cim/pic-de-contraix/) | Alta Ribagorça | 2958|  | 
 | [Pic de Costa Cabirolera](https://www.feec.cat/activitats/100-cims/cim/pic-de-costa-cabirolera/) | Alt Urgell, Berguedà, Cerdanya | 2604|  | 
-| [Pic de Filià (Tossal de Paiasso)](https://www.feec.cat/activitats/100-cims/cim/pic-de-filia-tossal-de-paiasso/) | Pallars Jussà | 2772| :white_check_mark: | 
+| [Pic de Filià (Tossal de Paiasso)](https://www.feec.cat/activitats/100-cims/cim/pic-de-filia-tossal-de-paiasso/) | Pallars Jussà | 2772|  | 
 | [Pic de Flamisella](https://www.feec.cat/activitats/100-cims/cim/pic-de-flamisella/) | Pallars Sobirà | 2782|  | 
 | [Pic de Font Blanca](https://www.feec.cat/activitats/100-cims/cim/pic-de-font-blanca/) | Andorra | 2903|  | 
 | [Pic de Font Freda](https://www.feec.cat/activitats/100-cims/cim/pic-de-font-freda/) | Cerdanya Nord | 2738|  | 
@@ -229,7 +229,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Pica d'Estats](https://www.feec.cat/activitats/100-cims/cim/pica-destats/) | Pallars Sobirà | 3144| :white_check_mark: | 
 | [Pica de Cerví](https://www.feec.cat/activitats/100-cims/cim/pica-de-cervi/) | Pallars Jussà | 2753|  | 
 | [Picorandan](https://www.feec.cat/activitats/100-cims/cim/picorandan/) | Baix Camp | 991|  | 
-| [Pics de Bassiero (Occidental)](https://www.feec.cat/activitats/100-cims/cim/pics-de-bassiero/) | Pallars Sobirà | 2903| :white_check_mark: | 
+| [Pics de Bassiero (Occidental)](https://www.feec.cat/activitats/100-cims/cim/pics-de-bassiero/) | Pallars Sobirà | 2903|  | 
 | [Pilar d'Almenara](https://www.feec.cat/activitats/100-cims/cim/pilar-dalmenara/) | Urgell | 459|  | 
 | [Piló de Bellmaig](https://www.feec.cat/activitats/100-cims/cim/pilo-de-bellmaig/) | Vallespir | 1281|  | 
 | [Pollegó Inferior (Pedraforca)](https://www.feec.cat/activitats/100-cims/cim/pollego-inferior-pedraforca/) | Berguedà | 2445| :white_check_mark: | 
@@ -243,7 +243,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Puig Cadiretes](https://www.feec.cat/activitats/100-cims/cim/puig-cadiretes/) | Gironès, Selva | 519|  | 
 | [Puig Castellar](https://www.feec.cat/activitats/100-cims/cim/puig-castellar/) | Barcelonès, Vallès Occidental | 303|  | 
 | [Puig Cavaller](https://www.feec.cat/activitats/100-cims/cim/puig-cavaller/) | Terra Alta | 706|  | 
-| [Puig Cendrós](https://www.feec.cat/activitats/100-cims/cim/puig-cendros/) | Baix Llobregat | 499|  | 
+| [Puig Cendrós](https://www.feec.cat/activitats/100-cims/cim/puig-cendros/) | Baix Llobregat | 499| :white_check_mark: | 
 | [Puig Clarà](https://www.feec.cat/activitats/100-cims/cim/puig-clara/) | Pla de l'Estany | 315|  | 
 | [Puig Cornador](https://www.feec.cat/activitats/100-cims/cim/puig-cornador/) | Ripollès | 1229|  | 
 | [Puig Cubell](https://www.feec.cat/activitats/100-cims/cim/puig-cubell/) | Garrotxa, Osona | 1488|  | 
@@ -265,7 +265,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Puig d'Agulles](https://www.feec.cat/activitats/100-cims/cim/puig-dagulles/) | Alt Penedès, Baix Llobregat | 653|  | 
 | [Puig d'Arques](https://www.feec.cat/activitats/100-cims/cim/puig-darques/) | Baix Empordà | 533|  | 
 | [Puig d'Esquers](https://www.feec.cat/activitats/100-cims/cim/puig-desquers/) | Alt Empordà | 606|  | 
-| [Puig d'Olorda](https://www.feec.cat/activitats/100-cims/cim/puig-dolorda/) | Baix Llobregat, Barcelonès | 436|  | 
+| [Puig d'Olorda](https://www.feec.cat/activitats/100-cims/cim/puig-dolorda/) | Baix Llobregat, Barcelonès | 436| :white_check_mark: | 
 | [Puig d'en Cama](https://www.feec.cat/activitats/100-cims/cim/puig-den-cama/) | Baix Camp | 717|  | 
 | [Puig d'en Jordà](https://www.feec.cat/activitats/100-cims/cim/puig-den-jorda/) | Alt Empordà, Rosselló | 754|  | 
 | [Puig de Bestracà](https://www.feec.cat/activitats/100-cims/cim/puig-de-bestreca/) | Ripollès | 1056|  | 
@@ -309,7 +309,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Puigcabrer](https://www.feec.cat/activitats/100-cims/cim/puigcabrer/) | Alt Camp | 524|  | 
 | [Puigdefrou](https://www.feec.cat/activitats/100-cims/cim/puigdefrou/) | Selva | 839|  | 
 | [Puiggraciós](https://www.feec.cat/activitats/100-cims/cim/puiggracios/) | Vallès Oriental | 808|  | 
-| [Puigllançada](https://www.feec.cat/activitats/100-cims/cim/puigllancada/) | Berguedà | 2409| :white_check_mark: | 
+| [Puigllançada](https://www.feec.cat/activitats/100-cims/cim/puigllancada/) | Berguedà | 2409|  | 
 | [Puigmal](https://www.feec.cat/activitats/100-cims/cim/puigmal/) | Cerdanya Nord, Ripollès | 2910| :white_check_mark: | 
 | [Puigpedrós](https://www.feec.cat/activitats/100-cims/cim/puigpedros/) | Cerdanya, Cerdanya Nord | 2915|  | 
 | [Puigsacalm](https://www.feec.cat/activitats/100-cims/cim/puigsacalm/) | Garrotxa | 1514|  | 
@@ -377,13 +377,13 @@ https://www.feec.cat/activitats/100-cims/
 | [Sant Miquel de Solterra](https://www.feec.cat/activitats/100-cims/cim/sant-miquel-de-solterra/) | Selva | 1203|  | 
 | [Sant Miquel del Mont](https://www.feec.cat/activitats/100-cims/cim/sant-miquel-del-mont/) | Garrotxa | 793|  | 
 | [Sant Patllari](https://www.feec.cat/activitats/100-cims/cim/sant-patllari/) | Pla de l'Estany | 646|  | 
-| [Sant Pere Màrtir](https://www.feec.cat/activitats/100-cims/cim/sant-pere-martir/) | Baix Llobregat, Barcelonès | 389|  | 
+| [Sant Pere Màrtir](https://www.feec.cat/activitats/100-cims/cim/sant-pere-martir/) | Baix Llobregat, Barcelonès | 389| :white_check_mark: | 
 | [Sant Quiri](https://www.feec.cat/activitats/100-cims/cim/sant-quiri/) | Alt Urgell | 1503|  | 
 | [Sant Ramon](https://www.feec.cat/activitats/100-cims/cim/sant-ramon/) | Baix Llobregat | 295|  | 
 | [Sant Roc](https://www.feec.cat/activitats/100-cims/cim/sant-roc/) | Garrotxa, Gironès, Selva | 598|  | 
 | [Sant Sadurní de Gallifa](https://www.feec.cat/activitats/100-cims/cim/sant-sadurni-de-gallifa/) | Vallès Occidental | 942| :white_check_mark: | 
 | [Sant Salvador](https://www.feec.cat/activitats/100-cims/cim/sant-salvador/) | Berguedà | 1157|  | 
-| [Sant Salvador de les Espases](https://www.feec.cat/activitats/100-cims/cim/sant-salvador-de-les-espases/) | Baix Llobregat, Vallès Occidental | 413|  | 
+| [Sant Salvador de les Espases](https://www.feec.cat/activitats/100-cims/cim/sant-salvador-de-les-espases/) | Baix Llobregat, Vallès Occidental | 413| :white_check_mark: | 
 | [Sant Simplici](https://www.feec.cat/activitats/100-cims/cim/sant-simplici/) | Tarragonès | 110|  | 
 | [Santa Anna dels Quatre Termes](https://www.feec.cat/activitats/100-cims/cim/santa-anna-dels-quatre-termes/) | Conflent, Rosselló | 1348|  | 
 | [Santa Bàrbara](https://www.feec.cat/activitats/100-cims/cim/santa-barbara/) | Terra Alta | 752|  | 
@@ -456,13 +456,13 @@ https://www.feec.cat/activitats/100-cims/
 | [Tuc Gran dera Sendrosa](https://www.feec.cat/activitats/100-cims/cim/tuc-gran-dera-sendrosa/) | Val d'Aran | 2703|  | 
 | [Tuc d'Arres](https://www.feec.cat/activitats/100-cims/cim/tuc-darres/) | Val d'Aran | 2163|  | 
 | [Tuc d'Era Entecada](https://www.feec.cat/activitats/100-cims/cim/tuc-dera-entecada/) | Val d'Aran | 2269|  | 
-| [Tuc de Bacivèr](https://www.feec.cat/activitats/100-cims/cim/tuc-de-baciver/) | Val d'Aran | 2645|  | 
+| [Tuc de Bacivèr](https://www.feec.cat/activitats/100-cims/cim/tuc-de-baciver/) | Val d'Aran | 2645| :white_check_mark: | 
 | [Tuc de Barlonguèra](https://www.feec.cat/activitats/100-cims/cim/tuc-de-barlonguera/) | Val d'Aran | 2802|  | 
 | [Tuc de Crabèra](https://www.feec.cat/activitats/100-cims/cim/tuc-de-crabera/) | Val d'Aran | 2630|  | 
 | [Tuc de Lluçà](https://www.feec.cat/activitats/100-cims/cim/tuc-de-lluca/) | Alta Ribagorça, Val d'Aran | 2778|  | 
 | [Tuc de Marimanya](https://www.feec.cat/activitats/100-cims/cim/tuc-de-marimanya/) | Pallars Sobirà, Val d'Aran | 2679|  | 
 | [Tuc de Molières](https://www.feec.cat/activitats/100-cims/cim/tuc-de-molieres/) | Val d'Aran | 3010|  | 
-| [Tuc de Parros](https://www.feec.cat/activitats/100-cims/cim/tuc-de-parros/) | Val d'Aran | 2731| :white_check_mark: | 
+| [Tuc de Parros](https://www.feec.cat/activitats/100-cims/cim/tuc-de-parros/) | Val d'Aran | 2731|  | 
 | [Tuc de Ratera](https://www.feec.cat/activitats/100-cims/cim/tuc-de-ratera/) | Pallars Sobirà, Val d'Aran | 2861| :white_check_mark: | 
 | [Tuc de Ribereta](https://www.feec.cat/activitats/100-cims/cim/tuc-de-ribereta/) | Alta Ribagorça, Val d'Aran | 2676|  | 
 | [Tuc de Salana](https://www.feec.cat/activitats/100-cims/cim/tuc-de-salana/) | Val d'Aran | 2485|  | 
@@ -486,7 +486,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Turó de Bell-lloc](https://www.feec.cat/activitats/100-cims/cim/turo-de-bell-lloc/) | Cerdanya Nord | 1702|  | 
 | [Turó de Bellver](https://www.feec.cat/activitats/100-cims/cim/turo-de-bellver/) | Moianès | 1045|  | 
 | [Turó de Can Dolcet](https://www.feec.cat/activitats/100-cims/cim/turo-de-can-dolcet/) | Anoia, Baix Llobregat | 416|  | 
-| [Turó de Magarola](https://www.feec.cat/activitats/100-cims/cim/turo-de-magarola/) | Barcelonès, Vallès Occidental | 430|  | 
+| [Turó de Magarola](https://www.feec.cat/activitats/100-cims/cim/turo-de-magarola/) | Barcelonès, Vallès Occidental | 430| :white_check_mark: | 
 | [Turó de Montcada](https://www.feec.cat/activitats/100-cims/cim/turo-de-montcada/) | Vallès Occidental | 273| :white_check_mark: | 
 | [Turó de Montgat](https://www.feec.cat/activitats/100-cims/cim/turo-de-montgat/) | Maresme | 40|  | 
 | [Turó de Montsoriu](https://www.feec.cat/activitats/100-cims/cim/turo-de-montsoriu/) | Selva | 633|  | 
@@ -496,9 +496,9 @@ https://www.feec.cat/activitats/100-cims/
 | [Turó de l'Home](https://www.feec.cat/activitats/100-cims/cim/turo-de-lhome/) | Vallès Oriental | 1706| :white_check_mark: | 
 | [Turó de la Pola (o de les Tres Creus)](https://www.feec.cat/activitats/100-cims/cim/turo-de-les-tres-creus/) | Bages | 930| :white_check_mark: | 
 | [Turó de la Torre o de Castellnou](https://www.feec.cat/activitats/100-cims/cim/turo-de-la-torre-o-de-castellnou/) | Bages | 624|  | 
-| [Turó del Mal Pas](https://www.feec.cat/activitats/100-cims/cim/turo-del-mal-pas/) | Bages | 755|  | 
+| [Turó del Mal Pas](https://www.feec.cat/activitats/100-cims/cim/turo-del-mal-pas/) | Bages | 755| :white_check_mark: | 
 | [Turó del Pou d'en Sala](https://www.feec.cat/activitats/100-cims/cim/turo-del-pou-den-sala/) | Osona | 1265|  | 
-| [Turó del Ros](https://www.feec.cat/activitats/100-cims/cim/turo-del-ros/) | Vallès Occidental | 635|  | 
+| [Turó del Ros](https://www.feec.cat/activitats/100-cims/cim/turo-del-ros/) | Vallès Occidental | 635| :white_check_mark: | 
 | [Turó del Samont](https://www.feec.cat/activitats/100-cims/cim/turo-del-samont/) | Vallès Oriental | 1273| :white_check_mark: | 
 | [Turó del Vent](https://www.feec.cat/activitats/100-cims/cim/turo-del-vent/) | Selva | 442|  | 
 | [Volcà del Croscat](https://www.feec.cat/activitats/100-cims/cim/volca-del-croscat/) | Garrotxa | 789| :white_check_mark: | 

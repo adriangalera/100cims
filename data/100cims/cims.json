@@ -2832,7 +2832,7 @@
         "lat": "42.712633",
         "lng": "0.991789",
         "link": "https://www.feec.cat/activitats/100-cims/cim/tuc-de-baciver/",
-        "fet": false
+        "fet": true
     },
     {
         "area": "Val d'Aran",
