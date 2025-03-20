@@ -88,7 +88,7 @@ def mendikat_cims_fets(cims, fets):
         elif len(founds) > 1:
             found_candidate = False
             msg = [str(found["name"] + " " + str(found["height"]))
-                for found in founds]
+                   for found in founds]
             # Extract height
             height_txt = text_between(remove_text_between(
                 fet), char_start='[', char_end=']')
@@ -107,9 +107,34 @@ def mendikat_cims_fets(cims, fets):
             founds[0]["fet"] = True
 
 
+def generate_geojson(cims):
+    geojson = {
+        "type": "FeatureCollection",
+        "features": []
+    }
+
+    for cim in cims:
+        cimgeojson = {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [cim["lng"], cim["lat"]]
+            },
+            "properties": {
+                "flag": cim["fet"],
+                "link": cim["link"]
+            }
+        }
+        geojson["features"].append(cimgeojson)
+
+    return geojson
+
+
 if __name__ == '__main__':
     cims = load_mendikat_cims()
     fets = load_fets()
     mendikat_cims_fets(cims, fets)
     with open("data/mendikat/cims.json", 'w') as cims_fd:
         json.dump(cims, cims_fd, indent=4)
+    with open("data/mendikat/cims.geojson", 'w') as cims_fd:
+        json.dump(generate_geojson(cims), cims_fd)

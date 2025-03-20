@@ -38,6 +38,29 @@ def load_cims_extra():
     return cims_by_link
 
 
+def generate_geojson(cims):
+    geojson = {
+        "type": "FeatureCollection",
+        "features": []
+    }
+
+    for cim in cims:
+        cimgeojson = {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [cim["lng"], cim["lat"]]
+            },
+            "properties": {
+                "flag": cim["fet"],
+                "link": cim["link"]
+            }
+        }
+        geojson["features"].append(cimgeojson)
+
+    return geojson
+
+
 def cent_cims_fets(cims, fets):
     cims_name_lower = [c["name"].lower() for c in cims]
     fets_lower = [f.lower() for f in fets]
@@ -67,3 +90,6 @@ if __name__ == '__main__':
 
     with open("data/100cims/cims.json", 'w') as cims_fd:
         json.dump(cims, cims_fd, indent=4)
+
+    with open("data/100cims/cims.geojson", 'w') as cims_fd:
+        json.dump(generate_geojson(cims), cims_fd)
