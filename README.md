@@ -384,7 +384,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Sant Sadurní de Gallifa](https://www.feec.cat/activitats/100-cims/cim/sant-sadurni-de-gallifa/) | Vallès Occidental | 942| :white_check_mark: | 
 | [Sant Salvador](https://www.feec.cat/activitats/100-cims/cim/sant-salvador/) | Berguedà | 1157|  | 
 | [Sant Salvador de les Espases](https://www.feec.cat/activitats/100-cims/cim/sant-salvador-de-les-espases/) | Baix Llobregat, Vallès Occidental | 413| :white_check_mark: | 
-| [Sant Simplici](https://www.feec.cat/activitats/100-cims/cim/sant-simplici/) | Tarragonès | 110|  | 
+| [Sant Simplici](https://www.feec.cat/activitats/100-cims/cim/sant-simplici/) | Tarragonès | 110| :white_check_mark: | 
 | [Santa Anna dels Quatre Termes](https://www.feec.cat/activitats/100-cims/cim/santa-anna-dels-quatre-termes/) | Conflent, Rosselló | 1348|  | 
 | [Santa Bàrbara](https://www.feec.cat/activitats/100-cims/cim/santa-barbara/) | Terra Alta | 752|  | 
 | [Santa Bàrbara (Escornalbou)](https://www.feec.cat/activitats/100-cims/cim/santa-barbara-escornalbou/) | Baix Camp | 641|  | 

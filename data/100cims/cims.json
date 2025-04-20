@@ -4308,7 +4308,7 @@
         "lat": "41.144903",
         "lng": "1.337035",
         "link": "https://www.feec.cat/activitats/100-cims/cim/sant-simplici/",
-        "fet": false
+        "fet": true
     },
     {
         "area": "Terra Alta",
