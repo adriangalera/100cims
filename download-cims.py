@@ -63,7 +63,7 @@ def download_mendikat():
             "/")[-1].replace(" ", "-").lower()
         new_file = f"raw-data/mendikat/{area}.gpx"
         os.system(f"unzip -q \"{zip_file}\" -d raw-data/mendikat/")
-        os.system(f"mv raw-data/mendikat/mendikat-waypoints.gpx {new_file}")
+        os.system(f"mv raw-data/mendikat/waypoints.gpx {new_file}")
 
 
 def download_feec_data():

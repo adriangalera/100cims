@@ -101,7 +101,6 @@ https://www.feec.cat/activitats/100-cims/
 | [La Tossa (Tivissa)](https://www.feec.cat/activitats/100-cims/cim/la-tossa-tivissa/) | Ribera d'Ebre | 718|  | 
 | [Les Agudes](https://www.feec.cat/activitats/100-cims/cim/les-agudes/) | Selva, Vallès Oriental | 1705| :white_check_mark: | 
 | [Les Borregues](https://www.feec.cat/activitats/100-cims/cim/les-borregues/) | Ripollès | 2693|  | 
-| [Les Picòssies](https://www.feec.cat/activitats/100-cims/cim/roca-de-la-barca-les-picossies/) | Baix Ebre, Ribera d'Ebre | 772|  | 
 | [Les Piques](https://www.feec.cat/activitats/100-cims/cim/les-piques/) | Alt Urgell | 1969|  | 
 | [Lo Corronco](https://www.feec.cat/activitats/100-cims/cim/lo-corrunco/) | Alta Ribagorça | 2543|  | 
 | [Lo Tormo (Lo piló)](https://www.feec.cat/activitats/100-cims/cim/lo-tormo/) | Ribera d'Ebre | 523|  | 
@@ -177,6 +176,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Pic de Baborte](https://www.feec.cat/activitats/100-cims/cim/pic-de-baborte/) | Pallars Sobirà | 2934|  | 
 | [Pic de Baixollada](https://www.feec.cat/activitats/100-cims/cim/pic-de-baixollada/) | Capcir | 2546|  | 
 | [Pic de Cabanyó](https://www.feec.cat/activitats/100-cims/cim/pic-de-cabanyo/) | Andorra | 2732|  | 
+| [Pic de Calm Colomer (tosseta de l'Esquella)](https://www.feec.cat/activitats/100-cims/cim/tosseta-de-lesquella-pic-de-calm-colomer/) | Cerdanya, Cerdanya Nord | 2869|  | 
 | [Pic de Canalbona](https://www.feec.cat/activitats/100-cims/cim/pic-de-canalbona/) | Pallars Sobirà | 2965|  | 
 | [Pic de Cataperdís](https://www.feec.cat/activitats/100-cims/cim/pic-de-cataperdis/) | Andorra | 2805|  | 
 | [Pic de Certascan](https://www.feec.cat/activitats/100-cims/cim/pic-de-certascan/) | Pallars Sobirà | 2853| :white_check_mark: | 
@@ -324,6 +324,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Punta d'Ossos](https://www.feec.cat/activitats/100-cims/cim/punta-dossos/) | Noguera | 1014|  | 
 | [Punta de Montmeneu](https://www.feec.cat/activitats/100-cims/cim/montmeneu/) | Segrià | 495|  | 
 | [Punta de l'Aigua](https://www.feec.cat/activitats/100-cims/cim/punta-de-laigua/) | Baix Ebre, Terra Alta | 1092|  | 
+| [Punta de les Picòssies](https://www.feec.cat/activitats/100-cims/cim/roca-de-la-barca-les-picossies/) | Baix Ebre, Ribera d'Ebre | 772|  | 
 | [Punta del Curull](https://www.feec.cat/activitats/100-cims/cim/punta-del-curull/) | Conca de Barberà, Garrigues | 1022|  | 
 | [Punta del General](https://www.feec.cat/activitats/100-cims/cim/punta-del-general/) | Garrigues, Priorat | 923|  | 
 | [Punta del Pallars](https://www.feec.cat/activitats/100-cims/cim/punta-del-pallars/) | Baix Camp | 551|  | 
@@ -450,7 +451,6 @@ https://www.feec.cat/activitats/100-cims/
 | [Tossal dels Tres Reis](https://www.feec.cat/activitats/100-cims/cim/tossal-dels-tres-reis/) | Montsià | 1350|  | 
 | [Tossau de Mar](https://www.feec.cat/activitats/100-cims/cim/tossau-de-mar/) | Val d'Aran | 2750|  | 
 | [Tosseta Rasa](https://www.feec.cat/activitats/100-cims/cim/tosseta-rasa/) | Baix Ebre, Terra Alta | 1217|  | 
-| [Tosseta de l'Esquella (Pic de Calm Colomer)](https://www.feec.cat/activitats/100-cims/cim/tosseta-de-lesquella-pic-de-calm-colomer/) | Cerdanya, Cerdanya Nord | 2869|  | 
 | [Tristaina](https://www.feec.cat/activitats/100-cims/cim/tristaina/) | Andorra | 2878|  | 
 | [Tuc Dormidor](https://www.feec.cat/activitats/100-cims/cim/tuc-dormidor/) | Conflent | 1843|  | 
 | [Tuc Gran dera Sendrosa](https://www.feec.cat/activitats/100-cims/cim/tuc-gran-dera-sendrosa/) | Val d'Aran | 2703|  | 

@@ -387,6 +387,15 @@
         "fet": false
     },
     {
+        "name": "Pic de la Roia de Molla\u0300s",
+        "lat": 42.716376850989,
+        "lng": 1.1923065160591,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23626",
+        "height": 2644.0,
+        "fet": false
+    },
+    {
         "name": "Pic de les Planes",
         "lat": 42.645271774075,
         "lng": 1.5066319779964,
@@ -1071,6 +1080,15 @@
         "fet": false
     },
     {
+        "name": "Castell de Geli's",
+        "lat": 41.867381774827,
+        "lng": 0.85040686701863,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23650",
+        "height": 504.0,
+        "fet": false
+    },
+    {
         "name": "Castell de Sant Ali's",
         "lat": 42.039830098932,
         "lng": 0.76650817183055,
@@ -1665,6 +1683,15 @@
         "fet": false
     },
     {
+        "name": "La Proa",
+        "lat": 41.902932213798,
+        "lng": 0.87865386396069,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23656",
+        "height": 715.0,
+        "fet": false
+    },
+    {
         "name": "Lac To\u0300rt, Tossau deth",
         "lat": 42.619484078234,
         "lng": 0.81300608022946,
@@ -1935,6 +1962,15 @@
         "fet": false
     },
     {
+        "name": "Monter\u00f3",
+        "lat": 41.862854568534,
+        "lng": 0.85296816652991,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23649",
+        "height": 574.0,
+        "fet": false
+    },
+    {
         "name": "Montessor",
         "lat": 41.920308337521,
         "lng": 0.65701827101108,
@@ -2084,7 +2120,7 @@
         "lng": 0.94349476498337,
         "area": "",
         "link": "https://www.mendikat.net/com/mount/10296",
-        "height": 2812.0,
+        "height": 2814.0,
         "fet": false
     },
     {
@@ -2112,6 +2148,15 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/10460",
         "height": 2863.0,
+        "fet": false
+    },
+    {
+        "name": "Muntanya de Narg\u00f3",
+        "lat": 42.191651765339,
+        "lng": 1.2965092390422,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23647",
+        "height": 1213.0,
         "fet": false
     },
     {
@@ -2358,6 +2403,15 @@
         "fet": false
     },
     {
+        "name": "Pic de la Gallina",
+        "lat": 42.701144351454,
+        "lng": 1.1761075098263,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23624",
+        "height": 2757.0,
+        "fet": false
+    },
+    {
         "name": "Pic de Mar",
         "lat": 42.538569357733,
         "lng": 0.99852840838211,
@@ -2547,6 +2601,15 @@
         "fet": false
     },
     {
+        "name": "Pui de Cassibr\u00f3s",
+        "lat": 42.560670785551,
+        "lng": 1.2647957121052,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23622",
+        "height": 2085.0,
+        "fet": false
+    },
+    {
         "name": "Pui de Llera's",
         "lat": 42.26923872733,
         "lng": 0.85257493371964,
@@ -2598,6 +2661,15 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/13347",
         "height": 2768.0,
+        "fet": false
+    },
+    {
+        "name": "Punta d'O'ssos",
+        "lat": 41.949783640818,
+        "lng": 0.63238942442536,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23621",
+        "height": 1014.0,
         "fet": false
     },
     {
@@ -2725,6 +2797,15 @@
         "link": "https://www.mendikat.net/com/mount/13075",
         "height": 2667.0,
         "fet": true
+    },
+    {
+        "name": "Roca de Canalda",
+        "lat": 42.130328272812,
+        "lng": 1.5078288770991,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23642",
+        "height": 1691.0,
+        "fet": false
     },
     {
         "name": "Roca de Migjorn",
@@ -3165,6 +3246,15 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/15263",
         "height": 1593.0,
+        "fet": false
+    },
+    {
+        "name": "Tossal de Sant Jordi",
+        "lat": 41.899043796035,
+        "lng": 0.89246480018583,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23655",
+        "height": 740.0,
         "fet": false
     },
     {
@@ -3745,20 +3835,20 @@
     },
     {
         "name": "A'guila, Punta del",
-        "lat": 42.721247664794,
-        "lng": -0.43982670416845,
-        "area": "",
-        "link": "https://www.mendikat.net/com/mount/3735",
-        "height": 2681.0,
-        "fet": false
-    },
-    {
-        "name": "A'guila, Punta del",
         "lat": 42.31083655857,
         "lng": -0.40356377566953,
         "area": "",
         "link": "https://www.mendikat.net/com/mount/14805",
         "height": 1631.0,
+        "fet": false
+    },
+    {
+        "name": "A'guila, Punta del",
+        "lat": 42.721247664794,
+        "lng": -0.43982670416845,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/3735",
+        "height": 2681.0,
         "fet": false
     },
     {
@@ -4266,6 +4356,15 @@
         "fet": false
     },
     {
+        "name": "Armentadoia",
+        "lat": 42.828093753339,
+        "lng": -0.85391364654642,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23253",
+        "height": 1608.0,
+        "fet": false
+    },
+    {
         "name": "Arna",
         "lat": 42.765420126014,
         "lng": -0.27518549062106,
@@ -4591,8 +4690,8 @@
     },
     {
         "name": "Baldaira'n",
-        "lat": 42.728721413716,
-        "lng": -0.20333940161539,
+        "lat": 42.728716494366,
+        "lng": -0.20334940044867,
         "area": "",
         "link": "https://www.mendikat.net/com/mount/9225",
         "height": 2702.0,
@@ -4897,8 +4996,8 @@
     },
     {
         "name": "Bernatuara",
-        "lat": 42.720558665555,
-        "lng": -0.10647243222794,
+        "lat": 42.720554385115,
+        "lng": -0.1064822576741,
         "area": "",
         "link": "https://www.mendikat.net/com/mount/9732",
         "height": 2516.0,
@@ -5841,6 +5940,15 @@
         "fet": false
     },
     {
+        "name": "Cerro Ciello",
+        "lat": 42.558828043183,
+        "lng": -0.52469455806411,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23096",
+        "height": 915.0,
+        "fet": false
+    },
+    {
         "name": "Cerro Paquiza",
         "lat": 42.33775371254,
         "lng": -0.63050572709407,
@@ -5923,8 +6031,8 @@
     },
     {
         "name": "Chornaleras",
-        "lat": 42.698633964771,
-        "lng": -0.19109174011884,
+        "lat": 42.69862910406,
+        "lng": -0.19110136164849,
         "area": "",
         "link": "https://www.mendikat.net/com/mount/9928",
         "height": 2615.0,
@@ -6210,6 +6318,15 @@
         "fet": false
     },
     {
+        "name": "Contienda, La",
+        "lat": 42.888002595457,
+        "lng": -0.81393625929538,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/4169",
+        "height": 1556.0,
+        "fet": false
+    },
+    {
         "name": "Corcurezo, Punta del",
         "lat": 42.291593279269,
         "lng": -0.25573370163833,
@@ -6225,6 +6342,15 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/9282",
         "height": 3266.0,
+        "fet": false
+    },
+    {
+        "name": "Cord\u00f3n de La Zapatilla",
+        "lat": 42.773537162272,
+        "lng": -0.55550190404591,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23606",
+        "height": 2252.0,
         "fet": false
     },
     {
@@ -6765,6 +6891,15 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/1057",
         "height": 1401.0,
+        "fet": false
+    },
+    {
+        "name": "El Azu's",
+        "lat": 42.69702030998,
+        "lng": -0.50239944862407,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23706",
+        "height": 1787.0,
         "fet": false
     },
     {
@@ -8749,8 +8884,8 @@
     },
     {
         "name": "Lavaza",
-        "lat": 42.764070332856,
-        "lng": -0.20157516862986,
+        "lat": 42.76374230504,
+        "lng": -0.20178547690021,
         "area": "",
         "link": "https://www.mendikat.net/com/mount/9962",
         "height": 2767.0,
@@ -8979,6 +9114,24 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/14801",
         "height": 1496.0,
+        "fet": false
+    },
+    {
+        "name": "Loma Verde",
+        "lat": 42.775804123388,
+        "lng": -0.56046097438901,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23605",
+        "height": 2129.0,
+        "fet": false
+    },
+    {
+        "name": "Lopet\u00f3n, Alto de",
+        "lat": 42.76604570967,
+        "lng": -0.85753654143618,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23447",
+        "height": 1194.0,
         "fet": false
     },
     {
@@ -9414,6 +9567,15 @@
         "fet": false
     },
     {
+        "name": "Marc\u00f3n Occ.",
+        "lat": 42.826248445376,
+        "lng": -0.79333564337909,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23529",
+        "height": 2027.0,
+        "fet": false
+    },
+    {
         "name": "Margalida",
         "lat": 42.624598106244,
         "lng": 0.66607337085922,
@@ -9807,6 +9969,15 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/9952",
         "height": 1957.0,
+        "fet": false
+    },
+    {
+        "name": "Mondoto S",
+        "lat": 42.580949482545,
+        "lng": 0.045983648663745,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23699",
+        "height": 1944.0,
         "fet": false
     },
     {
@@ -10639,6 +10810,15 @@
     },
     {
         "name": "Pen\u0303a Blanca",
+        "lat": 42.682735341098,
+        "lng": 0.32143424745189,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/12625",
+        "height": 2685.0,
+        "fet": false
+    },
+    {
+        "name": "Pen\u0303a Blanca",
         "lat": 42.74508769943,
         "lng": -0.53610969204088,
         "area": "",
@@ -10653,15 +10833,6 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/3616",
         "height": 2314.0,
-        "fet": false
-    },
-    {
-        "name": "Pen\u0303a Blanca",
-        "lat": 42.682735341098,
-        "lng": 0.32143424745189,
-        "area": "",
-        "link": "https://www.mendikat.net/com/mount/12625",
-        "height": 2685.0,
         "fet": false
     },
     {
@@ -11385,6 +11556,15 @@
         "fet": false
     },
     {
+        "name": "Pico de Escoueste",
+        "lat": 42.913188353017,
+        "lng": -0.73656438524671,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23494",
+        "height": 2206.0,
+        "fet": false
+    },
+    {
         "name": "Pico de l' Ibonet",
         "lat": 42.711421397414,
         "lng": 0.26080791547309,
@@ -11688,6 +11868,15 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/3671",
         "height": 2358.0,
+        "fet": false
+    },
+    {
+        "name": "Pil\u00f3n, Punta del",
+        "lat": 42.588129657785,
+        "lng": -0.19138002525554,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23598",
+        "height": 1962.0,
         "fet": false
     },
     {
@@ -12030,6 +12219,15 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/2932",
         "height": 1994.0,
+        "fet": false
+    },
+    {
+        "name": "Pueyo, El",
+        "lat": 42.035754799129,
+        "lng": 0.056045860441186,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23748",
+        "height": 602.0,
         "fet": false
     },
     {
@@ -12709,8 +12907,8 @@
     },
     {
         "name": "Punta Superior de Tapou",
-        "lat": 42.764376222746,
-        "lng": -0.13658490466264,
+        "lat": 42.764371774346,
+        "lng": -0.13659529035578,
         "area": "",
         "link": "https://www.mendikat.net/com/mount/9314",
         "height": 3136.0,
@@ -13105,8 +13303,8 @@
     },
     {
         "name": "Ronata, Pen\u0303a",
-        "lat": 42.600284502083,
-        "lng": -0.20102750103642,
+        "lat": 42.600279498447,
+        "lng": -0.20103592952152,
         "area": "",
         "link": "https://www.mendikat.net/com/mount/9731",
         "height": 1943.0,
@@ -13267,20 +13465,20 @@
     },
     {
         "name": "San Crist\u00f3bal",
-        "lat": 42.352467597723,
-        "lng": 0.23161272369062,
-        "area": "",
-        "link": "https://www.mendikat.net/com/mount/9198",
-        "height": 1029.0,
-        "fet": false
-    },
-    {
-        "name": "San Crist\u00f3bal",
         "lat": 42.350598214064,
         "lng": -0.71085006113966,
         "area": "",
         "link": "https://www.mendikat.net/com/mount/10294",
         "height": 1173.0,
+        "fet": false
+    },
+    {
+        "name": "San Crist\u00f3bal",
+        "lat": 42.352467597723,
+        "lng": 0.23161272369062,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/9198",
+        "height": 1029.0,
         "fet": false
     },
     {
@@ -13371,6 +13569,15 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/9798",
         "height": 1126.0,
+        "fet": false
+    },
+    {
+        "name": "San Mitiel",
+        "lat": 42.235989323212,
+        "lng": -0.67702446504279,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23746",
+        "height": 675.0,
         "fet": false
     },
     {
@@ -13533,6 +13740,15 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/16692",
         "height": 1935.0,
+        "fet": false
+    },
+    {
+        "name": "Saso Plano",
+        "lat": 42.140525075827,
+        "lng": -0.57756923634986,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23743",
+        "height": 604.0,
         "fet": false
     },
     {
@@ -13950,7 +14166,7 @@
         "fet": false
     },
     {
-        "name": "Somport, Alto de",
+        "name": "Somport, Pen\u0303a de",
         "lat": 42.79357052851,
         "lng": -0.52772827389837,
         "area": "",
@@ -14446,20 +14662,20 @@
     },
     {
         "name": "Tozal del Mallo",
-        "lat": 42.738179523157,
-        "lng": -0.24466748978768,
-        "area": "",
-        "link": "https://www.mendikat.net/com/mount/10629",
-        "height": 1909.0,
-        "fet": false
-    },
-    {
-        "name": "Tozal del Mallo",
         "lat": 42.662075359085,
         "lng": -0.07448673446574,
         "area": "",
         "link": "https://www.mendikat.net/com/mount/9605",
         "height": 2254.0,
+        "fet": false
+    },
+    {
+        "name": "Tozal del Mallo",
+        "lat": 42.738179523157,
+        "lng": -0.24466748978768,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/10629",
+        "height": 1909.0,
         "fet": false
     },
     {
@@ -14841,6 +15057,15 @@
         "fet": false
     },
     {
+        "name": "Tuca del Ubago de Vallibierna",
+        "lat": 42.615294481338,
+        "lng": 0.57883367192511,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23648",
+        "height": 2508.0,
+        "fet": false
+    },
+    {
         "name": "Tuca del Xinebro",
         "lat": 42.632951628769,
         "lng": 0.49503739659908,
@@ -15103,8 +15328,8 @@
     },
     {
         "name": "Urralegi",
-        "lat": 42.823547053895,
-        "lng": -0.85491507069622,
+        "lat": 42.823734137026,
+        "lng": -0.85528782605156,
         "area": "",
         "link": "https://www.mendikat.net/com/mount/1447",
         "height": 1656.0,
@@ -15288,6 +15513,33 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/3329",
         "height": 2009.0,
+        "fet": false
+    },
+    {
+        "name": "Zonarre",
+        "lat": 42.771786396869,
+        "lng": -0.85777861833442,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23448",
+        "height": 1150.0,
+        "fet": false
+    },
+    {
+        "name": "Zonarre NE",
+        "lat": 42.778013771406,
+        "lng": -0.85323654176947,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23451",
+        "height": 1157.0,
+        "fet": false
+    },
+    {
+        "name": "Zordoqui, Puntas de",
+        "lat": 42.791964298503,
+        "lng": -0.84997874799022,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23429",
+        "height": 1509.0,
         "fet": false
     },
     {
@@ -16686,6 +16938,15 @@
         "fet": false
     },
     {
+        "name": "Fornells, Punta de",
+        "lat": 41.084353423021,
+        "lng": 0.87106402852588,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23688",
+        "height": 860.0,
+        "fet": false
+    },
+    {
         "name": "Gallicant, Puig de",
         "lat": 41.249445600748,
         "lng": 0.96061406639143,
@@ -16785,6 +17046,24 @@
         "fet": false
     },
     {
+        "name": "La Sella",
+        "lat": 41.312799625072,
+        "lng": 0.81956474810244,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23660",
+        "height": 777.0,
+        "fet": false
+    },
+    {
+        "name": "La Tenda",
+        "lat": 40.621315123485,
+        "lng": 0.53579388498339,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23733",
+        "height": 731.0,
+        "fet": false
+    },
+    {
         "name": "La Tossa",
         "lat": 41.028937547723,
         "lng": 0.73625581474122,
@@ -16800,6 +17079,15 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/14777",
         "height": 553.0,
+        "fet": false
+    },
+    {
+        "name": "La Trencada",
+        "lat": 40.625165897052,
+        "lng": 0.53896243016553,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23728",
+        "height": 730.0,
         "fet": false
     },
     {
@@ -17091,6 +17379,15 @@
         "fet": false
     },
     {
+        "name": "Palleret del Teix",
+        "lat": 40.617852223414,
+        "lng": 0.53349796669981,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23738",
+        "height": 738.0,
+        "fet": false
+    },
+    {
         "name": "Pallers, Els",
         "lat": 40.792499077112,
         "lng": 0.32586292005605,
@@ -17250,6 +17547,15 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/10619",
         "height": 993.0,
+        "fet": false
+    },
+    {
+        "name": "Punta de Mo\u0300necs",
+        "lat": 41.313950346779,
+        "lng": 0.81091322548537,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23659",
+        "height": 750.0,
         "fet": false
     },
     {
@@ -17511,6 +17817,15 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/9254",
         "height": 1351.0,
+        "fet": false
+    },
+    {
+        "name": "Aiats",
+        "lat": 42.063796108119,
+        "lng": 2.4293345601224,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23643",
+        "height": 1312.0,
         "fet": false
     },
     {
@@ -18108,6 +18423,15 @@
         "fet": false
     },
     {
+        "name": "Pedra dels Tres Bisbats",
+        "lat": 42.294192194712,
+        "lng": 2.2783550036901,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23628",
+        "height": 1899.0,
+        "fet": false
+    },
+    {
         "name": "Pedra Picada",
         "lat": 42.296098009727,
         "lng": 2.050612312047,
@@ -18177,6 +18501,15 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/10692",
         "height": 1543.0,
+        "fet": false
+    },
+    {
+        "name": "Puig de la Bastida",
+        "lat": 42.069326019155,
+        "lng": 2.4275081265907,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23644",
+        "height": 1239.0,
         "fet": false
     },
     {
@@ -18815,7 +19148,7 @@
         "lng": 1.5746208223054,
         "area": "",
         "link": "https://www.mendikat.net/com/mount/10525",
-        "height": 863.0,
+        "height": 848.0,
         "fet": false
     },
     {
@@ -18945,6 +19278,24 @@
         "fet": false
     },
     {
+        "name": "El Corredor",
+        "lat": 41.631037242765,
+        "lng": 2.4732902308144,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23623",
+        "height": 647.0,
+        "fet": false
+    },
+    {
+        "name": "El Sui",
+        "lat": 41.749085807454,
+        "lng": 2.3456285411826,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23631",
+        "height": 1319.0,
+        "fet": false
+    },
+    {
         "name": "Els Munts",
         "lat": 42.078645460614,
         "lng": 2.1520854315557,
@@ -19035,6 +19386,15 @@
         "fet": false
     },
     {
+        "name": "La Desfeta",
+        "lat": 41.317375630288,
+        "lng": 1.9454993510812,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23658",
+        "height": 525.0,
+        "fet": false
+    },
+    {
         "name": "La Mola",
         "lat": 41.641307465179,
         "lng": 2.0179580226718,
@@ -19068,6 +19428,15 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/10597",
         "height": 1127.0,
+        "fet": false
+    },
+    {
+        "name": "Miranda del Pri'ncep",
+        "lat": 41.604891216686,
+        "lng": 1.7927808607993,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23646",
+        "height": 993.0,
         "fet": false
     },
     {
@@ -19332,12 +19701,30 @@
         "fet": false
     },
     {
+        "name": "Puig de les Agulles",
+        "lat": 41.309108675309,
+        "lng": 1.9349527583738,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23657",
+        "height": 552.0,
+        "fet": false
+    },
+    {
         "name": "Puig de Sant Miquel",
         "lat": 41.637229365448,
         "lng": 1.5809730117697,
         "area": "",
         "link": "https://www.mendikat.net/com/mount/10608",
         "height": 734.0,
+        "fet": false
+    },
+    {
+        "name": "Puig Drau",
+        "lat": 41.764133867495,
+        "lng": 2.3483388747381,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23630",
+        "height": 1345.0,
         "fet": false
     },
     {
@@ -21060,6 +21447,15 @@
         "fet": false
     },
     {
+        "name": "Moustarde' W",
+        "lat": 42.827706933373,
+        "lng": -0.40845977330884,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23700",
+        "height": 2054.0,
+        "fet": false
+    },
+    {
         "name": "Navailho",
         "lat": 43.005216582666,
         "lng": -0.22550095512147,
@@ -22275,6 +22671,15 @@
         "fet": false
     },
     {
+        "name": "Causiat",
+        "lat": 42.785110971175,
+        "lng": -0.55057185788798,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23607",
+        "height": 1668.0,
+        "fet": false
+    },
+    {
         "name": "Ce'zy, Pic de",
         "lat": 42.922705474357,
         "lng": -0.41085018836695,
@@ -22461,6 +22866,15 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/13970",
         "height": 1945.0,
+        "fet": false
+    },
+    {
+        "name": "Golocha de Esper",
+        "lat": 42.782928034271,
+        "lng": -0.55882416812478,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23604",
+        "height": 1879.0,
         "fet": false
     },
     {
@@ -22749,6 +23163,15 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/2512",
         "height": 1625.0,
+        "fet": false
+    },
+    {
+        "name": "Le Pouey",
+        "lat": 42.977913287293,
+        "lng": -0.59487664649583,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23576",
+        "height": 652.0,
         "fet": false
     },
     {
@@ -24237,16 +24660,34 @@
         "fet": false
     },
     {
+        "name": "Soumcuy N",
+        "lat": 42.959794391576,
+        "lng": -0.71696860648947,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23468",
+        "height": 2246.0,
+        "fet": false
+    },
+    {
+        "name": "Soumcuy, Arre du",
+        "lat": 42.962257045783,
+        "lng": -0.72623224640277,
+        "area": "",
+        "link": "https://www.mendikat.net/com/mount/23458",
+        "height": 2085.0,
+        "fet": false
+    },
+    {
         "name": "Soumcuy",
-        "lat": 42.955921935352,
-        "lng": -0.7210102697904,
+        "lat": 42.956355273192,
+        "lng": -0.72061423209374,
         "area": "",
         "link": "https://www.mendikat.net/com/mount/1625",
         "height": 2315.0,
         "fet": false
     },
     {
-        "name": "Souperret",
+        "name": "Souperet",
         "lat": 42.838034236639,
         "lng": -0.58116297275457,
         "area": "",
