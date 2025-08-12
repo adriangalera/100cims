@@ -3696,7 +3696,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/8432",
         "height": 2374.0,
-        "fet": false
+        "fet": true
     },
     {
         "name": "Acue'",
@@ -5172,7 +5172,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/17429",
         "height": 2343.0,
-        "fet": false
+        "fet": true
     },
     {
         "name": "Buitrera, Pen\u0303a",
@@ -8169,7 +8169,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/1086",
         "height": 2446.0,
-        "fet": false
+        "fet": true
     },
     {
         "name": "Hito Occidental Perdiguero",
@@ -15918,7 +15918,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/22324",
         "height": 2683.0,
-        "fet": false
+        "fet": true
     },
     {
         "name": "Pic de les Abelletes",
@@ -17619,7 +17619,7 @@
         "area": "",
         "link": "https://www.mendikat.net/com/mount/14468",
         "height": 72.0,
-        "fet": false
+        "fet": true
     },
     {
         "name": "Cap Roig",
