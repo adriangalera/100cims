@@ -288,7 +288,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Puig de la Caritat](https://www.feec.cat/activitats/100-cims/cim/puig-de-la-caritat/) | Moianès | 1010|  | 
 | [Puig de la Collada Verda](https://www.feec.cat/activitats/100-cims/cim/puig-de-la-collada-verda/) | Conflent, Vallespir | 2403|  | 
 | [Puig de la Cometa](https://www.feec.cat/activitats/100-cims/cim/puig-de-la-cometa/) | Cerdanya Nord | 2763|  | 
-| [Puig de la Cova](https://www.feec.cat/activitats/100-cims/cim/puig-de-la-cova/) | Baix Penedès | 672|  | 
+| [Puig de la Cova](https://www.feec.cat/activitats/100-cims/cim/puig-de-la-cova/) | Baix Penedès | 672| :white_check_mark: | 
 | [Puig de la Creu](https://www.feec.cat/activitats/100-cims/cim/puig-de-la-creu/) | Vallès Occidental | 668| :white_check_mark: | 
 | [Puig de la Força](https://www.feec.cat/activitats/100-cims/cim/puig-de-la-forca/) | Osona | 740| :white_check_mark: | 
 | [Puig de la Gavarra](https://www.feec.cat/activitats/100-cims/cim/puig-de-la-gavarra/) | Alt Empordà | 1057|  | 
@@ -417,7 +417,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Torreta de l'Orri](https://www.feec.cat/activitats/100-cims/cim/torreta-de-lorri/) | Pallars Sobirà | 2436|  | 
 | [Torreta del Cadí](https://www.feec.cat/activitats/100-cims/cim/torreta-del-cadi/) | Alt Urgell | 2562|  | 
 | [Torreta del Montsià](https://www.feec.cat/activitats/100-cims/cim/torreta-del-montsia/) | Montsià | 763|  | 
-| [Tossa Grossa de Montferri](https://www.feec.cat/activitats/100-cims/cim/tossa-grossa-de-montferri/) | Alt Camp | 387|  | 
+| [Tossa Grossa de Montferri](https://www.feec.cat/activitats/100-cims/cim/tossa-grossa-de-montferri/) | Alt Camp | 387| :white_check_mark: | 
 | [Tossa Plana de Lles (pic de la Portelleta)](https://www.feec.cat/activitats/100-cims/cim/tossa-plana-de-lles-pic-de-la-portelleta/) | Andorra, Cerdanya | 2905|  | 
 | [Tossa d'Espinau](https://www.feec.cat/activitats/100-cims/cim/tossa-despinau/) | Alt Empordà, Garrotxa | 1087|  | 
 | [Tossa del Braibal](https://www.feec.cat/activitats/100-cims/cim/tosa-del-braibal/) | Andorra | 2657|  | 
