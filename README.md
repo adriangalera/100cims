@@ -249,7 +249,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Puig Cubell](https://www.feec.cat/activitats/100-cims/cim/puig-cubell/) | Garrotxa, Osona | 1488|  | 
 | [Puig Estela](https://www.feec.cat/activitats/100-cims/cim/puig-estela/) | Ripollès | 2013|  | 
 | [Puig Falcó](https://www.feec.cat/activitats/100-cims/cim/puig-falco/) | Alt Empordà | 1097|  | 
-| [Puig Francàs](https://www.feec.cat/activitats/100-cims/cim/puig-francas/) | Baix Penedès | 551|  | 
+| [Puig Francàs](https://www.feec.cat/activitats/100-cims/cim/puig-francas/) | Baix Penedès | 551| :white_check_mark: | 
 | [Puig Gros](https://www.feec.cat/activitats/100-cims/cim/puig-gros/) | Baix Empordà | 325|  | 
 | [Puig Madrona](https://www.feec.cat/activitats/100-cims/cim/puig-madrona/) | Baix Llobregat, Vallès Occidental | 341| :white_check_mark: | 
 | [Puig Neulós](https://www.feec.cat/activitats/100-cims/cim/puig-neulos/) | Alt Empordà, Rosselló | 1257|  | 
