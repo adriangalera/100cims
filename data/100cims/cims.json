@@ -3273,7 +3273,7 @@
         "lat": "41.861259",
         "lng": "1.938720",
         "link": "https://www.feec.cat/activitats/100-cims/cim/el-garrofi/",
-        "fet": false
+        "fet": true
     },
     {
         "area": "Baix Camp",

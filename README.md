@@ -506,7 +506,7 @@ https://www.feec.cat/activitats/100-cims/
 | [el Bres](https://www.feec.cat/activitats/100-cims/cim/el-bres/) | Baix Camp | 525|  | 
 | [el Codó](https://www.feec.cat/activitats/100-cims/cim/el-codo/) | Pallars Jussà | 1327|  | 
 | [el Cogulló](https://www.feec.cat/activitats/100-cims/cim/el-cogullo/) | Noguera | 1002|  | 
-| [el Garrofí](https://www.feec.cat/activitats/100-cims/cim/el-garrofi/) | Bages | 617|  | 
+| [el Garrofí](https://www.feec.cat/activitats/100-cims/cim/el-garrofi/) | Bages | 617| :white_check_mark: | 
 | [el Punxó](https://www.feec.cat/activitats/100-cims/cim/el-punxo/) | Cerdanya Nord | 2581|  | 
 | [el Sui](https://www.feec.cat/activitats/100-cims/cim/el-sui/) | Vallès Oriental | 1319|  | 
 | [els Quatre Mollons](https://www.feec.cat/activitats/100-cims/cim/els-quatre-mollons/) | Montsià | 433|  | 
