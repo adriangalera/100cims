@@ -34,7 +34,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Casamanya Nord](https://www.feec.cat/activitats/100-cims/cim/casamanya-nord/) | Andorra | 2750|  | 
 | [Castell Saverdera](https://www.feec.cat/activitats/100-cims/cim/castell-saverdera/) | Alt Empordà | 682|  | 
 | [Castell de Besora](https://www.feec.cat/activitats/100-cims/cim/castell-de-besora/) | Osona | 1030|  | 
-| [Castell de Bocs](https://www.feec.cat/activitats/100-cims/cim/castell-de-bocs/) | Vallès Occidental | 662|  | 
+| [Castell de Bocs](https://www.feec.cat/activitats/100-cims/cim/castell-de-bocs/) | Vallès Occidental | 662| :white_check_mark: | 
 | [Castell de Boixadors](https://www.feec.cat/activitats/100-cims/cim/castell-de-boixadors/) | Anoia | 848|  | 
 | [Castell de Burriac](https://www.feec.cat/activitats/100-cims/cim/castell-de-burriac/) | Maresme | 392|  | 
 | [Castell de Lluçà](https://www.feec.cat/activitats/100-cims/cim/castell-de-lluca/) | Lluçanès  | 895|  | 
