@@ -495,7 +495,7 @@ https://www.feec.cat/activitats/100-cims/
 | [Turó de l'Escletxa (Turó de Montconill)](https://www.feec.cat/activitats/100-cims/cim/turo-de-lescletxa/) | Bages | 447| :white_check_mark: | 
 | [Turó de l'Home](https://www.feec.cat/activitats/100-cims/cim/turo-de-lhome/) | Vallès Oriental | 1706| :white_check_mark: | 
 | [Turó de la Pola (o de les Tres Creus)](https://www.feec.cat/activitats/100-cims/cim/turo-de-les-tres-creus/) | Bages | 930| :white_check_mark: | 
-| [Turó de la Torre o de Castellnou](https://www.feec.cat/activitats/100-cims/cim/turo-de-la-torre-o-de-castellnou/) | Bages | 624|  | 
+| [Turó de la Torre o de Castellnou](https://www.feec.cat/activitats/100-cims/cim/turo-de-la-torre-o-de-castellnou/) | Bages | 624| :white_check_mark: | 
 | [Turó del Mal Pas](https://www.feec.cat/activitats/100-cims/cim/turo-del-mal-pas/) | Bages | 755| :white_check_mark: | 
 | [Turó del Pou d'en Sala](https://www.feec.cat/activitats/100-cims/cim/turo-del-pou-den-sala/) | Osona | 1265|  | 
 | [Turó del Ros](https://www.feec.cat/activitats/100-cims/cim/turo-del-ros/) | Vallès Occidental | 635| :white_check_mark: | 
